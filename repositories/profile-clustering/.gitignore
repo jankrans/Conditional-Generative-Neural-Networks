@@ -1,0 +1,28 @@
+
+.idea
+archive/spyder/figures/
+__pycache__
+energy_ville/__pycache__/
+.ipynb_checkpoints
+
+# installed package
+*.egg-info
+
+# webapp results 
+energyclustering/webapp/result/
+
+# (mounted) private data
+energyclustering/data/fluvius/data
+
+# some result picutres
+notebooks/real_data_exploration/clustering/pictures/
+notebooks/real_data_exploration/clustering/pictures_30_medoids/
+
+# public data
+energyclustering/data/public/data/
+
+# secret
+energyclustering/secret.py
+clean_notebooks/2022_03_16_sampling_experiments/results/
+
+*.pkl

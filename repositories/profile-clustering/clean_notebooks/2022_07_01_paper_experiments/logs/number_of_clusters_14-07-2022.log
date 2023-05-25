@@ -1,0 +1,1115 @@
+2022-07-14 09:42:06,656 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f01688820>
+2022-07-14 09:42:06,656 - root: Starting fit in elbow method
+2022-07-14 09:42:06,656 - root: Calculating distance matrix
+2022-07-14 09:44:10,510 - root: 3.39 used in distance matrix
+2022-07-14 09:44:10,547 - root: Iteration 0/19 took 0.03701210021972656 for 10 clusters (best_inertia = 52.01)
+2022-07-14 09:44:10,581 - root: Iteration 1/19 took 0.03412818908691406 for 15 clusters (best_inertia = 40.43)
+2022-07-14 09:44:10,624 - root: Iteration 2/19 took 0.042372941970825195 for 20 clusters (best_inertia = 31.84)
+2022-07-14 09:44:10,658 - root: Iteration 3/19 took 0.034113168716430664 for 25 clusters (best_inertia = 26.58)
+2022-07-14 09:44:10,683 - root: Iteration 4/19 took 0.02503037452697754 for 30 clusters (best_inertia = 22.52)
+2022-07-14 09:44:10,716 - root: Iteration 5/19 took 0.03265118598937988 for 35 clusters (best_inertia = 19.64)
+2022-07-14 09:44:10,744 - root: Iteration 6/19 took 0.028654813766479492 for 40 clusters (best_inertia = 17.61)
+2022-07-14 09:44:10,774 - root: Iteration 7/19 took 0.02913069725036621 for 45 clusters (best_inertia = 16.24)
+2022-07-14 09:44:10,804 - root: Iteration 8/19 took 0.030148744583129883 for 50 clusters (best_inertia = 15.16)
+2022-07-14 09:44:10,834 - root: Iteration 9/19 took 0.029611825942993164 for 55 clusters (best_inertia = 14.24)
+2022-07-14 09:44:10,863 - root: Iteration 10/19 took 0.029283761978149414 for 60 clusters (best_inertia = 13.45)
+2022-07-14 09:44:10,892 - root: Iteration 11/19 took 0.029113054275512695 for 65 clusters (best_inertia = 12.81)
+2022-07-14 09:44:10,922 - root: Iteration 12/19 took 0.030407190322875977 for 70 clusters (best_inertia = 12.25)
+2022-07-14 09:44:10,957 - root: Iteration 13/19 took 0.034116268157958984 for 75 clusters (best_inertia = 11.77)
+2022-07-14 09:44:10,994 - root: Iteration 14/19 took 0.03708362579345703 for 80 clusters (best_inertia = 11.32)
+2022-07-14 09:44:11,025 - root: Iteration 15/19 took 0.03154110908508301 for 85 clusters (best_inertia = 10.90)
+2022-07-14 09:44:11,056 - root: Iteration 16/19 took 0.0302731990814209 for 90 clusters (best_inertia = 10.53)
+2022-07-14 09:44:11,095 - root: Iteration 17/19 took 0.03904128074645996 for 95 clusters (best_inertia = 10.20)
+2022-07-14 09:44:11,131 - root: Iteration 18/19 took 0.03622150421142578 for 100 clusters (best_inertia = 9.88)
+2022-07-14 09:44:11,132 - root: Found optimal number of clusters of 35
+2022-07-14 09:44:11,273 - root: Fitting yearly sampler took 124.6161880493164
+2022-07-14 09:44:11,275 - root: Fitting the daily samplers
+2022-07-14 09:44:11,275 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 09:44:12,356 - root: Daily sampler for cluster 0 fit in -1.080981731414795
+2022-07-14 09:44:12,356 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 09:44:13,223 - root: Daily sampler for cluster 1 fit in -0.8662030696868896
+2022-07-14 09:44:13,223 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 09:44:14,118 - root: Daily sampler for cluster 2 fit in -0.8945553302764893
+2022-07-14 09:44:14,118 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 09:44:15,054 - root: Daily sampler for cluster 3 fit in -0.935621976852417
+2022-07-14 09:44:15,054 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 09:44:16,085 - root: Daily sampler for cluster 4 fit in -1.0310347080230713
+2022-07-14 09:44:16,085 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 09:44:16,989 - root: Daily sampler for cluster 5 fit in -0.9034755229949951
+2022-07-14 09:44:16,989 - root: Fitting daily sampler for cluster 6 with 230 days.
+2022-07-14 09:44:30,836 - root: Daily sampler for cluster 6 fit in -13.846963882446289
+2022-07-14 09:44:30,837 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 09:44:31,757 - root: Daily sampler for cluster 7 fit in -0.9202015399932861
+2022-07-14 09:44:31,757 - root: Fitting daily sampler for cluster 8 with 21 days.
+2022-07-14 09:44:34,606 - root: Daily sampler for cluster 8 fit in -2.8485331535339355
+2022-07-14 09:44:34,606 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 09:44:35,537 - root: Daily sampler for cluster 9 fit in -0.9306368827819824
+2022-07-14 09:44:35,537 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 09:44:36,443 - root: Daily sampler for cluster 10 fit in -0.9062530994415283
+2022-07-14 09:44:36,443 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 09:44:37,371 - root: Daily sampler for cluster 11 fit in -0.9272398948669434
+2022-07-14 09:44:37,371 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 09:44:38,390 - root: Daily sampler for cluster 12 fit in -1.0184516906738281
+2022-07-14 09:44:38,390 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 09:44:39,290 - root: Daily sampler for cluster 13 fit in -0.8997664451599121
+2022-07-14 09:44:39,290 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 09:44:40,145 - root: Daily sampler for cluster 14 fit in -0.8557014465332031
+2022-07-14 09:44:40,146 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 09:44:41,034 - root: Daily sampler for cluster 15 fit in -0.8880999088287354
+2022-07-14 09:44:41,034 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 09:44:41,954 - root: Daily sampler for cluster 16 fit in -0.9199247360229492
+2022-07-14 09:44:41,954 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 09:44:42,799 - root: Daily sampler for cluster 17 fit in -0.8444244861602783
+2022-07-14 09:44:42,799 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 09:44:43,642 - root: Daily sampler for cluster 18 fit in -0.8427495956420898
+2022-07-14 09:44:43,642 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 09:44:44,529 - root: Daily sampler for cluster 19 fit in -0.8874502182006836
+2022-07-14 09:44:44,530 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 09:44:45,438 - root: Daily sampler for cluster 20 fit in -0.9080443382263184
+2022-07-14 09:44:45,438 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 09:44:46,395 - root: Daily sampler for cluster 21 fit in -0.957294225692749
+2022-07-14 09:44:46,396 - root: Fitting daily sampler for cluster 22 with 325 days.
+2022-07-14 09:45:04,779 - root: Daily sampler for cluster 22 fit in -18.38296151161194
+2022-07-14 09:45:04,779 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 09:45:05,681 - root: Daily sampler for cluster 23 fit in -0.9014360904693604
+2022-07-14 09:45:05,681 - root: Fitting daily sampler for cluster 24 with 8 days.
+2022-07-14 09:45:07,663 - root: Daily sampler for cluster 24 fit in -1.9817559719085693
+2022-07-14 09:45:07,663 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 09:45:08,528 - root: Daily sampler for cluster 25 fit in -0.8652853965759277
+2022-07-14 09:45:08,529 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 09:45:09,560 - root: Daily sampler for cluster 26 fit in -1.031571865081787
+2022-07-14 09:45:09,560 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 09:45:10,463 - root: Daily sampler for cluster 27 fit in -0.9023873805999756
+2022-07-14 09:45:10,463 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 09:45:11,337 - root: Daily sampler for cluster 28 fit in -0.8742120265960693
+2022-07-14 09:45:11,338 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 09:45:12,237 - root: Daily sampler for cluster 29 fit in -0.8991570472717285
+2022-07-14 09:45:12,237 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 09:45:13,201 - root: Daily sampler for cluster 30 fit in -0.9636936187744141
+2022-07-14 09:45:13,201 - root: Fitting daily sampler for cluster 31 with 51 days.
+2022-07-14 09:45:18,503 - root: Daily sampler for cluster 31 fit in -5.302123308181763
+2022-07-14 09:45:18,504 - root: Fitting daily sampler for cluster 32 with 3 days.
+2022-07-14 09:45:19,585 - root: Daily sampler for cluster 32 fit in -1.081390619277954
+2022-07-14 09:45:19,585 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 09:45:20,481 - root: Daily sampler for cluster 33 fit in -0.8958382606506348
+2022-07-14 09:45:20,481 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 09:45:21,422 - root: Daily sampler for cluster 34 fit in -0.9400556087493896
+2022-07-14 09:45:21,626 - root: scattering training data ( 477.61 MB) and sampler ( 15.68 MB)
+2022-07-14 09:46:56,481 - root: Setting-up all the tasks
+2022-07-14 09:46:56,962 - root: computing the tasks
+2022-07-14 10:26:19,838 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f01689630>
+2022-07-14 10:26:19,838 - root: Starting fit in elbow method
+2022-07-14 10:26:19,838 - root: Calculating distance matrix
+2022-07-14 10:28:28,994 - root: 3.39 used in distance matrix
+2022-07-14 10:28:29,027 - root: Iteration 0/19 took 0.03245401382446289 for 10 clusters (best_inertia = 52.01)
+2022-07-14 10:28:29,059 - root: Iteration 1/19 took 0.03237557411193848 for 15 clusters (best_inertia = 40.43)
+2022-07-14 10:28:29,101 - root: Iteration 2/19 took 0.0411834716796875 for 20 clusters (best_inertia = 31.84)
+2022-07-14 10:28:29,136 - root: Iteration 3/19 took 0.03511309623718262 for 25 clusters (best_inertia = 26.58)
+2022-07-14 10:28:29,163 - root: Iteration 4/19 took 0.0270538330078125 for 30 clusters (best_inertia = 22.52)
+2022-07-14 10:28:29,196 - root: Iteration 5/19 took 0.03347969055175781 for 35 clusters (best_inertia = 19.64)
+2022-07-14 10:28:29,226 - root: Iteration 6/19 took 0.029274940490722656 for 40 clusters (best_inertia = 17.61)
+2022-07-14 10:28:29,255 - root: Iteration 7/19 took 0.029070615768432617 for 45 clusters (best_inertia = 16.24)
+2022-07-14 10:28:29,286 - root: Iteration 8/19 took 0.031235218048095703 for 50 clusters (best_inertia = 15.16)
+2022-07-14 10:28:29,319 - root: Iteration 9/19 took 0.03271198272705078 for 55 clusters (best_inertia = 14.24)
+2022-07-14 10:28:29,348 - root: Iteration 10/19 took 0.028948068618774414 for 60 clusters (best_inertia = 13.45)
+2022-07-14 10:28:29,380 - root: Iteration 11/19 took 0.03188037872314453 for 65 clusters (best_inertia = 12.81)
+2022-07-14 10:28:29,410 - root: Iteration 12/19 took 0.030360937118530273 for 70 clusters (best_inertia = 12.25)
+2022-07-14 10:28:29,445 - root: Iteration 13/19 took 0.034864187240600586 for 75 clusters (best_inertia = 11.77)
+2022-07-14 10:28:29,481 - root: Iteration 14/19 took 0.03580141067504883 for 80 clusters (best_inertia = 11.32)
+2022-07-14 10:28:29,514 - root: Iteration 15/19 took 0.03274822235107422 for 85 clusters (best_inertia = 10.90)
+2022-07-14 10:28:29,545 - root: Iteration 16/19 took 0.030901432037353516 for 90 clusters (best_inertia = 10.53)
+2022-07-14 10:28:29,583 - root: Iteration 17/19 took 0.03838372230529785 for 95 clusters (best_inertia = 10.20)
+2022-07-14 10:28:29,622 - root: Iteration 18/19 took 0.03853297233581543 for 100 clusters (best_inertia = 9.88)
+2022-07-14 10:28:29,623 - root: Found optimal number of clusters of 35
+2022-07-14 10:28:29,756 - root: Fitting yearly sampler took 129.91762709617615
+2022-07-14 10:28:29,757 - root: Fitting the daily samplers
+2022-07-14 10:28:29,758 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 10:28:30,639 - root: Daily sampler for cluster 0 fit in -0.8811495304107666
+2022-07-14 10:28:30,639 - root: Fitting daily sampler for cluster 1 with 21 days.
+2022-07-14 10:28:34,147 - root: Daily sampler for cluster 1 fit in -3.5073018074035645
+2022-07-14 10:28:34,147 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 10:28:35,207 - root: Daily sampler for cluster 2 fit in -1.0592901706695557
+2022-07-14 10:28:35,207 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 10:28:36,159 - root: Daily sampler for cluster 3 fit in -0.9517796039581299
+2022-07-14 10:28:36,159 - root: Fitting daily sampler for cluster 4 with 325 days.
+2022-07-14 10:29:00,944 - root: Daily sampler for cluster 4 fit in -24.784897327423096
+2022-07-14 10:29:00,944 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 10:29:01,929 - root: Daily sampler for cluster 5 fit in -0.9844260215759277
+2022-07-14 10:29:01,929 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-14 10:29:02,927 - root: Daily sampler for cluster 6 fit in -0.9983370304107666
+2022-07-14 10:29:02,928 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 10:29:03,934 - root: Daily sampler for cluster 7 fit in -1.0059375762939453
+2022-07-14 10:29:03,934 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 10:29:04,960 - root: Daily sampler for cluster 8 fit in -1.0255894660949707
+2022-07-14 10:29:04,960 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 10:29:05,999 - root: Daily sampler for cluster 9 fit in -1.039092779159546
+2022-07-14 10:29:05,999 - root: Fitting daily sampler for cluster 10 with 51 days.
+2022-07-14 10:29:12,104 - root: Daily sampler for cluster 10 fit in -6.104722261428833
+2022-07-14 10:29:12,104 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 10:29:13,047 - root: Daily sampler for cluster 11 fit in -0.9428496360778809
+2022-07-14 10:29:13,048 - root: Fitting daily sampler for cluster 12 with 8 days.
+2022-07-14 10:29:15,288 - root: Daily sampler for cluster 12 fit in -2.2403507232666016
+2022-07-14 10:29:15,289 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 10:29:16,202 - root: Daily sampler for cluster 13 fit in -0.9130618572235107
+2022-07-14 10:29:16,203 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 10:29:17,127 - root: Daily sampler for cluster 14 fit in -0.9239077568054199
+2022-07-14 10:29:17,127 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 10:29:18,039 - root: Daily sampler for cluster 15 fit in -0.9123218059539795
+2022-07-14 10:29:18,039 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 10:29:19,073 - root: Daily sampler for cluster 16 fit in -1.0339884757995605
+2022-07-14 10:29:19,074 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 10:29:20,087 - root: Daily sampler for cluster 17 fit in -1.0136404037475586
+2022-07-14 10:29:20,087 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 10:29:21,054 - root: Daily sampler for cluster 18 fit in -0.9665343761444092
+2022-07-14 10:29:21,054 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 10:29:22,086 - root: Daily sampler for cluster 19 fit in -1.031688928604126
+2022-07-14 10:29:22,086 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 10:29:23,061 - root: Daily sampler for cluster 20 fit in -0.9743037223815918
+2022-07-14 10:29:23,061 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 10:29:24,135 - root: Daily sampler for cluster 21 fit in -1.074045181274414
+2022-07-14 10:29:24,135 - root: Fitting daily sampler for cluster 22 with 3 days.
+2022-07-14 10:29:25,826 - root: Daily sampler for cluster 22 fit in -1.690591812133789
+2022-07-14 10:29:25,827 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 10:29:26,841 - root: Daily sampler for cluster 23 fit in -1.0144762992858887
+2022-07-14 10:29:26,841 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 10:29:27,842 - root: Daily sampler for cluster 24 fit in -1.0003235340118408
+2022-07-14 10:29:27,842 - root: Fitting daily sampler for cluster 25 with 230 days.
+2022-07-14 10:29:43,588 - root: Daily sampler for cluster 25 fit in -15.745465755462646
+2022-07-14 10:29:43,590 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 10:29:44,552 - root: Daily sampler for cluster 26 fit in -0.9620640277862549
+2022-07-14 10:29:44,552 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 10:29:45,508 - root: Daily sampler for cluster 27 fit in -0.9560067653656006
+2022-07-14 10:29:45,508 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 10:29:46,478 - root: Daily sampler for cluster 28 fit in -0.9695656299591064
+2022-07-14 10:29:46,478 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 10:29:47,388 - root: Daily sampler for cluster 29 fit in -0.9094312191009521
+2022-07-14 10:29:47,389 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 10:29:48,271 - root: Daily sampler for cluster 30 fit in -0.8820023536682129
+2022-07-14 10:29:48,271 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 10:29:49,194 - root: Daily sampler for cluster 31 fit in -0.9228079319000244
+2022-07-14 10:29:49,194 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 10:29:50,100 - root: Daily sampler for cluster 32 fit in -0.9054019451141357
+2022-07-14 10:29:50,100 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 10:29:51,068 - root: Daily sampler for cluster 33 fit in -0.9677317142486572
+2022-07-14 10:29:51,068 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 10:29:51,995 - root: Daily sampler for cluster 34 fit in -0.9268953800201416
+2022-07-14 10:29:52,226 - root: scattering training data ( 477.61 MB) and sampler ( 16.23 MB)
+2022-07-14 10:30:40,417 - root: Setting-up all the tasks
+2022-07-14 10:30:40,944 - root: computing the tasks
+2022-07-14 11:10:04,738 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f0168be20>
+2022-07-14 11:10:04,738 - root: Starting fit in elbow method
+2022-07-14 11:10:04,738 - root: Calculating distance matrix
+2022-07-14 11:12:18,693 - root: 3.39 used in distance matrix
+2022-07-14 11:12:18,732 - root: Iteration 0/19 took 0.03484344482421875 for 10 clusters (best_inertia = 52.01)
+2022-07-14 11:12:18,766 - root: Iteration 1/19 took 0.034208059310913086 for 15 clusters (best_inertia = 40.43)
+2022-07-14 11:12:18,813 - root: Iteration 2/19 took 0.04615616798400879 for 20 clusters (best_inertia = 32.15)
+2022-07-14 11:12:18,851 - root: Iteration 3/19 took 0.037956953048706055 for 25 clusters (best_inertia = 26.58)
+2022-07-14 11:12:18,879 - root: Iteration 4/19 took 0.028181076049804688 for 30 clusters (best_inertia = 22.52)
+2022-07-14 11:12:18,912 - root: Iteration 5/19 took 0.03290963172912598 for 35 clusters (best_inertia = 19.64)
+2022-07-14 11:12:18,942 - root: Iteration 6/19 took 0.029623031616210938 for 40 clusters (best_inertia = 17.61)
+2022-07-14 11:12:18,972 - root: Iteration 7/19 took 0.030173063278198242 for 45 clusters (best_inertia = 16.24)
+2022-07-14 11:12:19,004 - root: Iteration 8/19 took 0.031943559646606445 for 50 clusters (best_inertia = 15.16)
+2022-07-14 11:12:19,035 - root: Iteration 9/19 took 0.030536174774169922 for 55 clusters (best_inertia = 14.24)
+2022-07-14 11:12:19,064 - root: Iteration 10/19 took 0.029265403747558594 for 60 clusters (best_inertia = 13.45)
+2022-07-14 11:12:19,094 - root: Iteration 11/19 took 0.02969980239868164 for 65 clusters (best_inertia = 12.81)
+2022-07-14 11:12:19,131 - root: Iteration 12/19 took 0.03761410713195801 for 70 clusters (best_inertia = 12.25)
+2022-07-14 11:12:19,168 - root: Iteration 13/19 took 0.0355527400970459 for 75 clusters (best_inertia = 11.77)
+2022-07-14 11:12:19,206 - root: Iteration 14/19 took 0.03789234161376953 for 80 clusters (best_inertia = 11.32)
+2022-07-14 11:12:19,239 - root: Iteration 15/19 took 0.032933950424194336 for 85 clusters (best_inertia = 10.90)
+2022-07-14 11:12:19,267 - root: Iteration 16/19 took 0.028622865676879883 for 90 clusters (best_inertia = 10.53)
+2022-07-14 11:12:19,307 - root: Iteration 17/19 took 0.039849042892456055 for 95 clusters (best_inertia = 10.19)
+2022-07-14 11:12:19,349 - root: Iteration 18/19 took 0.04160785675048828 for 100 clusters (best_inertia = 9.88)
+2022-07-14 11:12:19,350 - root: Found optimal number of clusters of 35
+2022-07-14 11:12:19,490 - root: Fitting yearly sampler took 134.75278210639954
+2022-07-14 11:12:19,494 - root: Fitting the daily samplers
+2022-07-14 11:12:19,494 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 11:12:20,691 - root: Daily sampler for cluster 0 fit in -1.196274757385254
+2022-07-14 11:12:20,691 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 11:12:21,862 - root: Daily sampler for cluster 1 fit in -1.1712560653686523
+2022-07-14 11:12:21,863 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 11:12:22,935 - root: Daily sampler for cluster 2 fit in -1.0720772743225098
+2022-07-14 11:12:22,935 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 11:12:24,107 - root: Daily sampler for cluster 3 fit in -1.1723551750183105
+2022-07-14 11:12:24,108 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 11:12:25,102 - root: Daily sampler for cluster 4 fit in -0.9947183132171631
+2022-07-14 11:12:25,103 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 11:12:26,118 - root: Daily sampler for cluster 5 fit in -1.0153944492340088
+2022-07-14 11:12:26,118 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-14 11:12:27,106 - root: Daily sampler for cluster 6 fit in -0.9879343509674072
+2022-07-14 11:12:27,107 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 11:12:28,080 - root: Daily sampler for cluster 7 fit in -0.9735331535339355
+2022-07-14 11:12:28,080 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 11:12:29,057 - root: Daily sampler for cluster 8 fit in -0.9767851829528809
+2022-07-14 11:12:29,058 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 11:12:30,090 - root: Daily sampler for cluster 9 fit in -1.0327820777893066
+2022-07-14 11:12:30,091 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 11:12:31,136 - root: Daily sampler for cluster 10 fit in -1.0453791618347168
+2022-07-14 11:12:31,136 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 11:12:32,237 - root: Daily sampler for cluster 11 fit in -1.10076904296875
+2022-07-14 11:12:32,237 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 11:12:33,262 - root: Daily sampler for cluster 12 fit in -1.0245423316955566
+2022-07-14 11:12:33,262 - root: Fitting daily sampler for cluster 13 with 21 days.
+2022-07-14 11:12:36,746 - root: Daily sampler for cluster 13 fit in -3.4834628105163574
+2022-07-14 11:12:36,746 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 11:12:37,743 - root: Daily sampler for cluster 14 fit in -0.9968352317810059
+2022-07-14 11:12:37,743 - root: Fitting daily sampler for cluster 15 with 230 days.
+2022-07-14 11:12:54,339 - root: Daily sampler for cluster 15 fit in -16.59614086151123
+2022-07-14 11:12:54,340 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 11:12:55,390 - root: Daily sampler for cluster 16 fit in -1.0503673553466797
+2022-07-14 11:12:55,391 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 11:12:56,485 - root: Daily sampler for cluster 17 fit in -1.0945706367492676
+2022-07-14 11:12:56,485 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 11:12:57,523 - root: Daily sampler for cluster 18 fit in -1.0370500087738037
+2022-07-14 11:12:57,523 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 11:12:58,623 - root: Daily sampler for cluster 19 fit in -1.1000001430511475
+2022-07-14 11:12:58,623 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 11:12:59,762 - root: Daily sampler for cluster 20 fit in -1.138671636581421
+2022-07-14 11:12:59,762 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 11:13:00,770 - root: Daily sampler for cluster 21 fit in -1.0079500675201416
+2022-07-14 11:13:00,770 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 11:13:01,820 - root: Daily sampler for cluster 22 fit in -1.049553632736206
+2022-07-14 11:13:01,820 - root: Fitting daily sampler for cluster 23 with 325 days.
+2022-07-14 11:13:26,739 - root: Daily sampler for cluster 23 fit in -24.918862342834473
+2022-07-14 11:13:26,740 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 11:13:27,724 - root: Daily sampler for cluster 24 fit in -0.9841468334197998
+2022-07-14 11:13:27,724 - root: Fitting daily sampler for cluster 25 with 8 days.
+2022-07-14 11:13:30,065 - root: Daily sampler for cluster 25 fit in -2.340684413909912
+2022-07-14 11:13:30,065 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 11:13:31,048 - root: Daily sampler for cluster 26 fit in -0.9831743240356445
+2022-07-14 11:13:31,049 - root: Fitting daily sampler for cluster 27 with 3 days.
+2022-07-14 11:13:32,276 - root: Daily sampler for cluster 27 fit in -1.2271385192871094
+2022-07-14 11:13:32,276 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 11:13:33,327 - root: Daily sampler for cluster 28 fit in -1.0510740280151367
+2022-07-14 11:13:33,328 - root: Fitting daily sampler for cluster 29 with 51 days.
+2022-07-14 11:13:40,035 - root: Daily sampler for cluster 29 fit in -6.706892728805542
+2022-07-14 11:13:40,037 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 11:13:41,128 - root: Daily sampler for cluster 30 fit in -1.090867042541504
+2022-07-14 11:13:41,128 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 11:13:42,181 - root: Daily sampler for cluster 31 fit in -1.053300380706787
+2022-07-14 11:13:42,181 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 11:13:43,202 - root: Daily sampler for cluster 32 fit in -1.0209147930145264
+2022-07-14 11:13:43,203 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 11:13:44,185 - root: Daily sampler for cluster 33 fit in -0.982374906539917
+2022-07-14 11:13:44,186 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 11:13:45,264 - root: Daily sampler for cluster 34 fit in -1.0784990787506104
+2022-07-14 11:13:45,503 - root: scattering training data ( 477.61 MB) and sampler ( 16.78 MB)
+2022-07-14 11:14:41,021 - root: Setting-up all the tasks
+2022-07-14 11:14:41,515 - root: computing the tasks
+2022-07-14 11:54:03,377 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f0168a050>
+2022-07-14 11:54:03,377 - root: Starting fit in elbow method
+2022-07-14 11:54:03,377 - root: Calculating distance matrix
+2022-07-14 11:56:13,967 - root: 3.39 used in distance matrix
+2022-07-14 11:56:14,002 - root: Iteration 0/19 took 0.03419017791748047 for 10 clusters (best_inertia = 52.01)
+2022-07-14 11:56:14,035 - root: Iteration 1/19 took 0.03300762176513672 for 15 clusters (best_inertia = 39.81)
+2022-07-14 11:56:14,080 - root: Iteration 2/19 took 0.045087575912475586 for 20 clusters (best_inertia = 32.15)
+2022-07-14 11:56:14,118 - root: Iteration 3/19 took 0.0375521183013916 for 25 clusters (best_inertia = 26.58)
+2022-07-14 11:56:14,146 - root: Iteration 4/19 took 0.027582645416259766 for 30 clusters (best_inertia = 22.52)
+2022-07-14 11:56:14,178 - root: Iteration 5/19 took 0.03279280662536621 for 35 clusters (best_inertia = 19.64)
+2022-07-14 11:56:14,209 - root: Iteration 6/19 took 0.03002619743347168 for 40 clusters (best_inertia = 17.61)
+2022-07-14 11:56:14,245 - root: Iteration 7/19 took 0.036905765533447266 for 45 clusters (best_inertia = 16.24)
+2022-07-14 11:56:14,277 - root: Iteration 8/19 took 0.031154394149780273 for 50 clusters (best_inertia = 15.16)
+2022-07-14 11:56:14,308 - root: Iteration 9/19 took 0.031183481216430664 for 55 clusters (best_inertia = 14.24)
+2022-07-14 11:56:14,338 - root: Iteration 10/19 took 0.030239105224609375 for 60 clusters (best_inertia = 13.45)
+2022-07-14 11:56:14,370 - root: Iteration 11/19 took 0.031564950942993164 for 65 clusters (best_inertia = 12.81)
+2022-07-14 11:56:14,401 - root: Iteration 12/19 took 0.03110957145690918 for 70 clusters (best_inertia = 12.25)
+2022-07-14 11:56:14,438 - root: Iteration 13/19 took 0.03655552864074707 for 75 clusters (best_inertia = 11.77)
+2022-07-14 11:56:14,477 - root: Iteration 14/19 took 0.038817405700683594 for 80 clusters (best_inertia = 11.32)
+2022-07-14 11:56:14,514 - root: Iteration 15/19 took 0.03503131866455078 for 85 clusters (best_inertia = 10.90)
+2022-07-14 11:56:14,546 - root: Iteration 16/19 took 0.03210163116455078 for 90 clusters (best_inertia = 10.53)
+2022-07-14 11:56:14,587 - root: Iteration 17/19 took 0.04080462455749512 for 95 clusters (best_inertia = 10.19)
+2022-07-14 11:56:14,627 - root: Iteration 18/19 took 0.03985881805419922 for 100 clusters (best_inertia = 9.88)
+2022-07-14 11:56:14,628 - root: Found optimal number of clusters of 35
+2022-07-14 11:56:14,770 - root: Fitting yearly sampler took 131.39262914657593
+2022-07-14 11:56:14,772 - root: Fitting the daily samplers
+2022-07-14 11:56:14,773 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 11:56:15,871 - root: Daily sampler for cluster 0 fit in -1.098412036895752
+2022-07-14 11:56:15,871 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 11:56:17,121 - root: Daily sampler for cluster 1 fit in -1.2495923042297363
+2022-07-14 11:56:17,121 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 11:56:18,367 - root: Daily sampler for cluster 2 fit in -1.2458856105804443
+2022-07-14 11:56:18,368 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 11:56:19,539 - root: Daily sampler for cluster 3 fit in -1.171112298965454
+2022-07-14 11:56:19,539 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 11:56:20,729 - root: Daily sampler for cluster 4 fit in -1.1898550987243652
+2022-07-14 11:56:20,729 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 11:56:21,928 - root: Daily sampler for cluster 5 fit in -1.1986119747161865
+2022-07-14 11:56:21,928 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-14 11:56:23,193 - root: Daily sampler for cluster 6 fit in -1.2641656398773193
+2022-07-14 11:56:23,193 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 11:56:24,450 - root: Daily sampler for cluster 7 fit in -1.2571253776550293
+2022-07-14 11:56:24,450 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 11:56:25,738 - root: Daily sampler for cluster 8 fit in -1.2872109413146973
+2022-07-14 11:56:25,738 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 11:56:26,854 - root: Daily sampler for cluster 9 fit in -1.116295576095581
+2022-07-14 11:56:26,854 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 11:56:27,906 - root: Daily sampler for cluster 10 fit in -1.0512657165527344
+2022-07-14 11:56:27,906 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 11:56:28,997 - root: Daily sampler for cluster 11 fit in -1.0908665657043457
+2022-07-14 11:56:28,997 - root: Fitting daily sampler for cluster 12 with 21 days.
+2022-07-14 11:56:32,560 - root: Daily sampler for cluster 12 fit in -3.562770128250122
+2022-07-14 11:56:32,561 - root: Fitting daily sampler for cluster 13 with 51 days.
+2022-07-14 11:56:39,109 - root: Daily sampler for cluster 13 fit in -6.548667669296265
+2022-07-14 11:56:39,110 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 11:56:40,306 - root: Daily sampler for cluster 14 fit in -1.1966807842254639
+2022-07-14 11:56:40,307 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 11:56:41,570 - root: Daily sampler for cluster 15 fit in -1.2634468078613281
+2022-07-14 11:56:41,570 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 11:56:42,727 - root: Daily sampler for cluster 16 fit in -1.156792163848877
+2022-07-14 11:56:42,727 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 11:56:43,816 - root: Daily sampler for cluster 17 fit in -1.088364839553833
+2022-07-14 11:56:43,816 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 11:56:44,898 - root: Daily sampler for cluster 18 fit in -1.0819976329803467
+2022-07-14 11:56:44,898 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 11:56:46,050 - root: Daily sampler for cluster 19 fit in -1.152043342590332
+2022-07-14 11:56:46,051 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 11:56:47,204 - root: Daily sampler for cluster 20 fit in -1.1528902053833008
+2022-07-14 11:56:47,204 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 11:56:48,398 - root: Daily sampler for cluster 21 fit in -1.193854570388794
+2022-07-14 11:56:48,398 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 11:56:49,596 - root: Daily sampler for cluster 22 fit in -1.1980218887329102
+2022-07-14 11:56:49,597 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 11:56:50,727 - root: Daily sampler for cluster 23 fit in -1.1304724216461182
+2022-07-14 11:56:50,728 - root: Fitting daily sampler for cluster 24 with 325 days.
+2022-07-14 11:57:20,077 - root: Daily sampler for cluster 24 fit in -29.349321126937866
+2022-07-14 11:57:20,078 - root: Fitting daily sampler for cluster 25 with 230 days.
+2022-07-14 11:57:38,480 - root: Daily sampler for cluster 25 fit in -18.401976823806763
+2022-07-14 11:57:38,480 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 11:57:39,477 - root: Daily sampler for cluster 26 fit in -0.9963135719299316
+2022-07-14 11:57:39,478 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 11:57:40,468 - root: Daily sampler for cluster 27 fit in -0.9902324676513672
+2022-07-14 11:57:40,469 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 11:57:41,440 - root: Daily sampler for cluster 28 fit in -0.9709961414337158
+2022-07-14 11:57:41,440 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 11:57:42,574 - root: Daily sampler for cluster 29 fit in -1.1342253684997559
+2022-07-14 11:57:42,575 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 11:57:43,744 - root: Daily sampler for cluster 30 fit in -1.1688628196716309
+2022-07-14 11:57:43,744 - root: Fitting daily sampler for cluster 31 with 3 days.
+2022-07-14 11:57:45,576 - root: Daily sampler for cluster 31 fit in -1.8324053287506104
+2022-07-14 11:57:45,577 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 11:57:46,623 - root: Daily sampler for cluster 32 fit in -1.0466156005859375
+2022-07-14 11:57:46,623 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 11:57:47,665 - root: Daily sampler for cluster 33 fit in -1.0420050621032715
+2022-07-14 11:57:47,666 - root: Fitting daily sampler for cluster 34 with 8 days.
+2022-07-14 11:57:50,103 - root: Daily sampler for cluster 34 fit in -2.4375979900360107
+2022-07-14 11:57:50,325 - root: scattering training data ( 477.61 MB) and sampler ( 17.33 MB)
+2022-07-14 11:58:57,514 - root: Setting-up all the tasks
+2022-07-14 11:58:58,001 - root: computing the tasks
+2022-07-14 12:38:00,590 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f01688460>
+2022-07-14 12:38:00,590 - root: Starting fit in elbow method
+2022-07-14 12:38:00,590 - root: Calculating distance matrix
+2022-07-14 12:40:15,782 - root: 3.39 used in distance matrix
+2022-07-14 12:40:15,818 - root: Iteration 0/19 took 0.03518366813659668 for 10 clusters (best_inertia = 52.01)
+2022-07-14 12:40:15,852 - root: Iteration 1/19 took 0.03451228141784668 for 15 clusters (best_inertia = 40.43)
+2022-07-14 12:40:15,898 - root: Iteration 2/19 took 0.045829057693481445 for 20 clusters (best_inertia = 32.15)
+2022-07-14 12:40:15,936 - root: Iteration 3/19 took 0.03727459907531738 for 25 clusters (best_inertia = 26.58)
+2022-07-14 12:40:15,963 - root: Iteration 4/19 took 0.027080774307250977 for 30 clusters (best_inertia = 22.52)
+2022-07-14 12:40:15,996 - root: Iteration 5/19 took 0.03340458869934082 for 35 clusters (best_inertia = 19.64)
+2022-07-14 12:40:16,027 - root: Iteration 6/19 took 0.030170679092407227 for 40 clusters (best_inertia = 17.61)
+2022-07-14 12:40:16,056 - root: Iteration 7/19 took 0.029017210006713867 for 45 clusters (best_inertia = 16.24)
+2022-07-14 12:40:16,087 - root: Iteration 8/19 took 0.030814170837402344 for 50 clusters (best_inertia = 15.16)
+2022-07-14 12:40:16,119 - root: Iteration 9/19 took 0.032286643981933594 for 55 clusters (best_inertia = 14.24)
+2022-07-14 12:40:16,149 - root: Iteration 10/19 took 0.029773473739624023 for 60 clusters (best_inertia = 13.45)
+2022-07-14 12:40:16,182 - root: Iteration 11/19 took 0.032993316650390625 for 65 clusters (best_inertia = 12.81)
+2022-07-14 12:40:16,213 - root: Iteration 12/19 took 0.03126406669616699 for 70 clusters (best_inertia = 12.25)
+2022-07-14 12:40:16,250 - root: Iteration 13/19 took 0.03648066520690918 for 75 clusters (best_inertia = 11.77)
+2022-07-14 12:40:16,289 - root: Iteration 14/19 took 0.03937482833862305 for 80 clusters (best_inertia = 11.32)
+2022-07-14 12:40:16,325 - root: Iteration 15/19 took 0.0351564884185791 for 85 clusters (best_inertia = 10.90)
+2022-07-14 12:40:16,358 - root: Iteration 16/19 took 0.03298187255859375 for 90 clusters (best_inertia = 10.53)
+2022-07-14 12:40:16,401 - root: Iteration 17/19 took 0.0436856746673584 for 95 clusters (best_inertia = 10.19)
+2022-07-14 12:40:16,444 - root: Iteration 18/19 took 0.04271125793457031 for 100 clusters (best_inertia = 9.88)
+2022-07-14 12:40:16,445 - root: Found optimal number of clusters of 35
+2022-07-14 12:40:16,589 - root: Fitting yearly sampler took 135.9987440109253
+2022-07-14 12:40:16,592 - root: Fitting the daily samplers
+2022-07-14 12:40:16,592 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 12:40:17,893 - root: Daily sampler for cluster 0 fit in -1.3000133037567139
+2022-07-14 12:40:17,893 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 12:40:19,101 - root: Daily sampler for cluster 1 fit in -1.2082560062408447
+2022-07-14 12:40:19,101 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 12:40:20,351 - root: Daily sampler for cluster 2 fit in -1.2496509552001953
+2022-07-14 12:40:20,351 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 12:40:21,451 - root: Daily sampler for cluster 3 fit in -1.0994677543640137
+2022-07-14 12:40:21,451 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 12:40:22,563 - root: Daily sampler for cluster 4 fit in -1.1114740371704102
+2022-07-14 12:40:22,563 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 12:40:23,769 - root: Daily sampler for cluster 5 fit in -1.2064008712768555
+2022-07-14 12:40:23,770 - root: Fitting daily sampler for cluster 6 with 230 days.
+2022-07-14 12:40:45,288 - root: Daily sampler for cluster 6 fit in -21.518558740615845
+2022-07-14 12:40:45,289 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 12:40:46,515 - root: Daily sampler for cluster 7 fit in -1.2261097431182861
+2022-07-14 12:40:46,515 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 12:40:47,665 - root: Daily sampler for cluster 8 fit in -1.1494147777557373
+2022-07-14 12:40:47,665 - root: Fitting daily sampler for cluster 9 with 51 days.
+2022-07-14 12:40:55,109 - root: Daily sampler for cluster 9 fit in -7.443776369094849
+2022-07-14 12:40:55,110 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 12:40:56,278 - root: Daily sampler for cluster 10 fit in -1.1682562828063965
+2022-07-14 12:40:56,278 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 12:40:57,485 - root: Daily sampler for cluster 11 fit in -1.2072203159332275
+2022-07-14 12:40:57,486 - root: Fitting daily sampler for cluster 12 with 8 days.
+2022-07-14 12:41:00,144 - root: Daily sampler for cluster 12 fit in -2.6579864025115967
+2022-07-14 12:41:00,144 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 12:41:01,301 - root: Daily sampler for cluster 13 fit in -1.1572790145874023
+2022-07-14 12:41:01,302 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 12:41:02,512 - root: Daily sampler for cluster 14 fit in -1.2101294994354248
+2022-07-14 12:41:02,512 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 12:41:03,723 - root: Daily sampler for cluster 15 fit in -1.211033582687378
+2022-07-14 12:41:03,723 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 12:41:04,993 - root: Daily sampler for cluster 16 fit in -1.2699813842773438
+2022-07-14 12:41:04,993 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 12:41:06,159 - root: Daily sampler for cluster 17 fit in -1.1653635501861572
+2022-07-14 12:41:06,159 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 12:41:07,352 - root: Daily sampler for cluster 18 fit in -1.1929101943969727
+2022-07-14 12:41:07,352 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 12:41:08,648 - root: Daily sampler for cluster 19 fit in -1.295874834060669
+2022-07-14 12:41:08,648 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 12:41:09,826 - root: Daily sampler for cluster 20 fit in -1.1777777671813965
+2022-07-14 12:41:09,826 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 12:41:10,993 - root: Daily sampler for cluster 21 fit in -1.1668472290039062
+2022-07-14 12:41:10,994 - root: Fitting daily sampler for cluster 22 with 21 days.
+2022-07-14 12:41:14,908 - root: Daily sampler for cluster 22 fit in -3.914167881011963
+2022-07-14 12:41:14,908 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 12:41:16,082 - root: Daily sampler for cluster 23 fit in -1.174417495727539
+2022-07-14 12:41:16,083 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 12:41:17,426 - root: Daily sampler for cluster 24 fit in -1.3436782360076904
+2022-07-14 12:41:17,427 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 12:41:18,649 - root: Daily sampler for cluster 25 fit in -1.2220642566680908
+2022-07-14 12:41:18,649 - root: Fitting daily sampler for cluster 26 with 3 days.
+2022-07-14 12:41:20,517 - root: Daily sampler for cluster 26 fit in -1.8675377368927002
+2022-07-14 12:41:20,517 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 12:41:21,777 - root: Daily sampler for cluster 27 fit in -1.2605068683624268
+2022-07-14 12:41:21,778 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 12:41:23,062 - root: Daily sampler for cluster 28 fit in -1.2846031188964844
+2022-07-14 12:41:23,062 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 12:41:24,360 - root: Daily sampler for cluster 29 fit in -1.2971699237823486
+2022-07-14 12:41:24,360 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 12:41:25,533 - root: Daily sampler for cluster 30 fit in -1.1728427410125732
+2022-07-14 12:41:25,533 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 12:41:26,776 - root: Daily sampler for cluster 31 fit in -1.243091106414795
+2022-07-14 12:41:26,776 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 12:41:28,039 - root: Daily sampler for cluster 32 fit in -1.2623820304870605
+2022-07-14 12:41:28,039 - root: Fitting daily sampler for cluster 33 with 325 days.
+2022-07-14 12:41:59,132 - root: Daily sampler for cluster 33 fit in -31.092634677886963
+2022-07-14 12:41:59,132 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 12:42:00,279 - root: Daily sampler for cluster 34 fit in -1.1470105648040771
+2022-07-14 12:42:00,523 - root: scattering training data ( 477.61 MB) and sampler ( 17.88 MB)
+2022-07-14 12:43:23,016 - root: Setting-up all the tasks
+2022-07-14 12:43:23,518 - root: computing the tasks
+2022-07-14 13:22:44,838 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f0168bbb0>
+2022-07-14 13:22:44,838 - root: Starting fit in elbow method
+2022-07-14 13:22:44,839 - root: Calculating distance matrix
+2022-07-14 13:24:51,978 - root: 3.39 used in distance matrix
+2022-07-14 13:24:52,013 - root: Iteration 0/19 took 0.03430366516113281 for 10 clusters (best_inertia = 52.01)
+2022-07-14 13:24:52,048 - root: Iteration 1/19 took 0.035170793533325195 for 15 clusters (best_inertia = 40.43)
+2022-07-14 13:24:52,094 - root: Iteration 2/19 took 0.04566168785095215 for 20 clusters (best_inertia = 32.15)
+2022-07-14 13:24:52,130 - root: Iteration 3/19 took 0.035923004150390625 for 25 clusters (best_inertia = 26.58)
+2022-07-14 13:24:52,156 - root: Iteration 4/19 took 0.026685237884521484 for 30 clusters (best_inertia = 22.52)
+2022-07-14 13:24:52,189 - root: Iteration 5/19 took 0.03297138214111328 for 35 clusters (best_inertia = 19.64)
+2022-07-14 13:24:52,219 - root: Iteration 6/19 took 0.03011488914489746 for 40 clusters (best_inertia = 17.61)
+2022-07-14 13:24:52,251 - root: Iteration 7/19 took 0.03181052207946777 for 45 clusters (best_inertia = 16.24)
+2022-07-14 13:24:52,284 - root: Iteration 8/19 took 0.03206205368041992 for 50 clusters (best_inertia = 15.16)
+2022-07-14 13:24:52,317 - root: Iteration 9/19 took 0.03371095657348633 for 55 clusters (best_inertia = 14.24)
+2022-07-14 13:24:52,349 - root: Iteration 10/19 took 0.03132462501525879 for 60 clusters (best_inertia = 13.45)
+2022-07-14 13:24:52,382 - root: Iteration 11/19 took 0.03299236297607422 for 65 clusters (best_inertia = 12.81)
+2022-07-14 13:24:52,413 - root: Iteration 12/19 took 0.030934810638427734 for 70 clusters (best_inertia = 12.25)
+2022-07-14 13:24:52,449 - root: Iteration 13/19 took 0.036344289779663086 for 75 clusters (best_inertia = 11.77)
+2022-07-14 13:24:52,487 - root: Iteration 14/19 took 0.03734445571899414 for 80 clusters (best_inertia = 11.32)
+2022-07-14 13:24:52,519 - root: Iteration 15/19 took 0.03220629692077637 for 85 clusters (best_inertia = 10.90)
+2022-07-14 13:24:52,551 - root: Iteration 16/19 took 0.03167462348937988 for 90 clusters (best_inertia = 10.53)
+2022-07-14 13:24:52,591 - root: Iteration 17/19 took 0.0398561954498291 for 95 clusters (best_inertia = 10.19)
+2022-07-14 13:24:52,635 - root: Iteration 18/19 took 0.04443001747131348 for 100 clusters (best_inertia = 9.88)
+2022-07-14 13:24:52,636 - root: Found optimal number of clusters of 35
+2022-07-14 13:24:52,778 - root: Fitting yearly sampler took 127.94017744064331
+2022-07-14 13:24:52,780 - root: Fitting the daily samplers
+2022-07-14 13:24:52,781 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 13:24:54,012 - root: Daily sampler for cluster 0 fit in -1.2317070960998535
+2022-07-14 13:24:54,013 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 13:24:55,255 - root: Daily sampler for cluster 1 fit in -1.2423334121704102
+2022-07-14 13:24:55,255 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 13:24:56,472 - root: Daily sampler for cluster 2 fit in -1.216867208480835
+2022-07-14 13:24:56,472 - root: Fitting daily sampler for cluster 3 with 230 days.
+2022-07-14 13:25:18,831 - root: Daily sampler for cluster 3 fit in -22.35856604576111
+2022-07-14 13:25:18,832 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 13:25:20,050 - root: Daily sampler for cluster 4 fit in -1.2177135944366455
+2022-07-14 13:25:20,051 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 13:25:21,282 - root: Daily sampler for cluster 5 fit in -1.2318060398101807
+2022-07-14 13:25:21,283 - root: Fitting daily sampler for cluster 6 with 8 days.
+2022-07-14 13:25:23,955 - root: Daily sampler for cluster 6 fit in -2.6726386547088623
+2022-07-14 13:25:23,956 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 13:25:25,170 - root: Daily sampler for cluster 7 fit in -1.2139840126037598
+2022-07-14 13:25:25,170 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 13:25:26,519 - root: Daily sampler for cluster 8 fit in -1.348742961883545
+2022-07-14 13:25:26,519 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 13:25:27,817 - root: Daily sampler for cluster 9 fit in -1.297546625137329
+2022-07-14 13:25:27,817 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 13:25:29,045 - root: Daily sampler for cluster 10 fit in -1.227926254272461
+2022-07-14 13:25:29,045 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 13:25:30,222 - root: Daily sampler for cluster 11 fit in -1.176313877105713
+2022-07-14 13:25:30,222 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 13:25:31,534 - root: Daily sampler for cluster 12 fit in -1.3115589618682861
+2022-07-14 13:25:31,534 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 13:25:32,762 - root: Daily sampler for cluster 13 fit in -1.2284836769104004
+2022-07-14 13:25:32,763 - root: Fitting daily sampler for cluster 14 with 21 days.
+2022-07-14 13:25:36,720 - root: Daily sampler for cluster 14 fit in -3.956921339035034
+2022-07-14 13:25:36,720 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 13:25:37,843 - root: Daily sampler for cluster 15 fit in -1.1227741241455078
+2022-07-14 13:25:37,843 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 13:25:38,951 - root: Daily sampler for cluster 16 fit in -1.1074779033660889
+2022-07-14 13:25:38,951 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 13:25:40,160 - root: Daily sampler for cluster 17 fit in -1.2089269161224365
+2022-07-14 13:25:40,160 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 13:25:41,371 - root: Daily sampler for cluster 18 fit in -1.2108581066131592
+2022-07-14 13:25:41,371 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 13:25:42,534 - root: Daily sampler for cluster 19 fit in -1.16251540184021
+2022-07-14 13:25:42,534 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 13:25:43,688 - root: Daily sampler for cluster 20 fit in -1.1534216403961182
+2022-07-14 13:25:43,688 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 13:25:44,940 - root: Daily sampler for cluster 21 fit in -1.2512433528900146
+2022-07-14 13:25:44,940 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 13:25:46,154 - root: Daily sampler for cluster 22 fit in -1.2139410972595215
+2022-07-14 13:25:46,155 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 13:25:47,289 - root: Daily sampler for cluster 23 fit in -1.133911371231079
+2022-07-14 13:25:47,289 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 13:25:48,473 - root: Daily sampler for cluster 24 fit in -1.1834845542907715
+2022-07-14 13:25:48,473 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 13:25:49,723 - root: Daily sampler for cluster 25 fit in -1.2499632835388184
+2022-07-14 13:25:49,724 - root: Fitting daily sampler for cluster 26 with 51 days.
+2022-07-14 13:25:57,953 - root: Daily sampler for cluster 26 fit in -8.228752851486206
+2022-07-14 13:25:57,953 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 13:25:59,175 - root: Daily sampler for cluster 27 fit in -1.2217891216278076
+2022-07-14 13:25:59,175 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 13:26:00,419 - root: Daily sampler for cluster 28 fit in -1.2431633472442627
+2022-07-14 13:26:00,419 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 13:26:01,698 - root: Daily sampler for cluster 29 fit in -1.2785093784332275
+2022-07-14 13:26:01,698 - root: Fitting daily sampler for cluster 30 with 325 days.
+2022-07-14 13:26:37,168 - root: Daily sampler for cluster 30 fit in -35.47004055976868
+2022-07-14 13:26:37,169 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 13:26:38,350 - root: Daily sampler for cluster 31 fit in -1.1809947490692139
+2022-07-14 13:26:38,350 - root: Fitting daily sampler for cluster 32 with 3 days.
+2022-07-14 13:26:40,257 - root: Daily sampler for cluster 32 fit in -1.9066040515899658
+2022-07-14 13:26:40,257 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 13:26:41,467 - root: Daily sampler for cluster 33 fit in -1.209562063217163
+2022-07-14 13:26:41,467 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 13:26:42,679 - root: Daily sampler for cluster 34 fit in -1.2118768692016602
+2022-07-14 13:26:42,921 - root: scattering training data ( 477.61 MB) and sampler ( 18.43 MB)
+2022-07-14 13:28:03,115 - root: Setting-up all the tasks
+2022-07-14 13:28:03,659 - root: computing the tasks
+2022-07-14 14:07:20,826 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f01688730>
+2022-07-14 14:07:20,826 - root: Starting fit in elbow method
+2022-07-14 14:07:20,826 - root: Calculating distance matrix
+2022-07-14 14:09:36,214 - root: 3.39 used in distance matrix
+2022-07-14 14:09:36,251 - root: Iteration 0/19 took 0.03655695915222168 for 10 clusters (best_inertia = 52.01)
+2022-07-14 14:09:36,289 - root: Iteration 1/19 took 0.03681588172912598 for 15 clusters (best_inertia = 40.43)
+2022-07-14 14:09:36,332 - root: Iteration 2/19 took 0.04331183433532715 for 20 clusters (best_inertia = 31.84)
+2022-07-14 14:09:36,367 - root: Iteration 3/19 took 0.035321712493896484 for 25 clusters (best_inertia = 26.58)
+2022-07-14 14:09:36,393 - root: Iteration 4/19 took 0.025864362716674805 for 30 clusters (best_inertia = 22.52)
+2022-07-14 14:09:36,427 - root: Iteration 5/19 took 0.0331418514251709 for 35 clusters (best_inertia = 19.64)
+2022-07-14 14:09:36,456 - root: Iteration 6/19 took 0.02933645248413086 for 40 clusters (best_inertia = 17.61)
+2022-07-14 14:09:36,486 - root: Iteration 7/19 took 0.029892921447753906 for 45 clusters (best_inertia = 16.24)
+2022-07-14 14:09:36,516 - root: Iteration 8/19 took 0.030335664749145508 for 50 clusters (best_inertia = 15.16)
+2022-07-14 14:09:36,547 - root: Iteration 9/19 took 0.030740022659301758 for 55 clusters (best_inertia = 14.24)
+2022-07-14 14:09:36,578 - root: Iteration 10/19 took 0.030391693115234375 for 60 clusters (best_inertia = 13.45)
+2022-07-14 14:09:36,607 - root: Iteration 11/19 took 0.028883934020996094 for 65 clusters (best_inertia = 12.81)
+2022-07-14 14:09:36,637 - root: Iteration 12/19 took 0.03018331527709961 for 70 clusters (best_inertia = 12.25)
+2022-07-14 14:09:36,673 - root: Iteration 13/19 took 0.03602147102355957 for 75 clusters (best_inertia = 11.77)
+2022-07-14 14:09:36,709 - root: Iteration 14/19 took 0.035950660705566406 for 80 clusters (best_inertia = 11.32)
+2022-07-14 14:09:36,740 - root: Iteration 15/19 took 0.03108811378479004 for 85 clusters (best_inertia = 10.90)
+2022-07-14 14:09:36,770 - root: Iteration 16/19 took 0.029909849166870117 for 90 clusters (best_inertia = 10.53)
+2022-07-14 14:09:36,808 - root: Iteration 17/19 took 0.03830599784851074 for 95 clusters (best_inertia = 10.20)
+2022-07-14 14:09:36,848 - root: Iteration 18/19 took 0.039582014083862305 for 100 clusters (best_inertia = 9.88)
+2022-07-14 14:09:36,850 - root: Found optimal number of clusters of 35
+2022-07-14 14:09:36,999 - root: Fitting yearly sampler took 136.17306423187256
+2022-07-14 14:09:37,003 - root: Fitting the daily samplers
+2022-07-14 14:09:37,004 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 14:09:38,332 - root: Daily sampler for cluster 0 fit in -1.3284785747528076
+2022-07-14 14:09:38,332 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 14:09:39,591 - root: Daily sampler for cluster 1 fit in -1.2588860988616943
+2022-07-14 14:09:39,592 - root: Fitting daily sampler for cluster 2 with 21 days.
+2022-07-14 14:09:44,104 - root: Daily sampler for cluster 2 fit in -4.512689113616943
+2022-07-14 14:09:44,105 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 14:09:45,281 - root: Daily sampler for cluster 3 fit in -1.1761448383331299
+2022-07-14 14:09:45,281 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 14:09:46,470 - root: Daily sampler for cluster 4 fit in -1.1887640953063965
+2022-07-14 14:09:46,470 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 14:09:47,692 - root: Daily sampler for cluster 5 fit in -1.2219207286834717
+2022-07-14 14:09:47,693 - root: Fitting daily sampler for cluster 6 with 8 days.
+2022-07-14 14:09:50,524 - root: Daily sampler for cluster 6 fit in -2.8310461044311523
+2022-07-14 14:09:50,524 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 14:09:51,874 - root: Daily sampler for cluster 7 fit in -1.3504822254180908
+2022-07-14 14:09:51,875 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 14:09:53,197 - root: Daily sampler for cluster 8 fit in -1.3220436573028564
+2022-07-14 14:09:53,197 - root: Fitting daily sampler for cluster 9 with 325 days.
+2022-07-14 14:10:27,655 - root: Daily sampler for cluster 9 fit in -34.45769906044006
+2022-07-14 14:10:27,655 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 14:10:28,942 - root: Daily sampler for cluster 10 fit in -1.286756992340088
+2022-07-14 14:10:28,943 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 14:10:30,139 - root: Daily sampler for cluster 11 fit in -1.196033239364624
+2022-07-14 14:10:30,139 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 14:10:31,350 - root: Daily sampler for cluster 12 fit in -1.2110753059387207
+2022-07-14 14:10:31,351 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 14:10:32,579 - root: Daily sampler for cluster 13 fit in -1.2283618450164795
+2022-07-14 14:10:32,579 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 14:10:33,797 - root: Daily sampler for cluster 14 fit in -1.2178843021392822
+2022-07-14 14:10:33,798 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 14:10:35,030 - root: Daily sampler for cluster 15 fit in -1.2327618598937988
+2022-07-14 14:10:35,031 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 14:10:36,164 - root: Daily sampler for cluster 16 fit in -1.1335968971252441
+2022-07-14 14:10:36,164 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 14:10:37,378 - root: Daily sampler for cluster 17 fit in -1.2134478092193604
+2022-07-14 14:10:37,379 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 14:10:38,618 - root: Daily sampler for cluster 18 fit in -1.2383484840393066
+2022-07-14 14:10:38,618 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 14:10:39,848 - root: Daily sampler for cluster 19 fit in -1.2291512489318848
+2022-07-14 14:10:39,848 - root: Fitting daily sampler for cluster 20 with 3 days.
+2022-07-14 14:10:42,023 - root: Daily sampler for cluster 20 fit in -2.175389528274536
+2022-07-14 14:10:42,023 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 14:10:43,327 - root: Daily sampler for cluster 21 fit in -1.3033361434936523
+2022-07-14 14:10:43,327 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 14:10:44,632 - root: Daily sampler for cluster 22 fit in -1.3048930168151855
+2022-07-14 14:10:44,632 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 14:10:45,930 - root: Daily sampler for cluster 23 fit in -1.2981352806091309
+2022-07-14 14:10:45,931 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 14:10:47,182 - root: Daily sampler for cluster 24 fit in -1.2508320808410645
+2022-07-14 14:10:47,182 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 14:10:48,433 - root: Daily sampler for cluster 25 fit in -1.250741720199585
+2022-07-14 14:10:48,433 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 14:10:49,707 - root: Daily sampler for cluster 26 fit in -1.2738938331604004
+2022-07-14 14:10:49,707 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 14:10:50,954 - root: Daily sampler for cluster 27 fit in -1.2463996410369873
+2022-07-14 14:10:50,954 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 14:10:52,270 - root: Daily sampler for cluster 28 fit in -1.315981149673462
+2022-07-14 14:10:52,270 - root: Fitting daily sampler for cluster 29 with 51 days.
+2022-07-14 14:11:01,303 - root: Daily sampler for cluster 29 fit in -9.03247880935669
+2022-07-14 14:11:01,303 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 14:11:02,568 - root: Daily sampler for cluster 30 fit in -1.2648515701293945
+2022-07-14 14:11:02,568 - root: Fitting daily sampler for cluster 31 with 230 days.
+2022-07-14 14:11:25,785 - root: Daily sampler for cluster 31 fit in -23.216656923294067
+2022-07-14 14:11:25,786 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 14:11:27,163 - root: Daily sampler for cluster 32 fit in -1.3770058155059814
+2022-07-14 14:11:27,163 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 14:11:28,528 - root: Daily sampler for cluster 33 fit in -1.3655240535736084
+2022-07-14 14:11:28,529 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 14:11:29,885 - root: Daily sampler for cluster 34 fit in -1.3560791015625
+2022-07-14 14:11:30,140 - root: scattering training data ( 477.61 MB) and sampler ( 18.98 MB)
+2022-07-14 14:12:55,122 - root: Setting-up all the tasks
+2022-07-14 14:12:55,782 - root: computing the tasks
+2022-07-14 14:52:22,591 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f0168ab90>
+2022-07-14 14:52:22,591 - root: Starting fit in elbow method
+2022-07-14 14:52:22,591 - root: Calculating distance matrix
+2022-07-14 14:54:33,876 - root: 3.39 used in distance matrix
+2022-07-14 14:54:33,914 - root: Iteration 0/19 took 0.03714108467102051 for 10 clusters (best_inertia = 52.01)
+2022-07-14 14:54:33,947 - root: Iteration 1/19 took 0.033035993576049805 for 15 clusters (best_inertia = 39.81)
+2022-07-14 14:54:33,990 - root: Iteration 2/19 took 0.042420148849487305 for 20 clusters (best_inertia = 32.15)
+2022-07-14 14:54:34,026 - root: Iteration 3/19 took 0.036211252212524414 for 25 clusters (best_inertia = 26.58)
+2022-07-14 14:54:34,050 - root: Iteration 4/19 took 0.023925304412841797 for 30 clusters (best_inertia = 22.52)
+2022-07-14 14:54:34,082 - root: Iteration 5/19 took 0.03184390068054199 for 35 clusters (best_inertia = 19.64)
+2022-07-14 14:54:34,114 - root: Iteration 6/19 took 0.0314176082611084 for 40 clusters (best_inertia = 17.61)
+2022-07-14 14:54:34,145 - root: Iteration 7/19 took 0.0314936637878418 for 45 clusters (best_inertia = 16.24)
+2022-07-14 14:54:34,177 - root: Iteration 8/19 took 0.03142070770263672 for 50 clusters (best_inertia = 15.16)
+2022-07-14 14:54:34,210 - root: Iteration 9/19 took 0.032865285873413086 for 55 clusters (best_inertia = 14.24)
+2022-07-14 14:54:34,241 - root: Iteration 10/19 took 0.030912399291992188 for 60 clusters (best_inertia = 13.45)
+2022-07-14 14:54:34,276 - root: Iteration 11/19 took 0.03517866134643555 for 65 clusters (best_inertia = 12.81)
+2022-07-14 14:54:34,308 - root: Iteration 12/19 took 0.03170275688171387 for 70 clusters (best_inertia = 12.25)
+2022-07-14 14:54:34,341 - root: Iteration 13/19 took 0.03372478485107422 for 75 clusters (best_inertia = 11.77)
+2022-07-14 14:54:34,378 - root: Iteration 14/19 took 0.03706169128417969 for 80 clusters (best_inertia = 11.32)
+2022-07-14 14:54:34,412 - root: Iteration 15/19 took 0.033585309982299805 for 85 clusters (best_inertia = 10.90)
+2022-07-14 14:54:34,445 - root: Iteration 16/19 took 0.03237462043762207 for 90 clusters (best_inertia = 10.53)
+2022-07-14 14:54:34,485 - root: Iteration 17/19 took 0.04056978225708008 for 95 clusters (best_inertia = 10.19)
+2022-07-14 14:54:34,528 - root: Iteration 18/19 took 0.042281389236450195 for 100 clusters (best_inertia = 9.88)
+2022-07-14 14:54:34,529 - root: Found optimal number of clusters of 35
+2022-07-14 14:54:34,679 - root: Fitting yearly sampler took 132.08863854408264
+2022-07-14 14:54:34,681 - root: Fitting the daily samplers
+2022-07-14 14:54:34,682 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 14:54:35,982 - root: Daily sampler for cluster 0 fit in -1.3003859519958496
+2022-07-14 14:54:35,983 - root: Fitting daily sampler for cluster 1 with 21 days.
+2022-07-14 14:54:40,427 - root: Daily sampler for cluster 1 fit in -4.444494962692261
+2022-07-14 14:54:40,427 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 14:54:41,786 - root: Daily sampler for cluster 2 fit in -1.3580186367034912
+2022-07-14 14:54:41,786 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 14:54:43,088 - root: Daily sampler for cluster 3 fit in -1.3025398254394531
+2022-07-14 14:54:43,088 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 14:54:44,453 - root: Daily sampler for cluster 4 fit in -1.3641736507415771
+2022-07-14 14:54:44,453 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-14 14:54:45,799 - root: Daily sampler for cluster 5 fit in -1.345996379852295
+2022-07-14 14:54:45,799 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-14 14:54:47,180 - root: Daily sampler for cluster 6 fit in -1.381227731704712
+2022-07-14 14:54:47,181 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 14:54:48,511 - root: Daily sampler for cluster 7 fit in -1.3299129009246826
+2022-07-14 14:54:48,511 - root: Fitting daily sampler for cluster 8 with 51 days.
+2022-07-14 14:54:57,986 - root: Daily sampler for cluster 8 fit in -9.475459814071655
+2022-07-14 14:54:57,987 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 14:54:59,407 - root: Daily sampler for cluster 9 fit in -1.4198977947235107
+2022-07-14 14:54:59,407 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 14:55:00,752 - root: Daily sampler for cluster 10 fit in -1.3450751304626465
+2022-07-14 14:55:00,752 - root: Fitting daily sampler for cluster 11 with 230 days.
+2022-07-14 14:55:25,866 - root: Daily sampler for cluster 11 fit in -25.114088535308838
+2022-07-14 14:55:25,867 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 14:55:27,230 - root: Daily sampler for cluster 12 fit in -1.362921953201294
+2022-07-14 14:55:27,230 - root: Fitting daily sampler for cluster 13 with 325 days.
+2022-07-14 14:56:07,431 - root: Daily sampler for cluster 13 fit in -40.200512647628784
+2022-07-14 14:56:07,431 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 14:56:08,774 - root: Daily sampler for cluster 14 fit in -1.3427472114562988
+2022-07-14 14:56:08,774 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 14:56:10,139 - root: Daily sampler for cluster 15 fit in -1.36419677734375
+2022-07-14 14:56:10,139 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 14:56:11,531 - root: Daily sampler for cluster 16 fit in -1.3922600746154785
+2022-07-14 14:56:11,531 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 14:56:12,896 - root: Daily sampler for cluster 17 fit in -1.3646965026855469
+2022-07-14 14:56:12,896 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 14:56:14,259 - root: Daily sampler for cluster 18 fit in -1.3629341125488281
+2022-07-14 14:56:14,259 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 14:56:15,663 - root: Daily sampler for cluster 19 fit in -1.4033613204956055
+2022-07-14 14:56:15,663 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 14:56:17,049 - root: Daily sampler for cluster 20 fit in -1.3860244750976562
+2022-07-14 14:56:17,049 - root: Fitting daily sampler for cluster 21 with 8 days.
+2022-07-14 14:56:20,370 - root: Daily sampler for cluster 21 fit in -3.320784568786621
+2022-07-14 14:56:20,370 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 14:56:21,782 - root: Daily sampler for cluster 22 fit in -1.4117906093597412
+2022-07-14 14:56:21,783 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 14:56:23,205 - root: Daily sampler for cluster 23 fit in -1.4226534366607666
+2022-07-14 14:56:23,205 - root: Fitting daily sampler for cluster 24 with 3 days.
+2022-07-14 14:56:25,624 - root: Daily sampler for cluster 24 fit in -2.4181087017059326
+2022-07-14 14:56:25,624 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 14:56:26,995 - root: Daily sampler for cluster 25 fit in -1.3708868026733398
+2022-07-14 14:56:26,995 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 14:56:28,429 - root: Daily sampler for cluster 26 fit in -1.4337568283081055
+2022-07-14 14:56:28,429 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 14:56:29,827 - root: Daily sampler for cluster 27 fit in -1.397395372390747
+2022-07-14 14:56:29,827 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 14:56:31,256 - root: Daily sampler for cluster 28 fit in -1.4291648864746094
+2022-07-14 14:56:31,256 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 14:56:32,675 - root: Daily sampler for cluster 29 fit in -1.41829252243042
+2022-07-14 14:56:32,675 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 14:56:34,053 - root: Daily sampler for cluster 30 fit in -1.3785722255706787
+2022-07-14 14:56:34,054 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 14:56:35,372 - root: Daily sampler for cluster 31 fit in -1.318077802658081
+2022-07-14 14:56:35,372 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 14:56:36,642 - root: Daily sampler for cluster 32 fit in -1.2697372436523438
+2022-07-14 14:56:36,642 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 14:56:37,990 - root: Daily sampler for cluster 33 fit in -1.3478593826293945
+2022-07-14 14:56:37,991 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 14:56:39,364 - root: Daily sampler for cluster 34 fit in -1.3735508918762207
+2022-07-14 14:56:39,575 - root: scattering training data ( 477.61 MB) and sampler ( 19.53 MB)
+2022-07-14 14:58:00,072 - root: Setting-up all the tasks
+2022-07-14 14:58:00,528 - root: computing the tasks
+2022-07-14 15:37:55,414 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f01688280>
+2022-07-14 15:37:55,415 - root: Starting fit in elbow method
+2022-07-14 15:37:55,415 - root: Calculating distance matrix
+2022-07-14 15:40:04,426 - root: 3.39 used in distance matrix
+2022-07-14 15:40:04,461 - root: Iteration 0/19 took 0.03443765640258789 for 10 clusters (best_inertia = 52.01)
+2022-07-14 15:40:04,496 - root: Iteration 1/19 took 0.034784793853759766 for 15 clusters (best_inertia = 40.43)
+2022-07-14 15:40:04,538 - root: Iteration 2/19 took 0.041849374771118164 for 20 clusters (best_inertia = 31.84)
+2022-07-14 15:40:04,573 - root: Iteration 3/19 took 0.035386085510253906 for 25 clusters (best_inertia = 26.58)
+2022-07-14 15:40:04,601 - root: Iteration 4/19 took 0.027275562286376953 for 30 clusters (best_inertia = 22.52)
+2022-07-14 15:40:04,634 - root: Iteration 5/19 took 0.0335392951965332 for 35 clusters (best_inertia = 19.64)
+2022-07-14 15:40:04,665 - root: Iteration 6/19 took 0.03094339370727539 for 40 clusters (best_inertia = 17.61)
+2022-07-14 15:40:04,696 - root: Iteration 7/19 took 0.03036332130432129 for 45 clusters (best_inertia = 16.24)
+2022-07-14 15:40:04,728 - root: Iteration 8/19 took 0.03192925453186035 for 50 clusters (best_inertia = 15.16)
+2022-07-14 15:40:04,761 - root: Iteration 9/19 took 0.03280305862426758 for 55 clusters (best_inertia = 14.24)
+2022-07-14 15:40:04,791 - root: Iteration 10/19 took 0.030404329299926758 for 60 clusters (best_inertia = 13.45)
+2022-07-14 15:40:04,822 - root: Iteration 11/19 took 0.031177759170532227 for 65 clusters (best_inertia = 12.81)
+2022-07-14 15:40:04,855 - root: Iteration 12/19 took 0.0324091911315918 for 70 clusters (best_inertia = 12.25)
+2022-07-14 15:40:04,890 - root: Iteration 13/19 took 0.03552722930908203 for 75 clusters (best_inertia = 11.77)
+2022-07-14 15:40:04,928 - root: Iteration 14/19 took 0.03793454170227051 for 80 clusters (best_inertia = 11.32)
+2022-07-14 15:40:04,961 - root: Iteration 15/19 took 0.03188443183898926 for 85 clusters (best_inertia = 10.90)
+2022-07-14 15:40:04,993 - root: Iteration 16/19 took 0.0322270393371582 for 90 clusters (best_inertia = 10.53)
+2022-07-14 15:40:05,035 - root: Iteration 17/19 took 0.04200387001037598 for 95 clusters (best_inertia = 10.19)
+2022-07-14 15:40:05,074 - root: Iteration 18/19 took 0.03922247886657715 for 100 clusters (best_inertia = 9.88)
+2022-07-14 15:40:05,075 - root: Found optimal number of clusters of 35
+2022-07-14 15:40:05,215 - root: Fitting yearly sampler took 129.80021214485168
+2022-07-14 15:40:05,217 - root: Fitting the daily samplers
+2022-07-14 15:40:05,217 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 15:40:06,667 - root: Daily sampler for cluster 0 fit in -1.4496715068817139
+2022-07-14 15:40:06,667 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 15:40:08,080 - root: Daily sampler for cluster 1 fit in -1.4120993614196777
+2022-07-14 15:40:08,080 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 15:40:09,458 - root: Daily sampler for cluster 2 fit in -1.377685785293579
+2022-07-14 15:40:09,458 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 15:40:10,870 - root: Daily sampler for cluster 3 fit in -1.4120306968688965
+2022-07-14 15:40:10,870 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 15:40:12,226 - root: Daily sampler for cluster 4 fit in -1.3554794788360596
+2022-07-14 15:40:12,226 - root: Fitting daily sampler for cluster 5 with 21 days.
+2022-07-14 15:40:17,042 - root: Daily sampler for cluster 5 fit in -4.816324949264526
+2022-07-14 15:40:17,042 - root: Fitting daily sampler for cluster 6 with 325 days.
+2022-07-14 15:41:00,094 - root: Daily sampler for cluster 6 fit in -43.05152153968811
+2022-07-14 15:41:00,094 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-14 15:41:01,515 - root: Daily sampler for cluster 7 fit in -1.420485019683838
+2022-07-14 15:41:01,515 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 15:41:02,887 - root: Daily sampler for cluster 8 fit in -1.3712265491485596
+2022-07-14 15:41:02,887 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-14 15:41:04,179 - root: Daily sampler for cluster 9 fit in -1.2924211025238037
+2022-07-14 15:41:04,180 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 15:41:05,434 - root: Daily sampler for cluster 10 fit in -1.2541618347167969
+2022-07-14 15:41:05,434 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-14 15:41:06,784 - root: Daily sampler for cluster 11 fit in -1.3502986431121826
+2022-07-14 15:41:06,785 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 15:41:08,129 - root: Daily sampler for cluster 12 fit in -1.344421625137329
+2022-07-14 15:41:08,129 - root: Fitting daily sampler for cluster 13 with 3 days.
+2022-07-14 15:41:10,665 - root: Daily sampler for cluster 13 fit in -2.5353686809539795
+2022-07-14 15:41:10,665 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 15:41:12,032 - root: Daily sampler for cluster 14 fit in -1.3667552471160889
+2022-07-14 15:41:12,032 - root: Fitting daily sampler for cluster 15 with 230 days.
+2022-07-14 15:41:37,279 - root: Daily sampler for cluster 15 fit in -25.247071981430054
+2022-07-14 15:41:37,280 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 15:41:38,693 - root: Daily sampler for cluster 16 fit in -1.412879228591919
+2022-07-14 15:41:38,693 - root: Fitting daily sampler for cluster 17 with 51 days.
+2022-07-14 15:41:47,686 - root: Daily sampler for cluster 17 fit in -8.993067741394043
+2022-07-14 15:41:47,686 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 15:41:49,150 - root: Daily sampler for cluster 18 fit in -1.463719129562378
+2022-07-14 15:41:49,150 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 15:41:50,572 - root: Daily sampler for cluster 19 fit in -1.4216492176055908
+2022-07-14 15:41:50,572 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 15:41:51,933 - root: Daily sampler for cluster 20 fit in -1.361104965209961
+2022-07-14 15:41:51,934 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 15:41:53,323 - root: Daily sampler for cluster 21 fit in -1.3894104957580566
+2022-07-14 15:41:53,323 - root: Fitting daily sampler for cluster 22 with 8 days.
+2022-07-14 15:41:56,495 - root: Daily sampler for cluster 22 fit in -3.172184944152832
+2022-07-14 15:41:56,496 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 15:41:57,912 - root: Daily sampler for cluster 23 fit in -1.4163463115692139
+2022-07-14 15:41:57,912 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 15:41:59,308 - root: Daily sampler for cluster 24 fit in -1.3952865600585938
+2022-07-14 15:41:59,308 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 15:42:00,693 - root: Daily sampler for cluster 25 fit in -1.384744644165039
+2022-07-14 15:42:00,693 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 15:42:02,066 - root: Daily sampler for cluster 26 fit in -1.3726649284362793
+2022-07-14 15:42:02,066 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-14 15:42:03,442 - root: Daily sampler for cluster 27 fit in -1.37624192237854
+2022-07-14 15:42:03,443 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 15:42:04,765 - root: Daily sampler for cluster 28 fit in -1.3221914768218994
+2022-07-14 15:42:04,765 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 15:42:06,057 - root: Daily sampler for cluster 29 fit in -1.291306972503662
+2022-07-14 15:42:06,057 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 15:42:07,485 - root: Daily sampler for cluster 30 fit in -1.4284181594848633
+2022-07-14 15:42:07,486 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 15:42:08,955 - root: Daily sampler for cluster 31 fit in -1.4688892364501953
+2022-07-14 15:42:08,955 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 15:42:10,379 - root: Daily sampler for cluster 32 fit in -1.4239442348480225
+2022-07-14 15:42:10,379 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-07-14 15:42:11,819 - root: Daily sampler for cluster 33 fit in -1.440183401107788
+2022-07-14 15:42:11,819 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 15:42:13,201 - root: Daily sampler for cluster 34 fit in -1.381343126296997
+2022-07-14 15:42:13,417 - root: scattering training data ( 477.61 MB) and sampler ( 20.08 MB)
+2022-07-14 15:43:53,118 - root: Setting-up all the tasks
+2022-07-14 15:43:53,580 - root: computing the tasks
+2022-07-14 16:23:57,773 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f9f0168afe0>
+2022-07-14 16:23:57,774 - root: Starting fit in elbow method
+2022-07-14 16:23:57,774 - root: Calculating distance matrix
+2022-07-14 16:26:03,507 - root: 3.39 used in distance matrix
+2022-07-14 16:26:03,542 - root: Iteration 0/19 took 0.03509211540222168 for 10 clusters (best_inertia = 52.01)
+2022-07-14 16:26:03,577 - root: Iteration 1/19 took 0.03467297554016113 for 15 clusters (best_inertia = 40.43)
+2022-07-14 16:26:03,622 - root: Iteration 2/19 took 0.044469356536865234 for 20 clusters (best_inertia = 31.84)
+2022-07-14 16:26:03,658 - root: Iteration 3/19 took 0.03627371788024902 for 25 clusters (best_inertia = 26.58)
+2022-07-14 16:26:03,688 - root: Iteration 4/19 took 0.03023076057434082 for 30 clusters (best_inertia = 22.52)
+2022-07-14 16:26:03,721 - root: Iteration 5/19 took 0.03279447555541992 for 35 clusters (best_inertia = 19.64)
+2022-07-14 16:26:03,751 - root: Iteration 6/19 took 0.029761075973510742 for 40 clusters (best_inertia = 17.61)
+2022-07-14 16:26:03,781 - root: Iteration 7/19 took 0.029677867889404297 for 45 clusters (best_inertia = 16.24)
+2022-07-14 16:26:03,812 - root: Iteration 8/19 took 0.030729055404663086 for 50 clusters (best_inertia = 15.16)
+2022-07-14 16:26:03,844 - root: Iteration 9/19 took 0.03255033493041992 for 55 clusters (best_inertia = 14.24)
+2022-07-14 16:26:03,875 - root: Iteration 10/19 took 0.030626773834228516 for 60 clusters (best_inertia = 13.45)
+2022-07-14 16:26:03,907 - root: Iteration 11/19 took 0.03163599967956543 for 65 clusters (best_inertia = 12.81)
+2022-07-14 16:26:03,939 - root: Iteration 12/19 took 0.03178095817565918 for 70 clusters (best_inertia = 12.25)
+2022-07-14 16:26:03,974 - root: Iteration 13/19 took 0.03528761863708496 for 75 clusters (best_inertia = 11.77)
+2022-07-14 16:26:04,011 - root: Iteration 14/19 took 0.03662395477294922 for 80 clusters (best_inertia = 11.32)
+2022-07-14 16:26:04,044 - root: Iteration 15/19 took 0.03320026397705078 for 85 clusters (best_inertia = 10.90)
+2022-07-14 16:26:04,073 - root: Iteration 16/19 took 0.029343366622924805 for 90 clusters (best_inertia = 10.53)
+2022-07-14 16:26:04,115 - root: Iteration 17/19 took 0.04142403602600098 for 95 clusters (best_inertia = 10.19)
+2022-07-14 16:26:04,155 - root: Iteration 18/19 took 0.04053616523742676 for 100 clusters (best_inertia = 9.88)
+2022-07-14 16:26:04,156 - root: Found optimal number of clusters of 35
+2022-07-14 16:26:04,305 - root: Fitting yearly sampler took 126.53185629844666
+2022-07-14 16:26:04,307 - root: Fitting the daily samplers
+2022-07-14 16:26:04,308 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-14 16:26:05,830 - root: Daily sampler for cluster 0 fit in -1.5218071937561035
+2022-07-14 16:26:05,830 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-14 16:26:07,244 - root: Daily sampler for cluster 1 fit in -1.4144911766052246
+2022-07-14 16:26:07,245 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-14 16:26:08,742 - root: Daily sampler for cluster 2 fit in -1.4975337982177734
+2022-07-14 16:26:08,743 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-14 16:26:10,159 - root: Daily sampler for cluster 3 fit in -1.416262149810791
+2022-07-14 16:26:10,159 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-14 16:26:11,544 - root: Daily sampler for cluster 4 fit in -1.3844902515411377
+2022-07-14 16:26:11,544 - root: Fitting daily sampler for cluster 5 with 51 days.
+2022-07-14 16:26:21,415 - root: Daily sampler for cluster 5 fit in -9.87075400352478
+2022-07-14 16:26:21,415 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-14 16:26:22,812 - root: Daily sampler for cluster 6 fit in -1.3965811729431152
+2022-07-14 16:26:22,812 - root: Fitting daily sampler for cluster 7 with 3 days.
+2022-07-14 16:26:24,703 - root: Daily sampler for cluster 7 fit in -1.890397548675537
+2022-07-14 16:26:24,703 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-14 16:26:26,042 - root: Daily sampler for cluster 8 fit in -1.3393316268920898
+2022-07-14 16:26:26,043 - root: Fitting daily sampler for cluster 9 with 21 days.
+2022-07-14 16:26:30,826 - root: Daily sampler for cluster 9 fit in -4.78309965133667
+2022-07-14 16:26:30,826 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-14 16:26:32,102 - root: Daily sampler for cluster 10 fit in -1.2760298252105713
+2022-07-14 16:26:32,103 - root: Fitting daily sampler for cluster 11 with 230 days.
+2022-07-14 16:27:01,851 - root: Daily sampler for cluster 11 fit in -29.74868893623352
+2022-07-14 16:27:01,852 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-14 16:27:03,164 - root: Daily sampler for cluster 12 fit in -1.3121004104614258
+2022-07-14 16:27:03,164 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-07-14 16:27:04,492 - root: Daily sampler for cluster 13 fit in -1.3279242515563965
+2022-07-14 16:27:04,492 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-14 16:27:05,750 - root: Daily sampler for cluster 14 fit in -1.2573168277740479
+2022-07-14 16:27:05,750 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-14 16:27:07,132 - root: Daily sampler for cluster 15 fit in -1.3822672367095947
+2022-07-14 16:27:07,133 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-07-14 16:27:08,493 - root: Daily sampler for cluster 16 fit in -1.360215663909912
+2022-07-14 16:27:08,493 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-14 16:27:09,923 - root: Daily sampler for cluster 17 fit in -1.4294219017028809
+2022-07-14 16:27:09,923 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-14 16:27:11,335 - root: Daily sampler for cluster 18 fit in -1.411980390548706
+2022-07-14 16:27:11,335 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-14 16:27:12,815 - root: Daily sampler for cluster 19 fit in -1.4796583652496338
+2022-07-14 16:27:12,815 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-14 16:27:14,281 - root: Daily sampler for cluster 20 fit in -1.4655940532684326
+2022-07-14 16:27:14,281 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-14 16:27:15,753 - root: Daily sampler for cluster 21 fit in -1.472334384918213
+2022-07-14 16:27:15,754 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-14 16:27:17,230 - root: Daily sampler for cluster 22 fit in -1.4765293598175049
+2022-07-14 16:27:17,230 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-07-14 16:27:18,654 - root: Daily sampler for cluster 23 fit in -1.4235637187957764
+2022-07-14 16:27:18,654 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-14 16:27:20,079 - root: Daily sampler for cluster 24 fit in -1.424290418624878
+2022-07-14 16:27:20,079 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-07-14 16:27:21,580 - root: Daily sampler for cluster 25 fit in -1.5007562637329102
+2022-07-14 16:27:21,580 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-14 16:27:22,988 - root: Daily sampler for cluster 26 fit in -1.4080536365509033
+2022-07-14 16:27:22,988 - root: Fitting daily sampler for cluster 27 with 325 days.
+2022-07-14 16:28:07,647 - root: Daily sampler for cluster 27 fit in -44.6587016582489
+2022-07-14 16:28:07,648 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-14 16:28:09,109 - root: Daily sampler for cluster 28 fit in -1.4603157043457031
+2022-07-14 16:28:09,109 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-07-14 16:28:10,497 - root: Daily sampler for cluster 29 fit in -1.3876152038574219
+2022-07-14 16:28:10,497 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-14 16:28:11,941 - root: Daily sampler for cluster 30 fit in -1.4443681240081787
+2022-07-14 16:28:11,942 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-14 16:28:13,395 - root: Daily sampler for cluster 31 fit in -1.4534783363342285
+2022-07-14 16:28:13,395 - root: Fitting daily sampler for cluster 32 with 1 days.
+2022-07-14 16:28:14,928 - root: Daily sampler for cluster 32 fit in -1.532654047012329
+2022-07-14 16:28:14,928 - root: Fitting daily sampler for cluster 33 with 8 days.
+2022-07-14 16:28:18,343 - root: Daily sampler for cluster 33 fit in -3.414637565612793
+2022-07-14 16:28:18,343 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-14 16:28:19,791 - root: Daily sampler for cluster 34 fit in -1.4474785327911377
+2022-07-14 16:28:20,003 - root: scattering training data ( 477.61 MB) and sampler ( 20.63 MB)
+2022-07-14 16:29:59,543 - root: Setting-up all the tasks
+2022-07-14 16:30:00,004 - root: computing the tasks
+2022-07-14 17:10:58,076 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-07-14 17:10:58,077 - asyncssh: [conn=5] Requesting key exchange
+2022-07-14 17:10:58,078 - asyncssh: [conn=5] Closing connection
+2022-07-14 17:10:58,078 - asyncssh: [conn=5, chan=1] Closing channel
+2022-07-14 17:10:58,078 - asyncssh: [conn=5] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,079 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-07-14 17:10:58,079 - asyncssh: [conn=1] Requesting key exchange
+2022-07-14 17:10:58,080 - asyncssh: [conn=1] Closing connection
+2022-07-14 17:10:58,080 - asyncssh: [conn=1, chan=1] Closing channel
+2022-07-14 17:10:58,080 - asyncssh: [conn=1] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,081 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-07-14 17:10:58,081 - asyncssh: [conn=4] Requesting key exchange
+2022-07-14 17:10:58,082 - asyncssh: [conn=4] Closing connection
+2022-07-14 17:10:58,082 - asyncssh: [conn=4, chan=1] Closing channel
+2022-07-14 17:10:58,082 - asyncssh: [conn=4] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,083 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-07-14 17:10:58,083 - asyncssh: [conn=9] Requesting key exchange
+2022-07-14 17:10:58,084 - asyncssh: [conn=9] Closing connection
+2022-07-14 17:10:58,084 - asyncssh: [conn=9, chan=1] Closing channel
+2022-07-14 17:10:58,084 - asyncssh: [conn=9] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,084 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-07-14 17:10:58,084 - asyncssh: [conn=7] Requesting key exchange
+2022-07-14 17:10:58,085 - asyncssh: [conn=7] Closing connection
+2022-07-14 17:10:58,085 - asyncssh: [conn=7, chan=1] Closing channel
+2022-07-14 17:10:58,085 - asyncssh: [conn=7] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,086 - asyncssh: [conn=13, chan=1] Sending KILL signal
+2022-07-14 17:10:58,086 - asyncssh: [conn=13] Requesting key exchange
+2022-07-14 17:10:58,086 - asyncssh: [conn=13] Closing connection
+2022-07-14 17:10:58,086 - asyncssh: [conn=13, chan=1] Closing channel
+2022-07-14 17:10:58,086 - asyncssh: [conn=13] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,087 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-07-14 17:10:58,087 - asyncssh: [conn=3] Requesting key exchange
+2022-07-14 17:10:58,088 - asyncssh: [conn=3] Closing connection
+2022-07-14 17:10:58,088 - asyncssh: [conn=3, chan=1] Closing channel
+2022-07-14 17:10:58,088 - asyncssh: [conn=3] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,088 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-07-14 17:10:58,088 - asyncssh: [conn=10] Requesting key exchange
+2022-07-14 17:10:58,089 - asyncssh: [conn=10] Closing connection
+2022-07-14 17:10:58,089 - asyncssh: [conn=10, chan=1] Closing channel
+2022-07-14 17:10:58,089 - asyncssh: [conn=10] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,090 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-07-14 17:10:58,090 - asyncssh: [conn=2] Requesting key exchange
+2022-07-14 17:10:58,090 - asyncssh: [conn=2] Closing connection
+2022-07-14 17:10:58,090 - asyncssh: [conn=2, chan=1] Closing channel
+2022-07-14 17:10:58,091 - asyncssh: [conn=2] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,091 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-07-14 17:10:58,091 - asyncssh: [conn=8] Requesting key exchange
+2022-07-14 17:10:58,092 - asyncssh: [conn=8] Closing connection
+2022-07-14 17:10:58,092 - asyncssh: [conn=8, chan=1] Closing channel
+2022-07-14 17:10:58,092 - asyncssh: [conn=8] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,092 - asyncssh: [conn=12, chan=1] Sending KILL signal
+2022-07-14 17:10:58,092 - asyncssh: [conn=12] Requesting key exchange
+2022-07-14 17:10:58,093 - asyncssh: [conn=12] Closing connection
+2022-07-14 17:10:58,093 - asyncssh: [conn=12, chan=1] Closing channel
+2022-07-14 17:10:58,093 - asyncssh: [conn=12] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,093 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-07-14 17:10:58,093 - asyncssh: [conn=6] Requesting key exchange
+2022-07-14 17:10:58,094 - asyncssh: [conn=6] Closing connection
+2022-07-14 17:10:58,094 - asyncssh: [conn=6, chan=1] Closing channel
+2022-07-14 17:10:58,094 - asyncssh: [conn=6] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,094 - asyncssh: [conn=11, chan=1] Sending KILL signal
+2022-07-14 17:10:58,094 - asyncssh: [conn=11] Requesting key exchange
+2022-07-14 17:10:58,095 - asyncssh: [conn=11] Closing connection
+2022-07-14 17:10:58,095 - asyncssh: [conn=11, chan=1] Closing channel
+2022-07-14 17:10:58,095 - asyncssh: [conn=11] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:58,095 - asyncssh: [conn=5] Connection closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=5, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,095 - asyncssh: [conn=5, chan=1] Channel closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=1] Connection closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=1, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,095 - asyncssh: [conn=1, chan=1] Channel closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=4] Connection closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=4, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,095 - asyncssh: [conn=4, chan=1] Channel closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=9] Connection closed
+2022-07-14 17:10:58,095 - asyncssh: [conn=9, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,095 - asyncssh: [conn=9, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=7] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=7, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=7, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=13] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=13, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=13, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=3] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=3, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=3, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=10] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=10, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=10, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=2] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=2, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=2, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=8] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=8, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=8, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=12] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=12, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=12, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=6] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=6, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=6, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=11] Connection closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=11, chan=1] Closing channel due to connection close
+2022-07-14 17:10:58,096 - asyncssh: [conn=11, chan=1] Channel closed
+2022-07-14 17:10:58,096 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=13, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=12, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-07-14 17:10:58,097 - asyncssh: [conn=11, chan=1] Sending KILL signal
+2022-07-14 17:10:59,128 - asyncssh: [conn=0, chan=1] Sending KILL signal
+2022-07-14 17:10:59,128 - asyncssh: [conn=0] Requesting key exchange
+2022-07-14 17:10:59,129 - asyncssh: [conn=0] Closing connection
+2022-07-14 17:10:59,130 - asyncssh: [conn=0, chan=1] Closing channel
+2022-07-14 17:10:59,130 - asyncssh: [conn=0] Sending disconnect: Disconnected by application (11)
+2022-07-14 17:10:59,131 - asyncssh: [conn=0] Connection closed
+2022-07-14 17:10:59,131 - asyncssh: [conn=0, chan=1] Closing channel due to connection close
+2022-07-14 17:10:59,132 - asyncssh: [conn=0, chan=1] Channel closed

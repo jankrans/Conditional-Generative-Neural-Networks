@@ -1,0 +1,920 @@
+2022-07-06 17:36:42,576 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7ff6e9068a00>
+2022-07-06 17:36:42,693 - root: Starting fit in elbow method
+2022-07-06 17:36:42,693 - root: Calculating distance matrix
+2022-07-06 17:38:50,076 - root: 3.38 used in distance matrix
+2022-07-06 17:38:50,113 - root: Iteration 0/19 took 0.03669333457946777 for 10 clusters (best_inertia = 51.79)
+2022-07-06 17:38:50,156 - root: Iteration 1/19 took 0.042871713638305664 for 15 clusters (best_inertia = 41.83)
+2022-07-06 17:38:50,183 - root: Iteration 2/19 took 0.026285171508789062 for 20 clusters (best_inertia = 34.26)
+2022-07-06 17:38:50,211 - root: Iteration 3/19 took 0.028455495834350586 for 25 clusters (best_inertia = 27.94)
+2022-07-06 17:38:50,245 - root: Iteration 4/19 took 0.033774375915527344 for 30 clusters (best_inertia = 23.81)
+2022-07-06 17:38:50,273 - root: Iteration 5/19 took 0.027996063232421875 for 35 clusters (best_inertia = 20.76)
+2022-07-06 17:38:50,301 - root: Iteration 6/19 took 0.027935504913330078 for 40 clusters (best_inertia = 18.70)
+2022-07-06 17:38:50,330 - root: Iteration 7/19 took 0.028442859649658203 for 45 clusters (best_inertia = 17.18)
+2022-07-06 17:38:50,358 - root: Iteration 8/19 took 0.027906179428100586 for 50 clusters (best_inertia = 16.08)
+2022-07-06 17:38:50,380 - root: Iteration 9/19 took 0.02234029769897461 for 55 clusters (best_inertia = 15.11)
+2022-07-06 17:38:50,409 - root: Iteration 10/19 took 0.02880263328552246 for 60 clusters (best_inertia = 14.23)
+2022-07-06 17:38:50,436 - root: Iteration 11/19 took 0.02687859535217285 for 65 clusters (best_inertia = 13.47)
+2022-07-06 17:38:50,458 - root: Iteration 12/19 took 0.022095680236816406 for 70 clusters (best_inertia = 12.82)
+2022-07-06 17:38:50,481 - root: Iteration 13/19 took 0.02282238006591797 for 75 clusters (best_inertia = 12.29)
+2022-07-06 17:38:50,510 - root: Iteration 14/19 took 0.02885746955871582 for 80 clusters (best_inertia = 11.81)
+2022-07-06 17:38:50,540 - root: Iteration 15/19 took 0.029721736907958984 for 85 clusters (best_inertia = 11.39)
+2022-07-06 17:38:50,567 - root: Iteration 16/19 took 0.027189016342163086 for 90 clusters (best_inertia = 10.98)
+2022-07-06 17:38:50,594 - root: Iteration 17/19 took 0.02712702751159668 for 95 clusters (best_inertia = 10.59)
+2022-07-06 17:38:50,622 - root: Iteration 18/19 took 0.027929067611694336 for 100 clusters (best_inertia = 10.24)
+2022-07-06 17:38:50,627 - root: Found optimal number of clusters of 35
+2022-07-06 17:38:50,766 - root: Fitting yearly sampler took 128.18917798995972
+2022-07-06 17:38:50,768 - root: Fitting the daily samplers
+2022-07-06 17:38:50,768 - root: Fitting daily sampler for cluster 0 with 1 days.
+2022-07-06 17:38:50,833 - root: Starting fit in elbow method
+2022-07-06 17:38:51,571 - root: Iteration 0/19 took 0.7378242015838623 for 10 clusters (best_inertia = 5698.18)
+2022-07-06 17:38:52,295 - root: Iteration 1/19 took 0.7235572338104248 for 15 clusters (best_inertia = 5034.46)
+2022-07-06 17:38:53,060 - root: Iteration 2/19 took 0.7649128437042236 for 20 clusters (best_inertia = 4721.66)
+2022-07-06 17:38:53,887 - root: Iteration 3/19 took 0.8272159099578857 for 25 clusters (best_inertia = 4438.46)
+2022-07-06 17:38:54,724 - root: Iteration 4/19 took 0.8368089199066162 for 30 clusters (best_inertia = 4233.34)
+2022-07-06 17:38:55,567 - root: Iteration 5/19 took 0.8427717685699463 for 35 clusters (best_inertia = 4049.18)
+2022-07-06 17:38:56,462 - root: Iteration 6/19 took 0.8945960998535156 for 40 clusters (best_inertia = 3856.79)
+2022-07-06 17:38:57,364 - root: Iteration 7/19 took 0.9009897708892822 for 45 clusters (best_inertia = 3712.69)
+2022-07-06 17:38:58,340 - root: Iteration 8/19 took 0.9759042263031006 for 50 clusters (best_inertia = 3521.70)
+2022-07-06 17:38:59,355 - root: Iteration 9/19 took 1.0143227577209473 for 55 clusters (best_inertia = 3378.55)
+2022-07-06 17:39:00,364 - root: Iteration 10/19 took 1.0091407299041748 for 60 clusters (best_inertia = 3186.27)
+2022-07-06 17:39:01,442 - root: Iteration 11/19 took 1.0780305862426758 for 65 clusters (best_inertia = 3062.36)
+2022-07-06 17:39:02,492 - root: Iteration 12/19 took 1.0491063594818115 for 70 clusters (best_inertia = 2889.58)
+2022-07-06 17:39:03,544 - root: Iteration 13/19 took 1.0519838333129883 for 75 clusters (best_inertia = 2800.34)
+2022-07-06 17:39:04,632 - root: Iteration 14/19 took 1.0880630016326904 for 80 clusters (best_inertia = 2678.83)
+2022-07-06 17:39:05,717 - root: Iteration 15/19 took 1.083885908126831 for 85 clusters (best_inertia = 2497.51)
+2022-07-06 17:39:06,881 - root: Iteration 16/19 took 1.1639628410339355 for 90 clusters (best_inertia = 2400.49)
+2022-07-06 17:39:08,032 - root: Iteration 17/19 took 1.1514112949371338 for 95 clusters (best_inertia = 2279.67)
+2022-07-06 17:39:09,238 - root: Iteration 18/19 took 1.2056143283843994 for 100 clusters (best_inertia = 2192.35)
+2022-07-06 17:39:09,239 - root: Found optimal number of clusters of 30
+2022-07-06 17:39:09,405 - root: Daily sampler for cluster 0 fit in -18.637041807174683
+2022-07-06 17:39:09,406 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-07-06 17:39:09,469 - root: Starting fit in elbow method
+2022-07-06 17:39:10,258 - root: Iteration 0/19 took 0.7891972064971924 for 10 clusters (best_inertia = 11627.37)
+2022-07-06 17:39:10,932 - root: Iteration 1/19 took 0.6732709407806396 for 15 clusters (best_inertia = 10236.85)
+2022-07-06 17:39:11,689 - root: Iteration 2/19 took 0.7571530342102051 for 20 clusters (best_inertia = 9426.23)
+2022-07-06 17:39:12,452 - root: Iteration 3/19 took 0.7623202800750732 for 25 clusters (best_inertia = 8742.31)
+2022-07-06 17:39:13,246 - root: Iteration 4/19 took 0.7942225933074951 for 30 clusters (best_inertia = 8267.63)
+2022-07-06 17:39:14,202 - root: Iteration 5/19 took 0.9559752941131592 for 35 clusters (best_inertia = 7898.30)
+2022-07-06 17:39:15,142 - root: Iteration 6/19 took 0.9392859935760498 for 40 clusters (best_inertia = 7513.44)
+2022-07-06 17:39:16,112 - root: Iteration 7/19 took 0.969555139541626 for 45 clusters (best_inertia = 7092.39)
+2022-07-06 17:39:17,071 - root: Iteration 8/19 took 0.9588830471038818 for 50 clusters (best_inertia = 6815.60)
+2022-07-06 17:39:18,025 - root: Iteration 9/19 took 0.953533411026001 for 55 clusters (best_inertia = 6497.31)
+2022-07-06 17:39:19,110 - root: Iteration 10/19 took 1.0850224494934082 for 60 clusters (best_inertia = 6310.24)
+2022-07-06 17:39:20,233 - root: Iteration 11/19 took 1.1225693225860596 for 65 clusters (best_inertia = 6043.74)
+2022-07-06 17:39:21,312 - root: Iteration 12/19 took 1.0790355205535889 for 70 clusters (best_inertia = 5815.09)
+2022-07-06 17:39:22,438 - root: Iteration 13/19 took 1.1255807876586914 for 75 clusters (best_inertia = 5525.11)
+2022-07-06 17:39:23,520 - root: Iteration 14/19 took 1.0823020935058594 for 80 clusters (best_inertia = 5317.81)
+2022-07-06 17:39:24,639 - root: Iteration 15/19 took 1.1185133457183838 for 85 clusters (best_inertia = 5146.75)
+2022-07-06 17:39:25,717 - root: Iteration 16/19 took 1.077268362045288 for 90 clusters (best_inertia = 5007.62)
+2022-07-06 17:39:26,822 - root: Iteration 17/19 took 1.104616403579712 for 95 clusters (best_inertia = 4781.64)
+2022-07-06 17:39:27,999 - root: Iteration 18/19 took 1.1773662567138672 for 100 clusters (best_inertia = 4632.77)
+2022-07-06 17:39:28,000 - root: Found optimal number of clusters of 45
+2022-07-06 17:39:28,188 - root: Daily sampler for cluster 1 fit in -18.7823486328125
+2022-07-06 17:39:28,188 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-07-06 17:39:28,258 - root: Starting fit in elbow method
+2022-07-06 17:39:28,996 - root: Iteration 0/19 took 0.7380032539367676 for 10 clusters (best_inertia = 23604.08)
+2022-07-06 17:39:29,700 - root: Iteration 1/19 took 0.7038240432739258 for 15 clusters (best_inertia = 21036.02)
+2022-07-06 17:39:30,583 - root: Iteration 2/19 took 0.882190465927124 for 20 clusters (best_inertia = 19108.98)
+2022-07-06 17:39:31,351 - root: Iteration 3/19 took 0.7674951553344727 for 25 clusters (best_inertia = 17984.89)
+2022-07-06 17:39:32,175 - root: Iteration 4/19 took 0.8244853019714355 for 30 clusters (best_inertia = 16907.13)
+2022-07-06 17:39:33,051 - root: Iteration 5/19 took 0.875434398651123 for 35 clusters (best_inertia = 16037.87)
+2022-07-06 17:39:34,025 - root: Iteration 6/19 took 0.9734363555908203 for 40 clusters (best_inertia = 15015.54)
+2022-07-06 17:39:34,944 - root: Iteration 7/19 took 0.9187579154968262 for 45 clusters (best_inertia = 14497.56)
+2022-07-06 17:39:35,901 - root: Iteration 8/19 took 0.9571504592895508 for 50 clusters (best_inertia = 13925.57)
+2022-07-06 17:39:36,864 - root: Iteration 9/19 took 0.9617965221405029 for 55 clusters (best_inertia = 13297.00)
+2022-07-06 17:39:37,792 - root: Iteration 10/19 took 0.9271976947784424 for 60 clusters (best_inertia = 12611.88)
+2022-07-06 17:39:38,841 - root: Iteration 11/19 took 1.0489428043365479 for 65 clusters (best_inertia = 12089.49)
+2022-07-06 17:39:39,856 - root: Iteration 12/19 took 1.0152182579040527 for 70 clusters (best_inertia = 11810.95)
+2022-07-06 17:39:40,882 - root: Iteration 13/19 took 1.0257594585418701 for 75 clusters (best_inertia = 11292.17)
+2022-07-06 17:39:41,953 - root: Iteration 14/19 took 1.0707297325134277 for 80 clusters (best_inertia = 10808.03)
+2022-07-06 17:39:43,022 - root: Iteration 15/19 took 1.0686049461364746 for 85 clusters (best_inertia = 10522.78)
+2022-07-06 17:39:44,095 - root: Iteration 16/19 took 1.0726830959320068 for 90 clusters (best_inertia = 10005.70)
+2022-07-06 17:39:45,268 - root: Iteration 17/19 took 1.172828197479248 for 95 clusters (best_inertia = 9668.82)
+2022-07-06 17:39:46,424 - root: Iteration 18/19 took 1.1564066410064697 for 100 clusters (best_inertia = 9268.90)
+2022-07-06 17:39:46,425 - root: Found optimal number of clusters of 40
+2022-07-06 17:39:46,606 - root: Daily sampler for cluster 2 fit in -18.417855262756348
+2022-07-06 17:39:46,606 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-07-06 17:39:46,677 - root: Starting fit in elbow method
+2022-07-06 17:39:47,312 - root: Iteration 0/19 took 0.6346433162689209 for 10 clusters (best_inertia = 9587.63)
+2022-07-06 17:39:48,047 - root: Iteration 1/19 took 0.7354285717010498 for 15 clusters (best_inertia = 8261.05)
+2022-07-06 17:39:48,768 - root: Iteration 2/19 took 0.7204716205596924 for 20 clusters (best_inertia = 7444.47)
+2022-07-06 17:39:49,553 - root: Iteration 3/19 took 0.7854382991790771 for 25 clusters (best_inertia = 6818.77)
+2022-07-06 17:39:50,392 - root: Iteration 4/19 took 0.8380453586578369 for 30 clusters (best_inertia = 6323.38)
+2022-07-06 17:39:51,216 - root: Iteration 5/19 took 0.8236114978790283 for 35 clusters (best_inertia = 5771.80)
+2022-07-06 17:39:52,029 - root: Iteration 6/19 took 0.8137164115905762 for 40 clusters (best_inertia = 5477.94)
+2022-07-06 17:39:52,900 - root: Iteration 7/19 took 0.8700776100158691 for 45 clusters (best_inertia = 5192.31)
+2022-07-06 17:39:53,777 - root: Iteration 8/19 took 0.8767211437225342 for 50 clusters (best_inertia = 4859.81)
+2022-07-06 17:39:54,802 - root: Iteration 9/19 took 1.0252647399902344 for 55 clusters (best_inertia = 4566.33)
+2022-07-06 17:39:55,792 - root: Iteration 10/19 took 0.9894328117370605 for 60 clusters (best_inertia = 4344.99)
+2022-07-06 17:39:56,887 - root: Iteration 11/19 took 1.0944149494171143 for 65 clusters (best_inertia = 4094.38)
+2022-07-06 17:39:57,980 - root: Iteration 12/19 took 1.0934689044952393 for 70 clusters (best_inertia = 3979.77)
+2022-07-06 17:39:59,022 - root: Iteration 13/19 took 1.041290283203125 for 75 clusters (best_inertia = 3748.35)
+2022-07-06 17:40:00,087 - root: Iteration 14/19 took 1.0646042823791504 for 80 clusters (best_inertia = 3589.65)
+2022-07-06 17:40:01,216 - root: Iteration 15/19 took 1.128488540649414 for 85 clusters (best_inertia = 3401.73)
+2022-07-06 17:40:02,319 - root: Iteration 16/19 took 1.1034274101257324 for 90 clusters (best_inertia = 3240.82)
+2022-07-06 17:40:03,492 - root: Iteration 17/19 took 1.172623634338379 for 95 clusters (best_inertia = 3038.74)
+2022-07-06 17:40:04,645 - root: Iteration 18/19 took 1.1527912616729736 for 100 clusters (best_inertia = 2899.76)
+2022-07-06 17:40:04,647 - root: Found optimal number of clusters of 35
+2022-07-06 17:40:04,825 - root: Daily sampler for cluster 3 fit in -18.218947410583496
+2022-07-06 17:40:04,826 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-07-06 17:40:04,896 - root: Starting fit in elbow method
+2022-07-06 17:40:05,561 - root: Iteration 0/19 took 0.6640493869781494 for 10 clusters (best_inertia = 5441.45)
+2022-07-06 17:40:06,277 - root: Iteration 1/19 took 0.7166264057159424 for 15 clusters (best_inertia = 5067.75)
+2022-07-06 17:40:06,959 - root: Iteration 2/19 took 0.6809027194976807 for 20 clusters (best_inertia = 4792.55)
+2022-07-06 17:40:07,734 - root: Iteration 3/19 took 0.7756145000457764 for 25 clusters (best_inertia = 4599.34)
+2022-07-06 17:40:08,526 - root: Iteration 4/19 took 0.7911090850830078 for 30 clusters (best_inertia = 4390.32)
+2022-07-06 17:40:09,302 - root: Iteration 5/19 took 0.7758998870849609 for 35 clusters (best_inertia = 4236.65)
+2022-07-06 17:40:10,200 - root: Iteration 6/19 took 0.8978641033172607 for 40 clusters (best_inertia = 4061.35)
+2022-07-06 17:40:11,090 - root: Iteration 7/19 took 0.8898611068725586 for 45 clusters (best_inertia = 3905.37)
+2022-07-06 17:40:11,958 - root: Iteration 8/19 took 0.8675181865692139 for 50 clusters (best_inertia = 3697.62)
+2022-07-06 17:40:12,961 - root: Iteration 9/19 took 1.0028479099273682 for 55 clusters (best_inertia = 3573.13)
+2022-07-06 17:40:13,871 - root: Iteration 10/19 took 0.9099006652832031 for 60 clusters (best_inertia = 3424.52)
+2022-07-06 17:40:14,982 - root: Iteration 11/19 took 1.1107237339019775 for 65 clusters (best_inertia = 3302.88)
+2022-07-06 17:40:16,010 - root: Iteration 12/19 took 1.027331829071045 for 70 clusters (best_inertia = 3161.66)
+2022-07-06 17:40:17,060 - root: Iteration 13/19 took 1.0497558116912842 for 75 clusters (best_inertia = 3028.26)
+2022-07-06 17:40:18,158 - root: Iteration 14/19 took 1.0981836318969727 for 80 clusters (best_inertia = 2898.25)
+2022-07-06 17:40:19,254 - root: Iteration 15/19 took 1.095721960067749 for 85 clusters (best_inertia = 2832.94)
+2022-07-06 17:40:20,384 - root: Iteration 16/19 took 1.129704475402832 for 90 clusters (best_inertia = 2703.05)
+2022-07-06 17:40:21,555 - root: Iteration 17/19 took 1.1706931591033936 for 95 clusters (best_inertia = 2572.35)
+2022-07-06 17:40:22,768 - root: Iteration 18/19 took 1.2126514911651611 for 100 clusters (best_inertia = 2469.33)
+2022-07-06 17:40:22,769 - root: Found optimal number of clusters of 50
+2022-07-06 17:40:22,951 - root: Daily sampler for cluster 4 fit in -18.124855995178223
+2022-07-06 17:40:22,951 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-07-06 17:40:23,019 - root: Starting fit in elbow method
+2022-07-06 17:40:23,659 - root: Iteration 0/19 took 0.6395013332366943 for 10 clusters (best_inertia = 1239.07)
+2022-07-06 17:40:24,367 - root: Iteration 1/19 took 0.707550048828125 for 15 clusters (best_inertia = 1140.97)
+2022-07-06 17:40:25,134 - root: Iteration 2/19 took 0.7665848731994629 for 20 clusters (best_inertia = 1089.77)
+2022-07-06 17:40:25,916 - root: Iteration 3/19 took 0.7824053764343262 for 25 clusters (best_inertia = 1032.99)
+2022-07-06 17:40:26,777 - root: Iteration 4/19 took 0.8605377674102783 for 30 clusters (best_inertia = 988.08)
+2022-07-06 17:40:27,629 - root: Iteration 5/19 took 0.851222038269043 for 35 clusters (best_inertia = 953.69)
+2022-07-06 17:40:28,513 - root: Iteration 6/19 took 0.8841960430145264 for 40 clusters (best_inertia = 923.24)
+2022-07-06 17:40:29,432 - root: Iteration 7/19 took 0.9188191890716553 for 45 clusters (best_inertia = 887.80)
+2022-07-06 17:40:30,310 - root: Iteration 8/19 took 0.8779935836791992 for 50 clusters (best_inertia = 855.89)
+2022-07-06 17:40:31,241 - root: Iteration 9/19 took 0.9299488067626953 for 55 clusters (best_inertia = 820.93)
+2022-07-06 17:40:32,329 - root: Iteration 10/19 took 1.087796926498413 for 60 clusters (best_inertia = 798.33)
+2022-07-06 17:40:33,368 - root: Iteration 11/19 took 1.0385932922363281 for 65 clusters (best_inertia = 772.38)
+2022-07-06 17:40:34,437 - root: Iteration 12/19 took 1.0691273212432861 for 70 clusters (best_inertia = 745.94)
+2022-07-06 17:40:35,527 - root: Iteration 13/19 took 1.0900702476501465 for 75 clusters (best_inertia = 715.25)
+2022-07-06 17:40:36,648 - root: Iteration 14/19 took 1.120718240737915 for 80 clusters (best_inertia = 699.42)
+2022-07-06 17:40:37,709 - root: Iteration 15/19 took 1.0609238147735596 for 85 clusters (best_inertia = 672.10)
+2022-07-06 17:40:38,847 - root: Iteration 16/19 took 1.1372230052947998 for 90 clusters (best_inertia = 647.81)
+2022-07-06 17:40:40,000 - root: Iteration 17/19 took 1.152334213256836 for 95 clusters (best_inertia = 634.43)
+2022-07-06 17:40:41,177 - root: Iteration 18/19 took 1.1773254871368408 for 100 clusters (best_inertia = 616.60)
+2022-07-06 17:40:41,178 - root: Found optimal number of clusters of 55
+2022-07-06 17:40:41,369 - root: Daily sampler for cluster 5 fit in -18.4177827835083
+2022-07-06 17:40:41,369 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-07-06 17:40:41,439 - root: Starting fit in elbow method
+2022-07-06 17:40:42,060 - root: Iteration 0/19 took 0.6206514835357666 for 10 clusters (best_inertia = 9280.21)
+2022-07-06 17:40:42,811 - root: Iteration 1/19 took 0.7427818775177002 for 15 clusters (best_inertia = 7788.42)
+2022-07-06 17:40:43,548 - root: Iteration 2/19 took 0.7364699840545654 for 20 clusters (best_inertia = 6799.81)
+2022-07-06 17:40:44,329 - root: Iteration 3/19 took 0.7813787460327148 for 25 clusters (best_inertia = 6122.09)
+2022-07-06 17:40:45,073 - root: Iteration 4/19 took 0.7435586452484131 for 30 clusters (best_inertia = 5518.99)
+2022-07-06 17:40:45,852 - root: Iteration 5/19 took 0.7790157794952393 for 35 clusters (best_inertia = 4942.44)
+2022-07-06 17:40:46,700 - root: Iteration 6/19 took 0.8475196361541748 for 40 clusters (best_inertia = 4538.38)
+2022-07-06 17:40:47,697 - root: Iteration 7/19 took 0.9961585998535156 for 45 clusters (best_inertia = 4174.87)
+2022-07-06 17:40:48,750 - root: Iteration 8/19 took 1.0535905361175537 for 50 clusters (best_inertia = 3836.46)
+2022-07-06 17:40:49,762 - root: Iteration 9/19 took 1.011833667755127 for 55 clusters (best_inertia = 3514.20)
+2022-07-06 17:40:50,753 - root: Iteration 10/19 took 0.9901204109191895 for 60 clusters (best_inertia = 3359.85)
+2022-07-06 17:40:51,823 - root: Iteration 11/19 took 1.0700891017913818 for 65 clusters (best_inertia = 2975.33)
+2022-07-06 17:40:52,929 - root: Iteration 12/19 took 1.1051104068756104 for 70 clusters (best_inertia = 2827.05)
+2022-07-06 17:40:53,960 - root: Iteration 13/19 took 1.0309998989105225 for 75 clusters (best_inertia = 2592.62)
+2022-07-06 17:40:54,969 - root: Iteration 14/19 took 1.0087103843688965 for 80 clusters (best_inertia = 2401.63)
+2022-07-06 17:40:56,052 - root: Iteration 15/19 took 1.083489179611206 for 85 clusters (best_inertia = 2235.13)
+2022-07-06 17:40:57,144 - root: Iteration 16/19 took 1.0911083221435547 for 90 clusters (best_inertia = 2084.24)
+2022-07-06 17:40:58,279 - root: Iteration 17/19 took 1.1351470947265625 for 95 clusters (best_inertia = 1915.94)
+2022-07-06 17:40:59,445 - root: Iteration 18/19 took 1.1654210090637207 for 100 clusters (best_inertia = 1772.01)
+2022-07-06 17:40:59,446 - root: Found optimal number of clusters of 35
+2022-07-06 17:40:59,627 - root: Daily sampler for cluster 6 fit in -18.258383989334106
+2022-07-06 17:40:59,628 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-07-06 17:40:59,694 - root: Starting fit in elbow method
+2022-07-06 17:41:00,446 - root: Iteration 0/19 took 0.751131534576416 for 10 clusters (best_inertia = 2543.15)
+2022-07-06 17:41:01,155 - root: Iteration 1/19 took 0.7090981006622314 for 15 clusters (best_inertia = 2183.93)
+2022-07-06 17:41:01,922 - root: Iteration 2/19 took 0.7671558856964111 for 20 clusters (best_inertia = 2007.39)
+2022-07-06 17:41:02,658 - root: Iteration 3/19 took 0.7349550724029541 for 25 clusters (best_inertia = 1822.30)
+2022-07-06 17:41:03,453 - root: Iteration 4/19 took 0.795299768447876 for 30 clusters (best_inertia = 1726.57)
+2022-07-06 17:41:04,355 - root: Iteration 5/19 took 0.901392936706543 for 35 clusters (best_inertia = 1665.49)
+2022-07-06 17:41:05,226 - root: Iteration 6/19 took 0.8706884384155273 for 40 clusters (best_inertia = 1552.97)
+2022-07-06 17:41:06,144 - root: Iteration 7/19 took 0.9178743362426758 for 45 clusters (best_inertia = 1499.91)
+2022-07-06 17:41:07,129 - root: Iteration 8/19 took 0.9849457740783691 for 50 clusters (best_inertia = 1427.87)
+2022-07-06 17:41:08,162 - root: Iteration 9/19 took 1.0327436923980713 for 55 clusters (best_inertia = 1353.70)
+2022-07-06 17:41:09,085 - root: Iteration 10/19 took 0.9226973056793213 for 60 clusters (best_inertia = 1300.71)
+2022-07-06 17:41:10,165 - root: Iteration 11/19 took 1.0792982578277588 for 65 clusters (best_inertia = 1233.40)
+2022-07-06 17:41:11,185 - root: Iteration 12/19 took 1.01975679397583 for 70 clusters (best_inertia = 1188.53)
+2022-07-06 17:41:12,308 - root: Iteration 13/19 took 1.1230998039245605 for 75 clusters (best_inertia = 1142.77)
+2022-07-06 17:41:13,444 - root: Iteration 14/19 took 1.136091947555542 for 80 clusters (best_inertia = 1076.87)
+2022-07-06 17:41:14,595 - root: Iteration 15/19 took 1.150000810623169 for 85 clusters (best_inertia = 1031.44)
+2022-07-06 17:41:15,704 - root: Iteration 16/19 took 1.1088449954986572 for 90 clusters (best_inertia = 982.24)
+2022-07-06 17:41:16,851 - root: Iteration 17/19 took 1.1468565464019775 for 95 clusters (best_inertia = 946.14)
+2022-07-06 17:41:18,054 - root: Iteration 18/19 took 1.2025649547576904 for 100 clusters (best_inertia = 888.37)
+2022-07-06 17:41:18,055 - root: Found optimal number of clusters of 40
+2022-07-06 17:41:18,241 - root: Daily sampler for cluster 7 fit in -18.613232374191284
+2022-07-06 17:41:18,241 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-07-06 17:41:18,309 - root: Starting fit in elbow method
+2022-07-06 17:41:18,961 - root: Iteration 0/19 took 0.6516191959381104 for 10 clusters (best_inertia = 6171.15)
+2022-07-06 17:41:19,627 - root: Iteration 1/19 took 0.6663339138031006 for 15 clusters (best_inertia = 5720.68)
+2022-07-06 17:41:20,318 - root: Iteration 2/19 took 0.6909475326538086 for 20 clusters (best_inertia = 5390.72)
+2022-07-06 17:41:21,084 - root: Iteration 3/19 took 0.7655034065246582 for 25 clusters (best_inertia = 5061.96)
+2022-07-06 17:41:21,972 - root: Iteration 4/19 took 0.8879208564758301 for 30 clusters (best_inertia = 4830.82)
+2022-07-06 17:41:22,872 - root: Iteration 5/19 took 0.8988451957702637 for 35 clusters (best_inertia = 4624.76)
+2022-07-06 17:41:23,711 - root: Iteration 6/19 took 0.8387773036956787 for 40 clusters (best_inertia = 4407.02)
+2022-07-06 17:41:24,556 - root: Iteration 7/19 took 0.8449087142944336 for 45 clusters (best_inertia = 4226.67)
+2022-07-06 17:41:25,445 - root: Iteration 8/19 took 0.8884260654449463 for 50 clusters (best_inertia = 3953.02)
+2022-07-06 17:41:26,443 - root: Iteration 9/19 took 0.9980154037475586 for 55 clusters (best_inertia = 3796.89)
+2022-07-06 17:41:27,454 - root: Iteration 10/19 took 1.0109319686889648 for 60 clusters (best_inertia = 3642.39)
+2022-07-06 17:41:28,421 - root: Iteration 11/19 took 0.9668974876403809 for 65 clusters (best_inertia = 3496.49)
+2022-07-06 17:41:29,425 - root: Iteration 12/19 took 1.0038299560546875 for 70 clusters (best_inertia = 3360.65)
+2022-07-06 17:41:30,527 - root: Iteration 13/19 took 1.1012749671936035 for 75 clusters (best_inertia = 3192.24)
+2022-07-06 17:41:31,617 - root: Iteration 14/19 took 1.0897760391235352 for 80 clusters (best_inertia = 3057.00)
+2022-07-06 17:41:32,689 - root: Iteration 15/19 took 1.0713653564453125 for 85 clusters (best_inertia = 2905.35)
+2022-07-06 17:41:33,764 - root: Iteration 16/19 took 1.0751173496246338 for 90 clusters (best_inertia = 2793.86)
+2022-07-06 17:41:34,889 - root: Iteration 17/19 took 1.1247689723968506 for 95 clusters (best_inertia = 2688.57)
+2022-07-06 17:41:36,057 - root: Iteration 18/19 took 1.1679556369781494 for 100 clusters (best_inertia = 2564.93)
+2022-07-06 17:41:36,058 - root: Found optimal number of clusters of 50
+2022-07-06 17:41:36,240 - root: Daily sampler for cluster 8 fit in -17.998966455459595
+2022-07-06 17:41:36,240 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-07-06 17:41:36,309 - root: Starting fit in elbow method
+2022-07-06 17:41:36,971 - root: Iteration 0/19 took 0.6614589691162109 for 10 clusters (best_inertia = 21952.28)
+2022-07-06 17:41:37,670 - root: Iteration 1/19 took 0.69938063621521 for 15 clusters (best_inertia = 19579.18)
+2022-07-06 17:41:38,456 - root: Iteration 2/19 took 0.785491943359375 for 20 clusters (best_inertia = 17819.65)
+2022-07-06 17:41:39,197 - root: Iteration 3/19 took 0.7409384250640869 for 25 clusters (best_inertia = 16382.30)
+2022-07-06 17:41:40,071 - root: Iteration 4/19 took 0.8738927841186523 for 30 clusters (best_inertia = 15236.21)
+2022-07-06 17:41:40,939 - root: Iteration 5/19 took 0.8671236038208008 for 35 clusters (best_inertia = 13952.60)
+2022-07-06 17:41:41,769 - root: Iteration 6/19 took 0.8297054767608643 for 40 clusters (best_inertia = 13289.08)
+2022-07-06 17:41:42,629 - root: Iteration 7/19 took 0.8599612712860107 for 45 clusters (best_inertia = 12434.35)
+2022-07-06 17:41:43,549 - root: Iteration 8/19 took 0.9197032451629639 for 50 clusters (best_inertia = 11822.16)
+2022-07-06 17:41:44,476 - root: Iteration 9/19 took 0.9271519184112549 for 55 clusters (best_inertia = 11143.02)
+2022-07-06 17:41:45,408 - root: Iteration 10/19 took 0.9212000370025635 for 60 clusters (best_inertia = 10752.13)
+2022-07-06 17:41:46,371 - root: Iteration 11/19 took 0.9634661674499512 for 65 clusters (best_inertia = 10229.66)
+2022-07-06 17:41:47,267 - root: Iteration 12/19 took 0.8952085971832275 for 70 clusters (best_inertia = 9715.11)
+2022-07-06 17:41:48,317 - root: Iteration 13/19 took 1.0494868755340576 for 75 clusters (best_inertia = 9344.27)
+2022-07-06 17:41:49,359 - root: Iteration 14/19 took 1.0425453186035156 for 80 clusters (best_inertia = 9022.55)
+2022-07-06 17:41:50,451 - root: Iteration 15/19 took 1.0914521217346191 for 85 clusters (best_inertia = 8529.60)
+2022-07-06 17:41:51,529 - root: Iteration 16/19 took 1.0770976543426514 for 90 clusters (best_inertia = 8234.25)
+2022-07-06 17:41:52,604 - root: Iteration 17/19 took 1.0750012397766113 for 95 clusters (best_inertia = 7873.32)
+2022-07-06 17:41:53,752 - root: Iteration 18/19 took 1.146735668182373 for 100 clusters (best_inertia = 7598.70)
+2022-07-06 17:41:53,753 - root: Found optimal number of clusters of 45
+2022-07-06 17:41:53,942 - root: Daily sampler for cluster 9 fit in -17.701579332351685
+2022-07-06 17:41:53,942 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-07-06 17:41:54,012 - root: Starting fit in elbow method
+2022-07-06 17:41:54,650 - root: Iteration 0/19 took 0.6377251148223877 for 10 clusters (best_inertia = 894.57)
+2022-07-06 17:41:55,352 - root: Iteration 1/19 took 0.7025961875915527 for 15 clusters (best_inertia = 636.44)
+2022-07-06 17:41:56,064 - root: Iteration 2/19 took 0.7113528251647949 for 20 clusters (best_inertia = 473.86)
+2022-07-06 17:41:56,808 - root: Iteration 3/19 took 0.7434751987457275 for 25 clusters (best_inertia = 380.46)
+2022-07-06 17:41:57,567 - root: Iteration 4/19 took 0.7587687969207764 for 30 clusters (best_inertia = 307.36)
+2022-07-06 17:41:58,371 - root: Iteration 5/19 took 0.8038222789764404 for 35 clusters (best_inertia = 266.94)
+2022-07-06 17:41:59,235 - root: Iteration 6/19 took 0.8635396957397461 for 40 clusters (best_inertia = 222.86)
+2022-07-06 17:42:00,052 - root: Iteration 7/19 took 0.8175673484802246 for 45 clusters (best_inertia = 198.29)
+2022-07-06 17:42:00,945 - root: Iteration 8/19 took 0.8921599388122559 for 50 clusters (best_inertia = 172.80)
+2022-07-06 17:42:01,888 - root: Iteration 9/19 took 0.9432613849639893 for 55 clusters (best_inertia = 156.61)
+2022-07-06 17:42:02,804 - root: Iteration 10/19 took 0.9156482219696045 for 60 clusters (best_inertia = 133.79)
+2022-07-06 17:42:03,785 - root: Iteration 11/19 took 0.980726957321167 for 65 clusters (best_inertia = 123.39)
+2022-07-06 17:42:04,800 - root: Iteration 12/19 took 1.0149152278900146 for 70 clusters (best_inertia = 112.51)
+2022-07-06 17:42:05,862 - root: Iteration 13/19 took 1.0612859725952148 for 75 clusters (best_inertia = 103.48)
+2022-07-06 17:42:06,913 - root: Iteration 14/19 took 1.0503745079040527 for 80 clusters (best_inertia = 93.80)
+2022-07-06 17:42:08,040 - root: Iteration 15/19 took 1.1266932487487793 for 85 clusters (best_inertia = 87.68)
+2022-07-06 17:42:09,095 - root: Iteration 16/19 took 1.0552325248718262 for 90 clusters (best_inertia = 80.04)
+2022-07-06 17:42:10,249 - root: Iteration 17/19 took 1.1542036533355713 for 95 clusters (best_inertia = 74.33)
+2022-07-06 17:42:11,368 - root: Iteration 18/19 took 1.1187465190887451 for 100 clusters (best_inertia = 69.33)
+2022-07-06 17:42:11,369 - root: Found optimal number of clusters of 30
+2022-07-06 17:42:11,540 - root: Daily sampler for cluster 10 fit in -17.59813141822815
+2022-07-06 17:42:11,541 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-07-06 17:42:11,610 - root: Starting fit in elbow method
+2022-07-06 17:42:12,243 - root: Iteration 0/19 took 0.6324553489685059 for 10 clusters (best_inertia = 14984.87)
+2022-07-06 17:42:12,912 - root: Iteration 1/19 took 0.6692605018615723 for 15 clusters (best_inertia = 12302.44)
+2022-07-06 17:42:13,655 - root: Iteration 2/19 took 0.7422916889190674 for 20 clusters (best_inertia = 10995.82)
+2022-07-06 17:42:14,472 - root: Iteration 3/19 took 0.8172605037689209 for 25 clusters (best_inertia = 10092.55)
+2022-07-06 17:42:15,280 - root: Iteration 4/19 took 0.807744026184082 for 30 clusters (best_inertia = 9435.47)
+2022-07-06 17:42:16,085 - root: Iteration 5/19 took 0.8048853874206543 for 35 clusters (best_inertia = 8856.26)
+2022-07-06 17:42:16,898 - root: Iteration 6/19 took 0.8125600814819336 for 40 clusters (best_inertia = 8071.81)
+2022-07-06 17:42:17,741 - root: Iteration 7/19 took 0.8424370288848877 for 45 clusters (best_inertia = 7696.43)
+2022-07-06 17:42:18,655 - root: Iteration 8/19 took 0.9135406017303467 for 50 clusters (best_inertia = 7196.20)
+2022-07-06 17:42:19,619 - root: Iteration 9/19 took 0.9646198749542236 for 55 clusters (best_inertia = 6635.48)
+2022-07-06 17:42:20,565 - root: Iteration 10/19 took 0.9450817108154297 for 60 clusters (best_inertia = 6456.03)
+2022-07-06 17:42:21,522 - root: Iteration 11/19 took 0.9568374156951904 for 65 clusters (best_inertia = 5946.46)
+2022-07-06 17:42:22,516 - root: Iteration 12/19 took 0.9938344955444336 for 70 clusters (best_inertia = 5502.97)
+2022-07-06 17:42:23,604 - root: Iteration 13/19 took 1.0877125263214111 for 75 clusters (best_inertia = 5268.80)
+2022-07-06 17:42:24,638 - root: Iteration 14/19 took 1.0337557792663574 for 80 clusters (best_inertia = 5050.11)
+2022-07-06 17:42:25,745 - root: Iteration 15/19 took 1.1062755584716797 for 85 clusters (best_inertia = 4685.02)
+2022-07-06 17:42:26,832 - root: Iteration 16/19 took 1.0865874290466309 for 90 clusters (best_inertia = 4458.81)
+2022-07-06 17:42:27,920 - root: Iteration 17/19 took 1.0882909297943115 for 95 clusters (best_inertia = 4189.71)
+2022-07-06 17:42:29,007 - root: Iteration 18/19 took 1.085848093032837 for 100 clusters (best_inertia = 3885.04)
+2022-07-06 17:42:29,008 - root: Found optimal number of clusters of 40
+2022-07-06 17:42:29,191 - root: Daily sampler for cluster 11 fit in -17.650233507156372
+2022-07-06 17:42:29,191 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-07-06 17:42:29,262 - root: Starting fit in elbow method
+2022-07-06 17:42:29,932 - root: Iteration 0/19 took 0.6694984436035156 for 10 clusters (best_inertia = 3972.00)
+2022-07-06 17:42:30,656 - root: Iteration 1/19 took 0.7231566905975342 for 15 clusters (best_inertia = 3751.13)
+2022-07-06 17:42:31,392 - root: Iteration 2/19 took 0.7364392280578613 for 20 clusters (best_inertia = 3533.54)
+2022-07-06 17:42:32,177 - root: Iteration 3/19 took 0.7847738265991211 for 25 clusters (best_inertia = 3404.99)
+2022-07-06 17:42:32,956 - root: Iteration 4/19 took 0.7783761024475098 for 30 clusters (best_inertia = 3270.08)
+2022-07-06 17:42:33,758 - root: Iteration 5/19 took 0.8018088340759277 for 35 clusters (best_inertia = 3151.75)
+2022-07-06 17:42:34,609 - root: Iteration 6/19 took 0.8502416610717773 for 40 clusters (best_inertia = 3039.27)
+2022-07-06 17:42:35,449 - root: Iteration 7/19 took 0.8398408889770508 for 45 clusters (best_inertia = 2940.92)
+2022-07-06 17:42:36,320 - root: Iteration 8/19 took 0.8707687854766846 for 50 clusters (best_inertia = 2848.18)
+2022-07-06 17:42:37,187 - root: Iteration 9/19 took 0.8675482273101807 for 55 clusters (best_inertia = 2759.58)
+2022-07-06 17:42:38,182 - root: Iteration 10/19 took 0.994271993637085 for 60 clusters (best_inertia = 2685.18)
+2022-07-06 17:42:39,148 - root: Iteration 11/19 took 0.9655544757843018 for 65 clusters (best_inertia = 2541.48)
+2022-07-06 17:42:40,096 - root: Iteration 12/19 took 0.9485123157501221 for 70 clusters (best_inertia = 2507.53)
+2022-07-06 17:42:41,137 - root: Iteration 13/19 took 1.0407402515411377 for 75 clusters (best_inertia = 2417.75)
+2022-07-06 17:42:42,188 - root: Iteration 14/19 took 1.050431251525879 for 80 clusters (best_inertia = 2348.62)
+2022-07-06 17:42:43,285 - root: Iteration 15/19 took 1.0970790386199951 for 85 clusters (best_inertia = 2287.46)
+2022-07-06 17:42:44,361 - root: Iteration 16/19 took 1.0754084587097168 for 90 clusters (best_inertia = 2204.00)
+2022-07-06 17:42:45,506 - root: Iteration 17/19 took 1.1451458930969238 for 95 clusters (best_inertia = 2133.88)
+2022-07-06 17:42:46,747 - root: Iteration 18/19 took 1.2406082153320312 for 100 clusters (best_inertia = 2059.42)
+2022-07-06 17:42:46,748 - root: Found optimal number of clusters of 65
+2022-07-06 17:42:46,948 - root: Daily sampler for cluster 12 fit in -17.756657600402832
+2022-07-06 17:42:46,948 - root: Fitting daily sampler for cluster 13 with 5 days.
+2022-07-06 17:42:47,020 - root: Starting fit in elbow method
+2022-07-06 17:42:48,457 - root: Iteration 0/19 took 1.4360568523406982 for 10 clusters (best_inertia = 16438.07)
+2022-07-06 17:42:50,009 - root: Iteration 1/19 took 1.5520961284637451 for 15 clusters (best_inertia = 14393.16)
+2022-07-06 17:42:51,504 - root: Iteration 2/19 took 1.495163917541504 for 20 clusters (best_inertia = 13084.16)
+2022-07-06 17:42:53,033 - root: Iteration 3/19 took 1.528273344039917 for 25 clusters (best_inertia = 12267.23)
+2022-07-06 17:42:54,661 - root: Iteration 4/19 took 1.6279022693634033 for 30 clusters (best_inertia = 11591.26)
+2022-07-06 17:42:56,286 - root: Iteration 5/19 took 1.6246180534362793 for 35 clusters (best_inertia = 11173.32)
+2022-07-06 17:42:57,970 - root: Iteration 6/19 took 1.6840159893035889 for 40 clusters (best_inertia = 10838.04)
+2022-07-06 17:42:59,659 - root: Iteration 7/19 took 1.6882390975952148 for 45 clusters (best_inertia = 10469.65)
+2022-07-06 17:43:01,293 - root: Iteration 8/19 took 1.6339848041534424 for 50 clusters (best_inertia = 10146.40)
+2022-07-06 17:43:03,012 - root: Iteration 9/19 took 1.718153715133667 for 55 clusters (best_inertia = 9923.59)
+2022-07-06 17:43:04,832 - root: Iteration 10/19 took 1.8196864128112793 for 60 clusters (best_inertia = 9650.90)
+2022-07-06 17:43:06,713 - root: Iteration 11/19 took 1.8807878494262695 for 65 clusters (best_inertia = 9447.77)
+2022-07-06 17:43:08,636 - root: Iteration 12/19 took 1.9229092597961426 for 70 clusters (best_inertia = 9302.92)
+2022-07-06 17:43:10,202 - root: Iteration 13/19 took 1.5653090476989746 for 75 clusters (best_inertia = 9044.57)
+2022-07-06 17:43:12,178 - root: Iteration 14/19 took 1.9753732681274414 for 80 clusters (best_inertia = 8889.11)
+2022-07-06 17:43:14,293 - root: Iteration 15/19 took 2.1145827770233154 for 85 clusters (best_inertia = 8637.19)
+2022-07-06 17:43:16,489 - root: Iteration 16/19 took 2.1957030296325684 for 90 clusters (best_inertia = 8504.44)
+2022-07-06 17:43:18,567 - root: Iteration 17/19 took 2.077263832092285 for 95 clusters (best_inertia = 8426.01)
+2022-07-06 17:43:20,743 - root: Iteration 18/19 took 2.1757407188415527 for 100 clusters (best_inertia = 8279.18)
+2022-07-06 17:43:20,744 - root: Found optimal number of clusters of 30
+2022-07-06 17:43:21,179 - root: Daily sampler for cluster 13 fit in -34.231212854385376
+2022-07-06 17:43:21,180 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-07-06 17:43:21,252 - root: Starting fit in elbow method
+2022-07-06 17:43:21,934 - root: Iteration 0/19 took 0.6820034980773926 for 10 clusters (best_inertia = 20116.58)
+2022-07-06 17:43:22,646 - root: Iteration 1/19 took 0.7119197845458984 for 15 clusters (best_inertia = 18007.50)
+2022-07-06 17:43:23,368 - root: Iteration 2/19 took 0.721754789352417 for 20 clusters (best_inertia = 16439.81)
+2022-07-06 17:43:24,150 - root: Iteration 3/19 took 0.7818238735198975 for 25 clusters (best_inertia = 15220.45)
+2022-07-06 17:43:24,906 - root: Iteration 4/19 took 0.7556920051574707 for 30 clusters (best_inertia = 14058.59)
+2022-07-06 17:43:25,732 - root: Iteration 5/19 took 0.8252730369567871 for 35 clusters (best_inertia = 13339.30)
+2022-07-06 17:43:26,608 - root: Iteration 6/19 took 0.8767266273498535 for 40 clusters (best_inertia = 12393.78)
+2022-07-06 17:43:27,540 - root: Iteration 7/19 took 0.9315986633300781 for 45 clusters (best_inertia = 11711.20)
+2022-07-06 17:43:28,418 - root: Iteration 8/19 took 0.8773033618927002 for 50 clusters (best_inertia = 10949.69)
+2022-07-06 17:43:29,281 - root: Iteration 9/19 took 0.86238694190979 for 55 clusters (best_inertia = 10465.93)
+2022-07-06 17:43:30,197 - root: Iteration 10/19 took 0.9164900779724121 for 60 clusters (best_inertia = 9878.97)
+2022-07-06 17:43:31,146 - root: Iteration 11/19 took 0.948345422744751 for 65 clusters (best_inertia = 9298.75)
+2022-07-06 17:43:32,173 - root: Iteration 12/19 took 1.0273323059082031 for 70 clusters (best_inertia = 8836.55)
+2022-07-06 17:43:33,170 - root: Iteration 13/19 took 0.9963779449462891 for 75 clusters (best_inertia = 8391.58)
+2022-07-06 17:43:34,275 - root: Iteration 14/19 took 1.104621171951294 for 80 clusters (best_inertia = 7932.97)
+2022-07-06 17:43:35,239 - root: Iteration 15/19 took 0.9639782905578613 for 85 clusters (best_inertia = 7614.80)
+2022-07-06 17:43:36,313 - root: Iteration 16/19 took 1.073263168334961 for 90 clusters (best_inertia = 7213.71)
+2022-07-06 17:43:37,448 - root: Iteration 17/19 took 1.1351237297058105 for 95 clusters (best_inertia = 6844.07)
+2022-07-06 17:43:38,635 - root: Iteration 18/19 took 1.1865689754486084 for 100 clusters (best_inertia = 6458.87)
+2022-07-06 17:43:38,636 - root: Found optimal number of clusters of 50
+2022-07-06 17:43:38,810 - root: Daily sampler for cluster 14 fit in -17.630569219589233
+2022-07-06 17:43:38,810 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-07-06 17:43:38,879 - root: Starting fit in elbow method
+2022-07-06 17:43:39,549 - root: Iteration 0/19 took 0.6694836616516113 for 10 clusters (best_inertia = 23679.17)
+2022-07-06 17:43:40,248 - root: Iteration 1/19 took 0.6988914012908936 for 15 clusters (best_inertia = 21871.60)
+2022-07-06 17:43:41,020 - root: Iteration 2/19 took 0.772465705871582 for 20 clusters (best_inertia = 20675.51)
+2022-07-06 17:43:41,783 - root: Iteration 3/19 took 0.762218713760376 for 25 clusters (best_inertia = 19551.79)
+2022-07-06 17:43:42,646 - root: Iteration 4/19 took 0.8628122806549072 for 30 clusters (best_inertia = 18913.85)
+2022-07-06 17:43:43,527 - root: Iteration 5/19 took 0.881112813949585 for 35 clusters (best_inertia = 18000.92)
+2022-07-06 17:43:44,427 - root: Iteration 6/19 took 0.8999443054199219 for 40 clusters (best_inertia = 17315.84)
+2022-07-06 17:43:45,380 - root: Iteration 7/19 took 0.9526746273040771 for 45 clusters (best_inertia = 16915.53)
+2022-07-06 17:43:46,286 - root: Iteration 8/19 took 0.9057657718658447 for 50 clusters (best_inertia = 16335.55)
+2022-07-06 17:43:47,303 - root: Iteration 9/19 took 1.016777515411377 for 55 clusters (best_inertia = 15687.58)
+2022-07-06 17:43:48,270 - root: Iteration 10/19 took 0.9666597843170166 for 60 clusters (best_inertia = 15066.43)
+2022-07-06 17:43:49,310 - root: Iteration 11/19 took 1.0394737720489502 for 65 clusters (best_inertia = 14576.68)
+2022-07-06 17:43:50,365 - root: Iteration 12/19 took 1.0545406341552734 for 70 clusters (best_inertia = 14078.91)
+2022-07-06 17:43:51,416 - root: Iteration 13/19 took 1.051076889038086 for 75 clusters (best_inertia = 13754.87)
+2022-07-06 17:43:52,535 - root: Iteration 14/19 took 1.1182665824890137 for 80 clusters (best_inertia = 13069.57)
+2022-07-06 17:43:53,657 - root: Iteration 15/19 took 1.122300148010254 for 85 clusters (best_inertia = 12719.07)
+2022-07-06 17:43:54,824 - root: Iteration 16/19 took 1.1666409969329834 for 90 clusters (best_inertia = 12167.57)
+2022-07-06 17:43:55,981 - root: Iteration 17/19 took 1.156369686126709 for 95 clusters (best_inertia = 11831.50)
+2022-07-06 17:43:57,136 - root: Iteration 18/19 took 1.1549098491668701 for 100 clusters (best_inertia = 11300.40)
+2022-07-06 17:43:57,137 - root: Found optimal number of clusters of 35
+2022-07-06 17:43:57,309 - root: Daily sampler for cluster 15 fit in -18.498210668563843
+2022-07-06 17:43:57,309 - root: Fitting daily sampler for cluster 16 with 261 days.
+2022-07-06 17:43:57,585 - root: Starting fit in elbow method
+2022-07-06 17:44:09,453 - root: Iteration 0/19 took 11.867998838424683 for 10 clusters (best_inertia = 45857.79)
+2022-07-06 17:44:18,681 - root: Iteration 1/19 took 9.22697639465332 for 15 clusters (best_inertia = 43265.94)
+2022-07-06 17:44:28,807 - root: Iteration 2/19 took 10.125288963317871 for 20 clusters (best_inertia = 41466.79)
+2022-07-06 17:44:41,848 - root: Iteration 3/19 took 13.040208578109741 for 25 clusters (best_inertia = 40087.77)
+2022-07-06 17:44:54,318 - root: Iteration 4/19 took 12.468380689620972 for 30 clusters (best_inertia = 39005.15)
+2022-07-06 17:45:09,100 - root: Iteration 5/19 took 14.781442642211914 for 35 clusters (best_inertia = 38108.99)
+2022-07-06 17:45:23,462 - root: Iteration 6/19 took 14.360946416854858 for 40 clusters (best_inertia = 37325.86)
+2022-07-06 17:45:37,573 - root: Iteration 7/19 took 14.110080480575562 for 45 clusters (best_inertia = 36717.99)
+2022-07-06 17:45:53,041 - root: Iteration 8/19 took 15.467279434204102 for 50 clusters (best_inertia = 36193.02)
+2022-07-06 17:46:09,672 - root: Iteration 9/19 took 16.629892826080322 for 55 clusters (best_inertia = 35713.46)
+2022-07-06 17:46:26,032 - root: Iteration 10/19 took 16.35987949371338 for 60 clusters (best_inertia = 35296.22)
+2022-07-06 17:46:42,236 - root: Iteration 11/19 took 16.2037672996521 for 65 clusters (best_inertia = 34897.26)
+2022-07-06 17:47:02,497 - root: Iteration 12/19 took 20.25999426841736 for 70 clusters (best_inertia = 34547.20)
+2022-07-06 17:47:22,706 - root: Iteration 13/19 took 20.20852780342102 for 75 clusters (best_inertia = 34215.04)
+2022-07-06 17:47:43,810 - root: Iteration 14/19 took 21.104416847229004 for 80 clusters (best_inertia = 33929.73)
+2022-07-06 17:48:05,608 - root: Iteration 15/19 took 21.7960946559906 for 85 clusters (best_inertia = 33646.40)
+2022-07-06 17:48:28,752 - root: Iteration 16/19 took 23.14238405227661 for 90 clusters (best_inertia = 33391.44)
+2022-07-06 17:48:51,661 - root: Iteration 17/19 took 22.90895414352417 for 95 clusters (best_inertia = 33151.89)
+2022-07-06 17:49:15,608 - root: Iteration 18/19 took 23.946524381637573 for 100 clusters (best_inertia = 32887.22)
+2022-07-06 17:49:15,611 - root: Found optimal number of clusters of 40
+2022-07-06 17:49:24,284 - root: Daily sampler for cluster 16 fit in -326.97546005249023
+2022-07-06 17:49:24,285 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-07-06 17:49:24,357 - root: Starting fit in elbow method
+2022-07-06 17:49:25,050 - root: Iteration 0/19 took 0.6926243305206299 for 10 clusters (best_inertia = 4631.87)
+2022-07-06 17:49:25,718 - root: Iteration 1/19 took 0.6680355072021484 for 15 clusters (best_inertia = 3848.18)
+2022-07-06 17:49:26,517 - root: Iteration 2/19 took 0.7986111640930176 for 20 clusters (best_inertia = 3380.52)
+2022-07-06 17:49:27,300 - root: Iteration 3/19 took 0.78342604637146 for 25 clusters (best_inertia = 2929.86)
+2022-07-06 17:49:28,092 - root: Iteration 4/19 took 0.7915139198303223 for 30 clusters (best_inertia = 2650.05)
+2022-07-06 17:49:28,901 - root: Iteration 5/19 took 0.8084976673126221 for 35 clusters (best_inertia = 2430.13)
+2022-07-06 17:49:29,784 - root: Iteration 6/19 took 0.883425235748291 for 40 clusters (best_inertia = 2259.81)
+2022-07-06 17:49:30,683 - root: Iteration 7/19 took 0.8987536430358887 for 45 clusters (best_inertia = 2146.80)
+2022-07-06 17:49:31,620 - root: Iteration 8/19 took 0.9365508556365967 for 50 clusters (best_inertia = 1956.99)
+2022-07-06 17:49:32,588 - root: Iteration 9/19 took 0.967440128326416 for 55 clusters (best_inertia = 1873.73)
+2022-07-06 17:49:33,519 - root: Iteration 10/19 took 0.9311826229095459 for 60 clusters (best_inertia = 1758.46)
+2022-07-06 17:49:34,526 - root: Iteration 11/19 took 1.006948471069336 for 65 clusters (best_inertia = 1680.54)
+2022-07-06 17:49:35,489 - root: Iteration 12/19 took 0.9621777534484863 for 70 clusters (best_inertia = 1595.53)
+2022-07-06 17:49:36,531 - root: Iteration 13/19 took 1.0420188903808594 for 75 clusters (best_inertia = 1515.37)
+2022-07-06 17:49:37,661 - root: Iteration 14/19 took 1.1292660236358643 for 80 clusters (best_inertia = 1439.34)
+2022-07-06 17:49:38,725 - root: Iteration 15/19 took 1.0638041496276855 for 85 clusters (best_inertia = 1364.03)
+2022-07-06 17:49:39,844 - root: Iteration 16/19 took 1.1185741424560547 for 90 clusters (best_inertia = 1290.65)
+2022-07-06 17:49:40,968 - root: Iteration 17/19 took 1.1236674785614014 for 95 clusters (best_inertia = 1248.19)
+2022-07-06 17:49:42,129 - root: Iteration 18/19 took 1.161158800125122 for 100 clusters (best_inertia = 1166.49)
+2022-07-06 17:49:42,133 - root: Found optimal number of clusters of 35
+2022-07-06 17:49:42,327 - root: Daily sampler for cluster 17 fit in -18.042136669158936
+2022-07-06 17:49:42,327 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-07-06 17:49:42,413 - root: Starting fit in elbow method
+2022-07-06 17:49:43,137 - root: Iteration 0/19 took 0.7232770919799805 for 10 clusters (best_inertia = 9735.41)
+2022-07-06 17:49:43,829 - root: Iteration 1/19 took 0.6924905776977539 for 15 clusters (best_inertia = 8202.42)
+2022-07-06 17:49:44,520 - root: Iteration 2/19 took 0.6902995109558105 for 20 clusters (best_inertia = 7111.32)
+2022-07-06 17:49:45,345 - root: Iteration 3/19 took 0.8247215747833252 for 25 clusters (best_inertia = 6349.77)
+2022-07-06 17:49:46,146 - root: Iteration 4/19 took 0.8014347553253174 for 30 clusters (best_inertia = 5960.98)
+2022-07-06 17:49:46,938 - root: Iteration 5/19 took 0.7912805080413818 for 35 clusters (best_inertia = 5494.82)
+2022-07-06 17:49:47,767 - root: Iteration 6/19 took 0.8292579650878906 for 40 clusters (best_inertia = 5114.52)
+2022-07-06 17:49:48,589 - root: Iteration 7/19 took 0.8218531608581543 for 45 clusters (best_inertia = 4793.14)
+2022-07-06 17:49:49,544 - root: Iteration 8/19 took 0.9540407657623291 for 50 clusters (best_inertia = 4519.12)
+2022-07-06 17:49:50,518 - root: Iteration 9/19 took 0.9741530418395996 for 55 clusters (best_inertia = 4257.52)
+2022-07-06 17:49:51,548 - root: Iteration 10/19 took 1.0300214290618896 for 60 clusters (best_inertia = 4013.71)
+2022-07-06 17:49:52,637 - root: Iteration 11/19 took 1.0883023738861084 for 65 clusters (best_inertia = 3831.83)
+2022-07-06 17:49:53,674 - root: Iteration 12/19 took 1.0365197658538818 for 70 clusters (best_inertia = 3632.30)
+2022-07-06 17:49:54,659 - root: Iteration 13/19 took 0.9843654632568359 for 75 clusters (best_inertia = 3376.71)
+2022-07-06 17:49:55,732 - root: Iteration 14/19 took 1.072979211807251 for 80 clusters (best_inertia = 3238.31)
+2022-07-06 17:49:56,824 - root: Iteration 15/19 took 1.091705322265625 for 85 clusters (best_inertia = 3063.04)
+2022-07-06 17:49:57,927 - root: Iteration 16/19 took 1.1029527187347412 for 90 clusters (best_inertia = 2895.89)
+2022-07-06 17:49:59,061 - root: Iteration 17/19 took 1.1333181858062744 for 95 clusters (best_inertia = 2707.16)
+2022-07-06 17:50:00,183 - root: Iteration 18/19 took 1.1218702793121338 for 100 clusters (best_inertia = 2596.40)
+2022-07-06 17:50:00,184 - root: Found optimal number of clusters of 35
+2022-07-06 17:50:00,378 - root: Daily sampler for cluster 18 fit in -18.05101442337036
+2022-07-06 17:50:00,379 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-07-06 17:50:00,461 - root: Starting fit in elbow method
+2022-07-06 17:50:01,128 - root: Iteration 0/19 took 0.6669583320617676 for 10 clusters (best_inertia = 3238.92)
+2022-07-06 17:50:01,788 - root: Iteration 1/19 took 0.6590685844421387 for 15 clusters (best_inertia = 2870.82)
+2022-07-06 17:50:02,497 - root: Iteration 2/19 took 0.7092642784118652 for 20 clusters (best_inertia = 2662.08)
+2022-07-06 17:50:03,378 - root: Iteration 3/19 took 0.880316972732544 for 25 clusters (best_inertia = 2477.32)
+2022-07-06 17:50:04,164 - root: Iteration 4/19 took 0.786400556564331 for 30 clusters (best_inertia = 2354.69)
+2022-07-06 17:50:05,076 - root: Iteration 5/19 took 0.911353588104248 for 35 clusters (best_inertia = 2256.55)
+2022-07-06 17:50:06,055 - root: Iteration 6/19 took 0.9791419506072998 for 40 clusters (best_inertia = 2143.02)
+2022-07-06 17:50:07,015 - root: Iteration 7/19 took 0.9601335525512695 for 45 clusters (best_inertia = 2081.48)
+2022-07-06 17:50:07,928 - root: Iteration 8/19 took 0.9126989841461182 for 50 clusters (best_inertia = 2013.00)
+2022-07-06 17:50:08,822 - root: Iteration 9/19 took 0.8935599327087402 for 55 clusters (best_inertia = 1938.25)
+2022-07-06 17:50:09,823 - root: Iteration 10/19 took 0.999565601348877 for 60 clusters (best_inertia = 1882.12)
+2022-07-06 17:50:10,764 - root: Iteration 11/19 took 0.9400308132171631 for 65 clusters (best_inertia = 1814.09)
+2022-07-06 17:50:11,685 - root: Iteration 12/19 took 0.9192790985107422 for 70 clusters (best_inertia = 1735.23)
+2022-07-06 17:50:12,628 - root: Iteration 13/19 took 0.942528486251831 for 75 clusters (best_inertia = 1692.46)
+2022-07-06 17:50:13,674 - root: Iteration 14/19 took 1.04620361328125 for 80 clusters (best_inertia = 1645.77)
+2022-07-06 17:50:14,785 - root: Iteration 15/19 took 1.1104974746704102 for 85 clusters (best_inertia = 1581.95)
+2022-07-06 17:50:15,934 - root: Iteration 16/19 took 1.1487932205200195 for 90 clusters (best_inertia = 1539.56)
+2022-07-06 17:50:17,085 - root: Iteration 17/19 took 1.149397611618042 for 95 clusters (best_inertia = 1477.15)
+2022-07-06 17:50:18,264 - root: Iteration 18/19 took 1.178389310836792 for 100 clusters (best_inertia = 1436.48)
+2022-07-06 17:50:18,265 - root: Found optimal number of clusters of 40
+2022-07-06 17:50:18,460 - root: Daily sampler for cluster 19 fit in -18.08098578453064
+2022-07-06 17:50:18,460 - root: Fitting daily sampler for cluster 20 with 1 days.
+2022-07-06 17:50:18,555 - root: Starting fit in elbow method
+2022-07-06 17:50:19,320 - root: Iteration 0/19 took 0.764397382736206 for 10 clusters (best_inertia = 5095.26)
+2022-07-06 17:50:20,110 - root: Iteration 1/19 took 0.789874792098999 for 15 clusters (best_inertia = 4756.28)
+2022-07-06 17:50:20,947 - root: Iteration 2/19 took 0.8339736461639404 for 20 clusters (best_inertia = 4495.50)
+2022-07-06 17:50:21,889 - root: Iteration 3/19 took 0.9413912296295166 for 25 clusters (best_inertia = 4337.23)
+2022-07-06 17:50:22,722 - root: Iteration 4/19 took 0.8327155113220215 for 30 clusters (best_inertia = 4133.38)
+2022-07-06 17:50:23,607 - root: Iteration 5/19 took 0.8845803737640381 for 35 clusters (best_inertia = 3977.03)
+2022-07-06 17:50:24,459 - root: Iteration 6/19 took 0.8517684936523438 for 40 clusters (best_inertia = 3847.48)
+2022-07-06 17:50:25,323 - root: Iteration 7/19 took 0.8643789291381836 for 45 clusters (best_inertia = 3720.30)
+2022-07-06 17:50:26,287 - root: Iteration 8/19 took 0.9632372856140137 for 50 clusters (best_inertia = 3573.86)
+2022-07-06 17:50:27,299 - root: Iteration 9/19 took 1.0123867988586426 for 55 clusters (best_inertia = 3495.88)
+2022-07-06 17:50:28,301 - root: Iteration 10/19 took 1.00142502784729 for 60 clusters (best_inertia = 3375.60)
+2022-07-06 17:50:29,308 - root: Iteration 11/19 took 1.0068020820617676 for 65 clusters (best_inertia = 3258.60)
+2022-07-06 17:50:30,362 - root: Iteration 12/19 took 1.053252935409546 for 70 clusters (best_inertia = 3141.39)
+2022-07-06 17:50:31,469 - root: Iteration 13/19 took 1.1068792343139648 for 75 clusters (best_inertia = 3057.98)
+2022-07-06 17:50:32,443 - root: Iteration 14/19 took 0.9736104011535645 for 80 clusters (best_inertia = 2948.42)
+2022-07-06 17:50:33,544 - root: Iteration 15/19 took 1.100745439529419 for 85 clusters (best_inertia = 2865.40)
+2022-07-06 17:50:34,639 - root: Iteration 16/19 took 1.095609188079834 for 90 clusters (best_inertia = 2761.88)
+2022-07-06 17:50:35,704 - root: Iteration 17/19 took 1.0642664432525635 for 95 clusters (best_inertia = 2663.29)
+2022-07-06 17:50:36,870 - root: Iteration 18/19 took 1.1659190654754639 for 100 clusters (best_inertia = 2561.07)
+2022-07-06 17:50:36,872 - root: Found optimal number of clusters of 50
+2022-07-06 17:50:37,082 - root: Daily sampler for cluster 20 fit in -18.62196445465088
+2022-07-06 17:50:37,082 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-07-06 17:50:37,154 - root: Starting fit in elbow method
+2022-07-06 17:50:37,892 - root: Iteration 0/19 took 0.737483024597168 for 10 clusters (best_inertia = 9228.20)
+2022-07-06 17:50:38,693 - root: Iteration 1/19 took 0.8003513813018799 for 15 clusters (best_inertia = 7671.22)
+2022-07-06 17:50:39,478 - root: Iteration 2/19 took 0.7853717803955078 for 20 clusters (best_inertia = 6741.04)
+2022-07-06 17:50:40,287 - root: Iteration 3/19 took 0.8089408874511719 for 25 clusters (best_inertia = 5863.68)
+2022-07-06 17:50:41,140 - root: Iteration 4/19 took 0.8521888256072998 for 30 clusters (best_inertia = 5360.64)
+2022-07-06 17:50:42,024 - root: Iteration 5/19 took 0.884479284286499 for 35 clusters (best_inertia = 4917.82)
+2022-07-06 17:50:42,898 - root: Iteration 6/19 took 0.8737921714782715 for 40 clusters (best_inertia = 4586.60)
+2022-07-06 17:50:43,893 - root: Iteration 7/19 took 0.9944467544555664 for 45 clusters (best_inertia = 4275.73)
+2022-07-06 17:50:44,858 - root: Iteration 8/19 took 0.96431565284729 for 50 clusters (best_inertia = 4017.25)
+2022-07-06 17:50:45,831 - root: Iteration 9/19 took 0.972750186920166 for 55 clusters (best_inertia = 3757.86)
+2022-07-06 17:50:46,824 - root: Iteration 10/19 took 0.9930083751678467 for 60 clusters (best_inertia = 3558.74)
+2022-07-06 17:50:47,937 - root: Iteration 11/19 took 1.1129987239837646 for 65 clusters (best_inertia = 3334.22)
+2022-07-06 17:50:48,991 - root: Iteration 12/19 took 1.0538532733917236 for 70 clusters (best_inertia = 3171.31)
+2022-07-06 17:50:50,053 - root: Iteration 13/19 took 1.061631679534912 for 75 clusters (best_inertia = 3000.32)
+2022-07-06 17:50:51,168 - root: Iteration 14/19 took 1.1146624088287354 for 80 clusters (best_inertia = 2793.74)
+2022-07-06 17:50:52,280 - root: Iteration 15/19 took 1.1117265224456787 for 85 clusters (best_inertia = 2668.92)
+2022-07-06 17:50:53,312 - root: Iteration 16/19 took 1.0323684215545654 for 90 clusters (best_inertia = 2551.11)
+2022-07-06 17:50:54,451 - root: Iteration 17/19 took 1.138038158416748 for 95 clusters (best_inertia = 2383.29)
+2022-07-06 17:50:55,642 - root: Iteration 18/19 took 1.1911072731018066 for 100 clusters (best_inertia = 2270.86)
+2022-07-06 17:50:55,643 - root: Found optimal number of clusters of 35
+2022-07-06 17:50:55,821 - root: Daily sampler for cluster 21 fit in -18.738280534744263
+2022-07-06 17:50:55,821 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-07-06 17:50:55,911 - root: Starting fit in elbow method
+2022-07-06 17:50:56,607 - root: Iteration 0/19 took 0.6954891681671143 for 10 clusters (best_inertia = 1068.02)
+2022-07-06 17:50:57,313 - root: Iteration 1/19 took 0.7056145668029785 for 15 clusters (best_inertia = 908.12)
+2022-07-06 17:50:58,089 - root: Iteration 2/19 took 0.7751734256744385 for 20 clusters (best_inertia = 829.66)
+2022-07-06 17:50:58,860 - root: Iteration 3/19 took 0.7710254192352295 for 25 clusters (best_inertia = 734.28)
+2022-07-06 17:50:59,663 - root: Iteration 4/19 took 0.8029508590698242 for 30 clusters (best_inertia = 670.23)
+2022-07-06 17:51:00,619 - root: Iteration 5/19 took 0.9553875923156738 for 35 clusters (best_inertia = 628.12)
+2022-07-06 17:51:01,486 - root: Iteration 6/19 took 0.8676924705505371 for 40 clusters (best_inertia = 581.41)
+2022-07-06 17:51:02,456 - root: Iteration 7/19 took 0.9690415859222412 for 45 clusters (best_inertia = 552.63)
+2022-07-06 17:51:03,479 - root: Iteration 8/19 took 1.0230357646942139 for 50 clusters (best_inertia = 513.44)
+2022-07-06 17:51:04,481 - root: Iteration 9/19 took 1.0017993450164795 for 55 clusters (best_inertia = 489.54)
+2022-07-06 17:51:05,335 - root: Iteration 10/19 took 0.8539152145385742 for 60 clusters (best_inertia = 459.83)
+2022-07-06 17:51:06,322 - root: Iteration 11/19 took 0.986513614654541 for 65 clusters (best_inertia = 435.45)
+2022-07-06 17:51:07,389 - root: Iteration 12/19 took 1.0671265125274658 for 70 clusters (best_inertia = 415.85)
+2022-07-06 17:51:08,518 - root: Iteration 13/19 took 1.1291162967681885 for 75 clusters (best_inertia = 389.83)
+2022-07-06 17:51:09,563 - root: Iteration 14/19 took 1.0440688133239746 for 80 clusters (best_inertia = 368.92)
+2022-07-06 17:51:10,638 - root: Iteration 15/19 took 1.0752501487731934 for 85 clusters (best_inertia = 354.67)
+2022-07-06 17:51:11,822 - root: Iteration 16/19 took 1.183018684387207 for 90 clusters (best_inertia = 341.57)
+2022-07-06 17:51:12,946 - root: Iteration 17/19 took 1.124558687210083 for 95 clusters (best_inertia = 323.15)
+2022-07-06 17:51:14,127 - root: Iteration 18/19 took 1.1801812648773193 for 100 clusters (best_inertia = 307.69)
+2022-07-06 17:51:14,129 - root: Found optimal number of clusters of 40
+2022-07-06 17:51:14,310 - root: Daily sampler for cluster 22 fit in -18.48888635635376
+2022-07-06 17:51:14,310 - root: Fitting daily sampler for cluster 23 with 43 days.
+2022-07-06 17:51:14,411 - root: Starting fit in elbow method
+2022-07-06 17:51:18,402 - root: Iteration 0/19 took 3.990100622177124 for 10 clusters (best_inertia = 85426.30)
+2022-07-06 17:51:22,263 - root: Iteration 1/19 took 3.8613779544830322 for 15 clusters (best_inertia = 77010.53)
+2022-07-06 17:51:26,821 - root: Iteration 2/19 took 4.5575902462005615 for 20 clusters (best_inertia = 72504.70)
+2022-07-06 17:51:31,982 - root: Iteration 3/19 took 5.159956693649292 for 25 clusters (best_inertia = 69324.33)
+2022-07-06 17:51:36,460 - root: Iteration 4/19 took 4.477905750274658 for 30 clusters (best_inertia = 66921.39)
+2022-07-06 17:51:42,378 - root: Iteration 5/19 took 5.9172914028167725 for 35 clusters (best_inertia = 65005.02)
+2022-07-06 17:51:48,271 - root: Iteration 6/19 took 5.892687797546387 for 40 clusters (best_inertia = 63165.96)
+2022-07-06 17:51:53,825 - root: Iteration 7/19 took 5.553674697875977 for 45 clusters (best_inertia = 61892.45)
+2022-07-06 17:51:58,771 - root: Iteration 8/19 took 4.94599986076355 for 50 clusters (best_inertia = 60738.19)
+2022-07-06 17:52:04,383 - root: Iteration 9/19 took 5.610008001327515 for 55 clusters (best_inertia = 59621.09)
+2022-07-06 17:52:10,500 - root: Iteration 10/19 took 6.114648103713989 for 60 clusters (best_inertia = 58828.20)
+2022-07-06 17:52:16,346 - root: Iteration 11/19 took 5.844373464584351 for 65 clusters (best_inertia = 57838.33)
+2022-07-06 17:52:22,878 - root: Iteration 12/19 took 6.529917240142822 for 70 clusters (best_inertia = 57131.03)
+2022-07-06 17:52:29,181 - root: Iteration 13/19 took 6.303118705749512 for 75 clusters (best_inertia = 56511.65)
+2022-07-06 17:52:35,704 - root: Iteration 14/19 took 6.522695541381836 for 80 clusters (best_inertia = 55880.45)
+2022-07-06 17:52:41,590 - root: Iteration 15/19 took 5.88567852973938 for 85 clusters (best_inertia = 55157.37)
+2022-07-06 17:52:48,095 - root: Iteration 16/19 took 6.504844665527344 for 90 clusters (best_inertia = 54720.79)
+2022-07-06 17:52:54,575 - root: Iteration 17/19 took 6.479025602340698 for 95 clusters (best_inertia = 54052.44)
+2022-07-06 17:53:01,183 - root: Iteration 18/19 took 6.606597900390625 for 100 clusters (best_inertia = 53723.98)
+2022-07-06 17:53:01,187 - root: Found optimal number of clusters of 40
+2022-07-06 17:53:03,521 - root: Daily sampler for cluster 23 fit in -109.21113538742065
+2022-07-06 17:53:03,522 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-07-06 17:53:03,592 - root: Starting fit in elbow method
+2022-07-06 17:53:04,235 - root: Iteration 0/19 took 0.64219069480896 for 10 clusters (best_inertia = 7318.56)
+2022-07-06 17:53:04,937 - root: Iteration 1/19 took 0.7019374370574951 for 15 clusters (best_inertia = 6101.79)
+2022-07-06 17:53:05,669 - root: Iteration 2/19 took 0.7319221496582031 for 20 clusters (best_inertia = 5381.93)
+2022-07-06 17:53:06,426 - root: Iteration 3/19 took 0.756523847579956 for 25 clusters (best_inertia = 4814.44)
+2022-07-06 17:53:07,318 - root: Iteration 4/19 took 0.8917725086212158 for 30 clusters (best_inertia = 4202.95)
+2022-07-06 17:53:08,144 - root: Iteration 5/19 took 0.8263378143310547 for 35 clusters (best_inertia = 3731.89)
+2022-07-06 17:53:09,062 - root: Iteration 6/19 took 0.9171743392944336 for 40 clusters (best_inertia = 3368.18)
+2022-07-06 17:53:09,982 - root: Iteration 7/19 took 0.9202337265014648 for 45 clusters (best_inertia = 3005.21)
+2022-07-06 17:53:10,907 - root: Iteration 8/19 took 0.9247903823852539 for 50 clusters (best_inertia = 2743.78)
+2022-07-06 17:53:11,836 - root: Iteration 9/19 took 0.9285025596618652 for 55 clusters (best_inertia = 2492.11)
+2022-07-06 17:53:12,877 - root: Iteration 10/19 took 1.0406901836395264 for 60 clusters (best_inertia = 2297.67)
+2022-07-06 17:53:13,877 - root: Iteration 11/19 took 1.0001981258392334 for 65 clusters (best_inertia = 2085.13)
+2022-07-06 17:53:14,909 - root: Iteration 12/19 took 1.0312013626098633 for 70 clusters (best_inertia = 1891.68)
+2022-07-06 17:53:16,064 - root: Iteration 13/19 took 1.1554977893829346 for 75 clusters (best_inertia = 1698.73)
+2022-07-06 17:53:17,176 - root: Iteration 14/19 took 1.1116838455200195 for 80 clusters (best_inertia = 1576.40)
+2022-07-06 17:53:18,232 - root: Iteration 15/19 took 1.0550565719604492 for 85 clusters (best_inertia = 1431.26)
+2022-07-06 17:53:19,391 - root: Iteration 16/19 took 1.1593809127807617 for 90 clusters (best_inertia = 1270.55)
+2022-07-06 17:53:20,536 - root: Iteration 17/19 took 1.1447968482971191 for 95 clusters (best_inertia = 1170.40)
+2022-07-06 17:53:21,745 - root: Iteration 18/19 took 1.2082247734069824 for 100 clusters (best_inertia = 1049.66)
+2022-07-06 17:53:21,749 - root: Found optimal number of clusters of 45
+2022-07-06 17:53:21,926 - root: Daily sampler for cluster 24 fit in -18.403826475143433
+2022-07-06 17:53:21,926 - root: Fitting daily sampler for cluster 25 with 9 days.
+2022-07-06 17:53:22,009 - root: Starting fit in elbow method
+2022-07-06 17:53:23,563 - root: Iteration 0/19 took 1.5532793998718262 for 10 clusters (best_inertia = 29151.95)
+2022-07-06 17:53:25,254 - root: Iteration 1/19 took 1.6906955242156982 for 15 clusters (best_inertia = 24491.95)
+2022-07-06 17:53:26,945 - root: Iteration 2/19 took 1.6913971900939941 for 20 clusters (best_inertia = 21788.23)
+2022-07-06 17:53:28,768 - root: Iteration 3/19 took 1.8227550983428955 for 25 clusters (best_inertia = 20232.86)
+2022-07-06 17:53:30,639 - root: Iteration 4/19 took 1.869969129562378 for 30 clusters (best_inertia = 19168.69)
+2022-07-06 17:53:32,547 - root: Iteration 5/19 took 1.9075751304626465 for 35 clusters (best_inertia = 18406.94)
+2022-07-06 17:53:34,521 - root: Iteration 6/19 took 1.9730110168457031 for 40 clusters (best_inertia = 17608.03)
+2022-07-06 17:53:36,493 - root: Iteration 7/19 took 1.970994234085083 for 45 clusters (best_inertia = 17151.94)
+2022-07-06 17:53:38,530 - root: Iteration 8/19 took 2.036731481552124 for 50 clusters (best_inertia = 16453.81)
+2022-07-06 17:53:40,645 - root: Iteration 9/19 took 2.114654541015625 for 55 clusters (best_inertia = 16072.11)
+2022-07-06 17:53:42,671 - root: Iteration 10/19 took 2.0255112648010254 for 60 clusters (best_inertia = 15570.80)
+2022-07-06 17:53:44,719 - root: Iteration 11/19 took 2.0476367473602295 for 65 clusters (best_inertia = 15250.96)
+2022-07-06 17:53:46,907 - root: Iteration 12/19 took 2.1882667541503906 for 70 clusters (best_inertia = 14940.99)
+2022-07-06 17:53:49,125 - root: Iteration 13/19 took 2.217662811279297 for 75 clusters (best_inertia = 14622.18)
+2022-07-06 17:53:51,425 - root: Iteration 14/19 took 2.2999801635742188 for 80 clusters (best_inertia = 14347.13)
+2022-07-06 17:53:53,801 - root: Iteration 15/19 took 2.375892400741577 for 85 clusters (best_inertia = 14004.32)
+2022-07-06 17:53:56,147 - root: Iteration 16/19 took 2.3453445434570312 for 90 clusters (best_inertia = 13830.56)
+2022-07-06 17:53:58,670 - root: Iteration 17/19 took 2.5228164196014404 for 95 clusters (best_inertia = 13518.28)
+2022-07-06 17:54:01,172 - root: Iteration 18/19 took 2.501819610595703 for 100 clusters (best_inertia = 13392.90)
+2022-07-06 17:54:01,173 - root: Found optimal number of clusters of 30
+2022-07-06 17:54:01,871 - root: Daily sampler for cluster 25 fit in -39.94538426399231
+2022-07-06 17:54:01,871 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-07-06 17:54:01,945 - root: Starting fit in elbow method
+2022-07-06 17:54:02,651 - root: Iteration 0/19 took 0.7062966823577881 for 10 clusters (best_inertia = 3036.47)
+2022-07-06 17:54:03,339 - root: Iteration 1/19 took 0.687436580657959 for 15 clusters (best_inertia = 2608.06)
+2022-07-06 17:54:04,097 - root: Iteration 2/19 took 0.7581114768981934 for 20 clusters (best_inertia = 2318.69)
+2022-07-06 17:54:05,068 - root: Iteration 3/19 took 0.9700226783752441 for 25 clusters (best_inertia = 2172.57)
+2022-07-06 17:54:05,811 - root: Iteration 4/19 took 0.7424988746643066 for 30 clusters (best_inertia = 1961.69)
+2022-07-06 17:54:06,785 - root: Iteration 5/19 took 0.9736127853393555 for 35 clusters (best_inertia = 1849.59)
+2022-07-06 17:54:07,824 - root: Iteration 6/19 took 1.0393755435943604 for 40 clusters (best_inertia = 1734.21)
+2022-07-06 17:54:08,705 - root: Iteration 7/19 took 0.8800652027130127 for 45 clusters (best_inertia = 1633.70)
+2022-07-06 17:54:09,707 - root: Iteration 8/19 took 1.0018634796142578 for 50 clusters (best_inertia = 1552.69)
+2022-07-06 17:54:10,705 - root: Iteration 9/19 took 0.9978725910186768 for 55 clusters (best_inertia = 1467.09)
+2022-07-06 17:54:11,691 - root: Iteration 10/19 took 0.986018180847168 for 60 clusters (best_inertia = 1397.85)
+2022-07-06 17:54:12,712 - root: Iteration 11/19 took 1.0208306312561035 for 65 clusters (best_inertia = 1336.76)
+2022-07-06 17:54:13,757 - root: Iteration 12/19 took 1.0451724529266357 for 70 clusters (best_inertia = 1290.89)
+2022-07-06 17:54:14,822 - root: Iteration 13/19 took 1.064253330230713 for 75 clusters (best_inertia = 1229.41)
+2022-07-06 17:54:16,004 - root: Iteration 14/19 took 1.1825511455535889 for 80 clusters (best_inertia = 1178.03)
+2022-07-06 17:54:17,165 - root: Iteration 15/19 took 1.1608128547668457 for 85 clusters (best_inertia = 1131.31)
+2022-07-06 17:54:18,182 - root: Iteration 16/19 took 1.016106128692627 for 90 clusters (best_inertia = 1097.53)
+2022-07-06 17:54:19,270 - root: Iteration 17/19 took 1.0879695415496826 for 95 clusters (best_inertia = 1052.01)
+2022-07-06 17:54:20,390 - root: Iteration 18/19 took 1.120028018951416 for 100 clusters (best_inertia = 1014.08)
+2022-07-06 17:54:20,394 - root: Found optimal number of clusters of 40
+2022-07-06 17:54:20,590 - root: Daily sampler for cluster 26 fit in -18.718698024749756
+2022-07-06 17:54:20,591 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-07-06 17:54:20,690 - root: Starting fit in elbow method
+2022-07-06 17:54:21,296 - root: Iteration 0/19 took 0.6058955192565918 for 10 clusters (best_inertia = 3829.55)
+2022-07-06 17:54:21,968 - root: Iteration 1/19 took 0.6721670627593994 for 15 clusters (best_inertia = 3096.03)
+2022-07-06 17:54:22,677 - root: Iteration 2/19 took 0.7087507247924805 for 20 clusters (best_inertia = 2725.88)
+2022-07-06 17:54:23,577 - root: Iteration 3/19 took 0.9000470638275146 for 25 clusters (best_inertia = 2503.25)
+2022-07-06 17:54:24,420 - root: Iteration 4/19 took 0.8425920009613037 for 30 clusters (best_inertia = 2278.84)
+2022-07-06 17:54:25,302 - root: Iteration 5/19 took 0.8823094367980957 for 35 clusters (best_inertia = 2135.33)
+2022-07-06 17:54:26,155 - root: Iteration 6/19 took 0.8521473407745361 for 40 clusters (best_inertia = 1999.98)
+2022-07-06 17:54:27,113 - root: Iteration 7/19 took 0.9575986862182617 for 45 clusters (best_inertia = 1884.76)
+2022-07-06 17:54:28,065 - root: Iteration 8/19 took 0.9522502422332764 for 50 clusters (best_inertia = 1809.00)
+2022-07-06 17:54:29,023 - root: Iteration 9/19 took 0.9572560787200928 for 55 clusters (best_inertia = 1674.05)
+2022-07-06 17:54:29,992 - root: Iteration 10/19 took 0.9689431190490723 for 60 clusters (best_inertia = 1624.90)
+2022-07-06 17:54:30,963 - root: Iteration 11/19 took 0.9707612991333008 for 65 clusters (best_inertia = 1541.44)
+2022-07-06 17:54:32,061 - root: Iteration 12/19 took 1.0975582599639893 for 70 clusters (best_inertia = 1466.80)
+2022-07-06 17:54:33,149 - root: Iteration 13/19 took 1.0876715183258057 for 75 clusters (best_inertia = 1410.03)
+2022-07-06 17:54:34,252 - root: Iteration 14/19 took 1.1030571460723877 for 80 clusters (best_inertia = 1358.08)
+2022-07-06 17:54:35,432 - root: Iteration 15/19 took 1.1802303791046143 for 85 clusters (best_inertia = 1277.34)
+2022-07-06 17:54:36,622 - root: Iteration 16/19 took 1.1821777820587158 for 90 clusters (best_inertia = 1239.42)
+2022-07-06 17:54:37,803 - root: Iteration 17/19 took 1.1802747249603271 for 95 clusters (best_inertia = 1183.79)
+2022-07-06 17:54:38,957 - root: Iteration 18/19 took 1.1537432670593262 for 100 clusters (best_inertia = 1126.88)
+2022-07-06 17:54:38,958 - root: Found optimal number of clusters of 30
+2022-07-06 17:54:39,125 - root: Daily sampler for cluster 27 fit in -18.53433394432068
+2022-07-06 17:54:39,126 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-07-06 17:54:39,197 - root: Starting fit in elbow method
+2022-07-06 17:54:39,895 - root: Iteration 0/19 took 0.6982312202453613 for 10 clusters (best_inertia = 7716.98)
+2022-07-06 17:54:40,662 - root: Iteration 1/19 took 0.766751766204834 for 15 clusters (best_inertia = 6845.86)
+2022-07-06 17:54:41,378 - root: Iteration 2/19 took 0.7150452136993408 for 20 clusters (best_inertia = 6367.42)
+2022-07-06 17:54:42,132 - root: Iteration 3/19 took 0.7539708614349365 for 25 clusters (best_inertia = 5973.62)
+2022-07-06 17:54:42,916 - root: Iteration 4/19 took 0.7841765880584717 for 30 clusters (best_inertia = 5563.00)
+2022-07-06 17:54:43,829 - root: Iteration 5/19 took 0.9120182991027832 for 35 clusters (best_inertia = 5225.40)
+2022-07-06 17:54:44,711 - root: Iteration 6/19 took 0.8818573951721191 for 40 clusters (best_inertia = 4970.45)
+2022-07-06 17:54:45,639 - root: Iteration 7/19 took 0.9277768135070801 for 45 clusters (best_inertia = 4733.52)
+2022-07-06 17:54:46,582 - root: Iteration 8/19 took 0.9429633617401123 for 50 clusters (best_inertia = 4514.63)
+2022-07-06 17:54:47,440 - root: Iteration 9/19 took 0.8582687377929688 for 55 clusters (best_inertia = 4184.40)
+2022-07-06 17:54:48,363 - root: Iteration 10/19 took 0.9219255447387695 for 60 clusters (best_inertia = 3984.85)
+2022-07-06 17:54:49,335 - root: Iteration 11/19 took 0.9719762802124023 for 65 clusters (best_inertia = 3807.68)
+2022-07-06 17:54:50,393 - root: Iteration 12/19 took 1.058309555053711 for 70 clusters (best_inertia = 3619.20)
+2022-07-06 17:54:51,447 - root: Iteration 13/19 took 1.0534818172454834 for 75 clusters (best_inertia = 3397.57)
+2022-07-06 17:54:52,558 - root: Iteration 14/19 took 1.1107513904571533 for 80 clusters (best_inertia = 3244.74)
+2022-07-06 17:54:53,659 - root: Iteration 15/19 took 1.1003837585449219 for 85 clusters (best_inertia = 3071.17)
+2022-07-06 17:54:54,718 - root: Iteration 16/19 took 1.059537649154663 for 90 clusters (best_inertia = 2961.99)
+2022-07-06 17:54:55,871 - root: Iteration 17/19 took 1.15250563621521 for 95 clusters (best_inertia = 2748.94)
+2022-07-06 17:54:56,905 - root: Iteration 18/19 took 1.0334060192108154 for 100 clusters (best_inertia = 2615.68)
+2022-07-06 17:54:56,907 - root: Found optimal number of clusters of 55
+2022-07-06 17:54:57,119 - root: Daily sampler for cluster 28 fit in -17.9937424659729
+2022-07-06 17:54:57,120 - root: Fitting daily sampler for cluster 29 with 304 days.
+2022-07-06 17:54:57,490 - root: Starting fit in elbow method
+2022-07-06 17:55:09,585 - root: Iteration 0/19 took 12.094659805297852 for 10 clusters (best_inertia = 196734.91)
+2022-07-06 17:55:21,962 - root: Iteration 1/19 took 12.37715458869934 for 15 clusters (best_inertia = 185468.04)
+2022-07-06 17:55:37,603 - root: Iteration 2/19 took 15.640265464782715 for 20 clusters (best_inertia = 178680.47)
+2022-07-06 17:55:56,349 - root: Iteration 3/19 took 18.745579719543457 for 25 clusters (best_inertia = 173583.95)
+2022-07-06 17:56:17,327 - root: Iteration 4/19 took 20.978150844573975 for 30 clusters (best_inertia = 169529.67)
+2022-07-06 17:56:47,080 - root: Iteration 5/19 took 29.752836227416992 for 35 clusters (best_inertia = 166077.92)
+2022-07-06 17:57:09,614 - root: Iteration 6/19 took 22.53217053413391 for 40 clusters (best_inertia = 163343.07)
+2022-07-06 17:57:29,284 - root: Iteration 7/19 took 19.670180082321167 for 45 clusters (best_inertia = 160934.00)
+2022-07-06 17:57:51,853 - root: Iteration 8/19 took 22.56778073310852 for 50 clusters (best_inertia = 158757.81)
+2022-07-06 17:58:12,632 - root: Iteration 9/19 took 20.77861523628235 for 55 clusters (best_inertia = 156802.42)
+2022-07-06 17:58:34,589 - root: Iteration 10/19 took 21.957385063171387 for 60 clusters (best_inertia = 155135.45)
+2022-07-06 17:58:59,077 - root: Iteration 11/19 took 24.487410068511963 for 65 clusters (best_inertia = 153441.61)
+2022-07-06 17:59:24,785 - root: Iteration 12/19 took 25.7077476978302 for 70 clusters (best_inertia = 152091.79)
+2022-07-06 17:59:53,561 - root: Iteration 13/19 took 28.77549910545349 for 75 clusters (best_inertia = 150897.86)
+2022-07-06 18:00:22,889 - root: Iteration 14/19 took 29.327497959136963 for 80 clusters (best_inertia = 149703.07)
+2022-07-06 18:00:52,462 - root: Iteration 15/19 took 29.57280135154724 for 85 clusters (best_inertia = 148537.90)
+2022-07-06 18:01:23,777 - root: Iteration 16/19 took 31.31451725959778 for 90 clusters (best_inertia = 147443.73)
+2022-07-06 18:01:53,609 - root: Iteration 17/19 took 29.831432104110718 for 95 clusters (best_inertia = 146613.92)
+2022-07-06 18:02:27,240 - root: Iteration 18/19 took 33.63052701950073 for 100 clusters (best_inertia = 145588.62)
+2022-07-06 18:02:27,242 - root: Found optimal number of clusters of 35
+2022-07-06 18:02:37,104 - root: Daily sampler for cluster 29 fit in -459.9847195148468
+2022-07-06 18:02:37,105 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-07-06 18:02:37,180 - root: Starting fit in elbow method
+2022-07-06 18:02:37,841 - root: Iteration 0/19 took 0.6606884002685547 for 10 clusters (best_inertia = 19668.63)
+2022-07-06 18:02:38,575 - root: Iteration 1/19 took 0.7336504459381104 for 15 clusters (best_inertia = 17515.94)
+2022-07-06 18:02:39,323 - root: Iteration 2/19 took 0.747441291809082 for 20 clusters (best_inertia = 16359.81)
+2022-07-06 18:02:40,154 - root: Iteration 3/19 took 0.8307538032531738 for 25 clusters (best_inertia = 14985.82)
+2022-07-06 18:02:41,125 - root: Iteration 4/19 took 0.9680252075195312 for 30 clusters (best_inertia = 14014.00)
+2022-07-06 18:02:42,061 - root: Iteration 5/19 took 0.9350008964538574 for 35 clusters (best_inertia = 13042.73)
+2022-07-06 18:02:42,907 - root: Iteration 6/19 took 0.8466248512268066 for 40 clusters (best_inertia = 12118.16)
+2022-07-06 18:02:43,822 - root: Iteration 7/19 took 0.9145076274871826 for 45 clusters (best_inertia = 11120.23)
+2022-07-06 18:02:44,786 - root: Iteration 8/19 took 0.9635357856750488 for 50 clusters (best_inertia = 10601.62)
+2022-07-06 18:02:45,739 - root: Iteration 9/19 took 0.9526143074035645 for 55 clusters (best_inertia = 9593.79)
+2022-07-06 18:02:46,673 - root: Iteration 10/19 took 0.9332072734832764 for 60 clusters (best_inertia = 9152.05)
+2022-07-06 18:02:47,658 - root: Iteration 11/19 took 0.9799940586090088 for 65 clusters (best_inertia = 8368.05)
+2022-07-06 18:02:48,698 - root: Iteration 12/19 took 1.0388553142547607 for 70 clusters (best_inertia = 8026.87)
+2022-07-06 18:02:49,821 - root: Iteration 13/19 took 1.122852087020874 for 75 clusters (best_inertia = 7380.88)
+2022-07-06 18:02:50,843 - root: Iteration 14/19 took 1.0218455791473389 for 80 clusters (best_inertia = 6861.65)
+2022-07-06 18:02:51,876 - root: Iteration 15/19 took 1.0324251651763916 for 85 clusters (best_inertia = 6344.92)
+2022-07-06 18:02:53,003 - root: Iteration 16/19 took 1.1270241737365723 for 90 clusters (best_inertia = 5910.42)
+2022-07-06 18:02:54,178 - root: Iteration 17/19 took 1.174546480178833 for 95 clusters (best_inertia = 5581.44)
+2022-07-06 18:02:55,316 - root: Iteration 18/19 took 1.137962818145752 for 100 clusters (best_inertia = 5098.68)
+2022-07-06 18:02:55,319 - root: Found optimal number of clusters of 55
+2022-07-06 18:02:55,517 - root: Daily sampler for cluster 30 fit in -18.41167974472046
+2022-07-06 18:02:55,517 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-07-06 18:02:55,582 - root: Starting fit in elbow method
+2022-07-06 18:02:56,252 - root: Iteration 0/19 took 0.670222282409668 for 10 clusters (best_inertia = 6406.05)
+2022-07-06 18:02:56,985 - root: Iteration 1/19 took 0.7325232028961182 for 15 clusters (best_inertia = 5698.22)
+2022-07-06 18:02:57,719 - root: Iteration 2/19 took 0.734025239944458 for 20 clusters (best_inertia = 5263.81)
+2022-07-06 18:02:58,446 - root: Iteration 3/19 took 0.7264277935028076 for 25 clusters (best_inertia = 4989.67)
+2022-07-06 18:02:59,219 - root: Iteration 4/19 took 0.7730426788330078 for 30 clusters (best_inertia = 4618.86)
+2022-07-06 18:02:59,986 - root: Iteration 5/19 took 0.7663638591766357 for 35 clusters (best_inertia = 4319.35)
+2022-07-06 18:03:00,804 - root: Iteration 6/19 took 0.8182132244110107 for 40 clusters (best_inertia = 4083.72)
+2022-07-06 18:03:01,619 - root: Iteration 7/19 took 0.8142259120941162 for 45 clusters (best_inertia = 3889.29)
+2022-07-06 18:03:02,477 - root: Iteration 8/19 took 0.8580939769744873 for 50 clusters (best_inertia = 3744.48)
+2022-07-06 18:03:03,394 - root: Iteration 9/19 took 0.916771411895752 for 55 clusters (best_inertia = 3520.37)
+2022-07-06 18:03:04,296 - root: Iteration 10/19 took 0.9012405872344971 for 60 clusters (best_inertia = 3415.56)
+2022-07-06 18:03:05,265 - root: Iteration 11/19 took 0.9693281650543213 for 65 clusters (best_inertia = 3233.73)
+2022-07-06 18:03:06,331 - root: Iteration 12/19 took 1.065675973892212 for 70 clusters (best_inertia = 3099.28)
+2022-07-06 18:03:07,381 - root: Iteration 13/19 took 1.0496220588684082 for 75 clusters (best_inertia = 2943.94)
+2022-07-06 18:03:08,516 - root: Iteration 14/19 took 1.1345970630645752 for 80 clusters (best_inertia = 2860.94)
+2022-07-06 18:03:09,657 - root: Iteration 15/19 took 1.1406872272491455 for 85 clusters (best_inertia = 2765.18)
+2022-07-06 18:03:10,818 - root: Iteration 16/19 took 1.161062479019165 for 90 clusters (best_inertia = 2632.61)
+2022-07-06 18:03:11,972 - root: Iteration 17/19 took 1.1538739204406738 for 95 clusters (best_inertia = 2556.01)
+2022-07-06 18:03:13,170 - root: Iteration 18/19 took 1.197721242904663 for 100 clusters (best_inertia = 2450.99)
+2022-07-06 18:03:13,171 - root: Found optimal number of clusters of 55
+2022-07-06 18:03:13,368 - root: Daily sampler for cluster 31 fit in -17.851353645324707
+2022-07-06 18:03:13,369 - root: Fitting daily sampler for cluster 32 with 14 days.
+2022-07-06 18:03:13,451 - root: Starting fit in elbow method
+2022-07-06 18:03:15,205 - root: Iteration 0/19 took 1.753981590270996 for 10 clusters (best_inertia = 22827.32)
+2022-07-06 18:03:17,045 - root: Iteration 1/19 took 1.840548038482666 for 15 clusters (best_inertia = 20974.37)
+2022-07-06 18:03:19,046 - root: Iteration 2/19 took 2.0001280307769775 for 20 clusters (best_inertia = 19955.63)
+2022-07-06 18:03:21,191 - root: Iteration 3/19 took 2.1446990966796875 for 25 clusters (best_inertia = 19314.52)
+2022-07-06 18:03:23,247 - root: Iteration 4/19 took 2.05652117729187 for 30 clusters (best_inertia = 18810.38)
+2022-07-06 18:03:25,449 - root: Iteration 5/19 took 2.201402187347412 for 35 clusters (best_inertia = 18378.84)
+2022-07-06 18:03:27,669 - root: Iteration 6/19 took 2.219360828399658 for 40 clusters (best_inertia = 18032.96)
+2022-07-06 18:03:29,787 - root: Iteration 7/19 took 2.118108034133911 for 45 clusters (best_inertia = 17680.88)
+2022-07-06 18:03:32,008 - root: Iteration 8/19 took 2.2206904888153076 for 50 clusters (best_inertia = 17462.70)
+2022-07-06 18:03:34,394 - root: Iteration 9/19 took 2.384896755218506 for 55 clusters (best_inertia = 17184.64)
+2022-07-06 18:03:36,771 - root: Iteration 10/19 took 2.3754589557647705 for 60 clusters (best_inertia = 16946.66)
+2022-07-06 18:03:39,419 - root: Iteration 11/19 took 2.6477744579315186 for 65 clusters (best_inertia = 16737.38)
+2022-07-06 18:03:42,027 - root: Iteration 12/19 took 2.6078410148620605 for 70 clusters (best_inertia = 16595.75)
+2022-07-06 18:03:44,553 - root: Iteration 13/19 took 2.525726318359375 for 75 clusters (best_inertia = 16446.18)
+2022-07-06 18:03:47,255 - root: Iteration 14/19 took 2.701732635498047 for 80 clusters (best_inertia = 16246.41)
+2022-07-06 18:03:49,864 - root: Iteration 15/19 took 2.6091556549072266 for 85 clusters (best_inertia = 16164.40)
+2022-07-06 18:03:52,658 - root: Iteration 16/19 took 2.793046474456787 for 90 clusters (best_inertia = 16022.98)
+2022-07-06 18:03:55,490 - root: Iteration 17/19 took 2.83187198638916 for 95 clusters (best_inertia = 15909.89)
+2022-07-06 18:03:58,375 - root: Iteration 18/19 took 2.8848137855529785 for 100 clusters (best_inertia = 15793.18)
+2022-07-06 18:03:58,376 - root: Found optimal number of clusters of 35
+2022-07-06 18:03:59,241 - root: Daily sampler for cluster 32 fit in -45.87261343002319
+2022-07-06 18:03:59,242 - root: Fitting daily sampler for cluster 33 with 2 days.
+2022-07-06 18:03:59,319 - root: Starting fit in elbow method
+2022-07-06 18:04:00,087 - root: Iteration 0/19 took 0.7680177688598633 for 10 clusters (best_inertia = 5131.98)
+2022-07-06 18:04:00,878 - root: Iteration 1/19 took 0.7911264896392822 for 15 clusters (best_inertia = 4430.25)
+2022-07-06 18:04:01,941 - root: Iteration 2/19 took 1.0628890991210938 for 20 clusters (best_inertia = 4087.62)
+2022-07-06 18:04:02,901 - root: Iteration 3/19 took 0.959252119064331 for 25 clusters (best_inertia = 3795.57)
+2022-07-06 18:04:04,061 - root: Iteration 4/19 took 1.1586360931396484 for 30 clusters (best_inertia = 3563.52)
+2022-07-06 18:04:05,019 - root: Iteration 5/19 took 0.9575862884521484 for 35 clusters (best_inertia = 3425.69)
+2022-07-06 18:04:06,392 - root: Iteration 6/19 took 1.372053861618042 for 40 clusters (best_inertia = 3249.63)
+2022-07-06 18:04:07,611 - root: Iteration 7/19 took 1.2188713550567627 for 45 clusters (best_inertia = 3163.01)
+2022-07-06 18:04:08,889 - root: Iteration 8/19 took 1.2776422500610352 for 50 clusters (best_inertia = 3089.73)
+2022-07-06 18:04:10,144 - root: Iteration 9/19 took 1.2547099590301514 for 55 clusters (best_inertia = 2992.71)
+2022-07-06 18:04:11,563 - root: Iteration 10/19 took 1.4189200401306152 for 60 clusters (best_inertia = 2901.27)
+2022-07-06 18:04:12,976 - root: Iteration 11/19 took 1.4125640392303467 for 65 clusters (best_inertia = 2816.55)
+2022-07-06 18:04:14,345 - root: Iteration 12/19 took 1.369049310684204 for 70 clusters (best_inertia = 2739.47)
+2022-07-06 18:04:15,849 - root: Iteration 13/19 took 1.5029819011688232 for 75 clusters (best_inertia = 2665.33)
+2022-07-06 18:04:17,538 - root: Iteration 14/19 took 1.687772274017334 for 80 clusters (best_inertia = 2608.72)
+2022-07-06 18:04:19,157 - root: Iteration 15/19 took 1.6192331314086914 for 85 clusters (best_inertia = 2554.64)
+2022-07-06 18:04:20,694 - root: Iteration 16/19 took 1.5366356372833252 for 90 clusters (best_inertia = 2486.94)
+2022-07-06 18:04:22,460 - root: Iteration 17/19 took 1.7661457061767578 for 95 clusters (best_inertia = 2437.68)
+2022-07-06 18:04:24,284 - root: Iteration 18/19 took 1.8218779563903809 for 100 clusters (best_inertia = 2373.24)
+2022-07-06 18:04:24,285 - root: Found optimal number of clusters of 40
+2022-07-06 18:04:24,550 - root: Daily sampler for cluster 33 fit in -25.30868363380432
+2022-07-06 18:04:24,551 - root: Fitting daily sampler for cluster 34 with 1 days.
+2022-07-06 18:04:24,632 - root: Starting fit in elbow method
+2022-07-06 18:04:25,305 - root: Iteration 0/19 took 0.672630786895752 for 10 clusters (best_inertia = 7464.24)
+2022-07-06 18:04:26,006 - root: Iteration 1/19 took 0.7012434005737305 for 15 clusters (best_inertia = 6885.23)
+2022-07-06 18:04:26,751 - root: Iteration 2/19 took 0.7442963123321533 for 20 clusters (best_inertia = 6488.20)
+2022-07-06 18:04:27,604 - root: Iteration 3/19 took 0.8530852794647217 for 25 clusters (best_inertia = 6152.50)
+2022-07-06 18:04:28,425 - root: Iteration 4/19 took 0.8208298683166504 for 30 clusters (best_inertia = 5889.93)
+2022-07-06 18:04:29,315 - root: Iteration 5/19 took 0.8900449275970459 for 35 clusters (best_inertia = 5589.22)
+2022-07-06 18:04:30,348 - root: Iteration 6/19 took 1.0326287746429443 for 40 clusters (best_inertia = 5392.08)
+2022-07-06 18:04:31,285 - root: Iteration 7/19 took 0.9365401268005371 for 45 clusters (best_inertia = 5148.07)
+2022-07-06 18:04:32,273 - root: Iteration 8/19 took 0.9873697757720947 for 50 clusters (best_inertia = 5034.93)
+2022-07-06 18:04:33,375 - root: Iteration 9/19 took 1.1020517349243164 for 55 clusters (best_inertia = 4831.70)
+2022-07-06 18:04:34,429 - root: Iteration 10/19 took 1.0533535480499268 for 60 clusters (best_inertia = 4625.03)
+2022-07-06 18:04:35,506 - root: Iteration 11/19 took 1.0770263671875 for 65 clusters (best_inertia = 4474.72)
+2022-07-06 18:04:36,625 - root: Iteration 12/19 took 1.1185150146484375 for 70 clusters (best_inertia = 4294.99)
+2022-07-06 18:04:37,720 - root: Iteration 13/19 took 1.0950944423675537 for 75 clusters (best_inertia = 4140.70)
+2022-07-06 18:04:38,803 - root: Iteration 14/19 took 1.0827054977416992 for 80 clusters (best_inertia = 3987.32)
+2022-07-06 18:04:39,908 - root: Iteration 15/19 took 1.1048789024353027 for 85 clusters (best_inertia = 3885.05)
+2022-07-06 18:04:41,004 - root: Iteration 16/19 took 1.0958819389343262 for 90 clusters (best_inertia = 3666.01)
+2022-07-06 18:04:42,165 - root: Iteration 17/19 took 1.1603097915649414 for 95 clusters (best_inertia = 3559.79)
+2022-07-06 18:04:43,377 - root: Iteration 18/19 took 1.211794376373291 for 100 clusters (best_inertia = 3432.52)
+2022-07-06 18:04:43,380 - root: Found optimal number of clusters of 45
+2022-07-06 18:04:43,588 - root: Daily sampler for cluster 34 fit in -19.036935329437256
+2022-07-06 18:04:43,830 - root: scattering training data ( 476.65 MB) and sampler ( 17.60 MB)
+2022-07-06 18:06:10,080 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-07-06 18:06:10,081 - asyncssh: [conn=4] Closing connection
+2022-07-06 18:06:10,081 - asyncssh: [conn=4, chan=1] Closing channel
+2022-07-06 18:06:10,082 - asyncssh: [conn=4] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,083 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-07-06 18:06:10,084 - asyncssh: [conn=10] Closing connection
+2022-07-06 18:06:10,084 - asyncssh: [conn=10, chan=1] Closing channel
+2022-07-06 18:06:10,085 - asyncssh: [conn=10] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,086 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-07-06 18:06:10,087 - asyncssh: [conn=9] Closing connection
+2022-07-06 18:06:10,088 - asyncssh: [conn=9, chan=1] Closing channel
+2022-07-06 18:06:10,088 - asyncssh: [conn=9] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,089 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-07-06 18:06:10,090 - asyncssh: [conn=8] Closing connection
+2022-07-06 18:06:10,090 - asyncssh: [conn=8, chan=1] Closing channel
+2022-07-06 18:06:10,090 - asyncssh: [conn=8] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,091 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-07-06 18:06:10,091 - asyncssh: [conn=5] Closing connection
+2022-07-06 18:06:10,091 - asyncssh: [conn=5, chan=1] Closing channel
+2022-07-06 18:06:10,092 - asyncssh: [conn=5] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,092 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-07-06 18:06:10,092 - asyncssh: [conn=2] Closing connection
+2022-07-06 18:06:10,092 - asyncssh: [conn=2, chan=1] Closing channel
+2022-07-06 18:06:10,093 - asyncssh: [conn=2] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,093 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-07-06 18:06:10,094 - asyncssh: [conn=3] Closing connection
+2022-07-06 18:06:10,094 - asyncssh: [conn=3, chan=1] Closing channel
+2022-07-06 18:06:10,094 - asyncssh: [conn=3] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,094 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-07-06 18:06:10,095 - asyncssh: [conn=7] Closing connection
+2022-07-06 18:06:10,095 - asyncssh: [conn=7, chan=1] Closing channel
+2022-07-06 18:06:10,103 - asyncssh: [conn=7] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,104 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-07-06 18:06:10,104 - asyncssh: [conn=1] Closing connection
+2022-07-06 18:06:10,105 - asyncssh: [conn=1, chan=1] Closing channel
+2022-07-06 18:06:10,105 - asyncssh: [conn=1] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,106 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-07-06 18:06:10,106 - asyncssh: [conn=6] Closing connection
+2022-07-06 18:06:10,106 - asyncssh: [conn=6, chan=1] Closing channel
+2022-07-06 18:06:10,107 - asyncssh: [conn=6] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:10,107 - asyncssh: [conn=4] Connection closed
+2022-07-06 18:06:10,107 - asyncssh: [conn=4, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,107 - asyncssh: [conn=4, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=10] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=10, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=10, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=9] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=9, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=9, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=8] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=8, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=8, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=5] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=5, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=5, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=2] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=2, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=2, chan=1] Channel closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=3] Connection closed
+2022-07-06 18:06:10,108 - asyncssh: [conn=3, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,108 - asyncssh: [conn=3, chan=1] Channel closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=7] Connection closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=7, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,109 - asyncssh: [conn=7, chan=1] Channel closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=1] Connection closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=1, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,109 - asyncssh: [conn=1, chan=1] Channel closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=6] Connection closed
+2022-07-06 18:06:10,109 - asyncssh: [conn=6, chan=1] Closing channel due to connection close
+2022-07-06 18:06:10,109 - asyncssh: [conn=6, chan=1] Channel closed
+2022-07-06 18:06:10,112 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-07-06 18:06:10,112 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-07-06 18:06:11,150 - asyncssh: [conn=0, chan=1] Sending KILL signal
+2022-07-06 18:06:11,151 - asyncssh: [conn=0] Closing connection
+2022-07-06 18:06:11,151 - asyncssh: [conn=0, chan=1] Closing channel
+2022-07-06 18:06:11,152 - asyncssh: [conn=0] Sending disconnect: Disconnected by application (11)
+2022-07-06 18:06:11,154 - asyncssh: [conn=0] Connection closed
+2022-07-06 18:06:11,154 - asyncssh: [conn=0, chan=1] Closing channel due to connection close
+2022-07-06 18:06:11,154 - asyncssh: [conn=0, chan=1] Channel closed
+2022-07-06 18:08:32,447 - asyncssh: [conn=0, chan=1] Sending KILL signal

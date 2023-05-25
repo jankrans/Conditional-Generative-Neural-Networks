@@ -1,0 +1,219 @@
+2022-08-07 16:02:19,442 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f31fbe1ae60>
+2022-08-07 16:05:58,392 - root: Fitting yearly sampler took 218.94979572296143
+2022-08-07 16:05:58,394 - root: Fitting the daily samplers
+2022-08-07 16:05:58,395 - root: Fitting daily sampler for cluster 0 with 800 days.
+2022-08-07 16:05:58,660 - root: Daily sampler for cluster 0 fit in -0.2649414539337158
+2022-08-07 16:05:58,774 - root: scattering training data ( 570.50 MB) and sampler ( 53.54 MB)
+2022-08-07 16:06:39,073 - root: Setting-up all the tasks
+2022-08-07 16:06:39,408 - root: computing the tasks
+2022-08-07 16:09:41,021 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7f31fbe18d30>
+2022-08-07 16:09:41,022 - root: Starting fit in elbow method
+2022-08-07 16:09:41,022 - root: Calculating distance matrix
+2022-08-07 16:13:20,333 - root: 4.88 used in distance matrix
+2022-08-07 16:13:20,376 - root: Iteration 0/19 took 0.042809247970581055 for 10 clusters (best_inertia = 62.58)
+2022-08-07 16:13:20,434 - root: Iteration 1/19 took 0.05759024620056152 for 15 clusters (best_inertia = 49.42)
+2022-08-07 16:13:20,479 - root: Iteration 2/19 took 0.044858455657958984 for 20 clusters (best_inertia = 41.39)
+2022-08-07 16:13:20,525 - root: Iteration 3/19 took 0.04659318923950195 for 25 clusters (best_inertia = 36.24)
+2022-08-07 16:13:20,570 - root: Iteration 4/19 took 0.044844865798950195 for 30 clusters (best_inertia = 31.86)
+2022-08-07 16:13:20,614 - root: Iteration 5/19 took 0.04354095458984375 for 35 clusters (best_inertia = 28.76)
+2022-08-07 16:13:20,665 - root: Iteration 6/19 took 0.051254987716674805 for 40 clusters (best_inertia = 29.75)
+2022-08-07 16:13:20,716 - root: Iteration 7/19 took 0.05063676834106445 for 45 clusters (best_inertia = 33.40)
+2022-08-07 16:13:20,768 - root: Iteration 8/19 took 0.051653146743774414 for 50 clusters (best_inertia = 23.17)
+2022-08-07 16:13:20,807 - root: Iteration 9/19 took 0.039525747299194336 for 55 clusters (best_inertia = 21.80)
+2022-08-07 16:13:20,855 - root: Iteration 10/19 took 0.04744672775268555 for 60 clusters (best_inertia = 20.53)
+2022-08-07 16:13:20,888 - root: Iteration 11/19 took 0.03362536430358887 for 65 clusters (best_inertia = 19.50)
+2022-08-07 16:13:20,914 - root: Iteration 12/19 took 0.025548934936523438 for 70 clusters (best_inertia = 20.17)
+2022-08-07 16:13:20,941 - root: Iteration 13/19 took 0.026868104934692383 for 75 clusters (best_inertia = 17.83)
+2022-08-07 16:13:20,968 - root: Iteration 14/19 took 0.027071714401245117 for 80 clusters (best_inertia = 17.16)
+2022-08-07 16:13:20,996 - root: Iteration 15/19 took 0.027925729751586914 for 85 clusters (best_inertia = 16.54)
+2022-08-07 16:13:21,025 - root: Iteration 16/19 took 0.028905868530273438 for 90 clusters (best_inertia = 15.98)
+2022-08-07 16:13:21,054 - root: Iteration 17/19 took 0.028769969940185547 for 95 clusters (best_inertia = 18.30)
+2022-08-07 16:13:21,090 - root: Iteration 18/19 took 0.035651445388793945 for 100 clusters (best_inertia = 14.97)
+2022-08-07 16:13:21,091 - root: Found optimal number of clusters of 35
+2022-08-07 16:13:21,240 - root: Fitting yearly sampler took 220.21870112419128
+2022-08-07 16:13:21,242 - root: Fitting the daily samplers
+2022-08-07 16:13:21,242 - root: Fitting daily sampler for cluster 0 with 5 days.
+2022-08-07 16:13:22,526 - root: Daily sampler for cluster 0 fit in -1.2839314937591553
+2022-08-07 16:13:22,527 - root: Fitting daily sampler for cluster 1 with 3 days.
+2022-08-07 16:13:23,571 - root: Daily sampler for cluster 1 fit in -1.044288158416748
+2022-08-07 16:13:23,571 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-08-07 16:13:24,365 - root: Daily sampler for cluster 2 fit in -0.7933595180511475
+2022-08-07 16:13:24,365 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-08-07 16:13:25,104 - root: Daily sampler for cluster 3 fit in -0.739112377166748
+2022-08-07 16:13:25,104 - root: Fitting daily sampler for cluster 4 with 540 days.
+2022-08-07 16:13:29,212 - root: Daily sampler for cluster 4 fit in -4.107887506484985
+2022-08-07 16:13:29,213 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-08-07 16:13:30,041 - root: Daily sampler for cluster 5 fit in -0.8288183212280273
+2022-08-07 16:13:30,042 - root: Fitting daily sampler for cluster 6 with 11 days.
+2022-08-07 16:13:31,437 - root: Daily sampler for cluster 6 fit in -1.3956329822540283
+2022-08-07 16:13:31,437 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-08-07 16:13:32,238 - root: Daily sampler for cluster 7 fit in -0.800426721572876
+2022-08-07 16:13:32,238 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-08-07 16:13:32,996 - root: Daily sampler for cluster 8 fit in -0.7573540210723877
+2022-08-07 16:13:32,996 - root: Fitting daily sampler for cluster 9 with 34 days.
+2022-08-07 16:13:34,612 - root: Daily sampler for cluster 9 fit in -1.6157102584838867
+2022-08-07 16:13:34,612 - root: Fitting daily sampler for cluster 10 with 1 days.
+2022-08-07 16:13:35,409 - root: Daily sampler for cluster 10 fit in -0.7972593307495117
+2022-08-07 16:13:35,409 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-08-07 16:13:36,291 - root: Daily sampler for cluster 11 fit in -0.8817505836486816
+2022-08-07 16:13:36,291 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-08-07 16:13:37,120 - root: Daily sampler for cluster 12 fit in -0.8283765316009521
+2022-08-07 16:13:37,120 - root: Fitting daily sampler for cluster 13 with 1 days.
+2022-08-07 16:13:37,895 - root: Daily sampler for cluster 13 fit in -0.7746851444244385
+2022-08-07 16:13:37,895 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-08-07 16:13:38,676 - root: Daily sampler for cluster 14 fit in -0.7808189392089844
+2022-08-07 16:13:38,676 - root: Fitting daily sampler for cluster 15 with 1 days.
+2022-08-07 16:13:39,488 - root: Daily sampler for cluster 15 fit in -0.8118536472320557
+2022-08-07 16:13:39,488 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-08-07 16:13:40,247 - root: Daily sampler for cluster 16 fit in -0.7580599784851074
+2022-08-07 16:13:40,247 - root: Fitting daily sampler for cluster 17 with 136 days.
+2022-08-07 16:13:42,332 - root: Daily sampler for cluster 17 fit in -2.0854439735412598
+2022-08-07 16:13:42,333 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-08-07 16:13:43,189 - root: Daily sampler for cluster 18 fit in -0.855849027633667
+2022-08-07 16:13:43,189 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-08-07 16:13:44,005 - root: Daily sampler for cluster 19 fit in -0.8159441947937012
+2022-08-07 16:13:44,005 - root: Fitting daily sampler for cluster 20 with 41 days.
+2022-08-07 16:13:45,639 - root: Daily sampler for cluster 20 fit in -1.6343004703521729
+2022-08-07 16:13:45,640 - root: Fitting daily sampler for cluster 21 with 1 days.
+2022-08-07 16:13:46,433 - root: Daily sampler for cluster 21 fit in -0.7933478355407715
+2022-08-07 16:13:46,433 - root: Fitting daily sampler for cluster 22 with 1 days.
+2022-08-07 16:13:47,162 - root: Daily sampler for cluster 22 fit in -0.7290270328521729
+2022-08-07 16:13:47,162 - root: Fitting daily sampler for cluster 23 with 1 days.
+2022-08-07 16:13:47,962 - root: Daily sampler for cluster 23 fit in -0.7997183799743652
+2022-08-07 16:13:47,963 - root: Fitting daily sampler for cluster 24 with 1 days.
+2022-08-07 16:13:48,770 - root: Daily sampler for cluster 24 fit in -0.8072986602783203
+2022-08-07 16:13:48,770 - root: Fitting daily sampler for cluster 25 with 1 days.
+2022-08-07 16:13:49,585 - root: Daily sampler for cluster 25 fit in -0.8147573471069336
+2022-08-07 16:13:49,585 - root: Fitting daily sampler for cluster 26 with 1 days.
+2022-08-07 16:13:50,413 - root: Daily sampler for cluster 26 fit in -0.8275356292724609
+2022-08-07 16:13:50,413 - root: Fitting daily sampler for cluster 27 with 1 days.
+2022-08-07 16:13:51,199 - root: Daily sampler for cluster 27 fit in -0.7859575748443604
+2022-08-07 16:13:51,199 - root: Fitting daily sampler for cluster 28 with 1 days.
+2022-08-07 16:13:52,037 - root: Daily sampler for cluster 28 fit in -0.8377790451049805
+2022-08-07 16:13:52,037 - root: Fitting daily sampler for cluster 29 with 1 days.
+2022-08-07 16:13:52,810 - root: Daily sampler for cluster 29 fit in -0.7728841304779053
+2022-08-07 16:13:52,810 - root: Fitting daily sampler for cluster 30 with 1 days.
+2022-08-07 16:13:53,621 - root: Daily sampler for cluster 30 fit in -0.8105149269104004
+2022-08-07 16:13:53,621 - root: Fitting daily sampler for cluster 31 with 1 days.
+2022-08-07 16:13:54,437 - root: Daily sampler for cluster 31 fit in -0.816028356552124
+2022-08-07 16:13:54,438 - root: Fitting daily sampler for cluster 32 with 2 days.
+2022-08-07 16:13:55,278 - root: Daily sampler for cluster 32 fit in -0.8405754566192627
+2022-08-07 16:13:55,278 - root: Fitting daily sampler for cluster 33 with 1 days.
+2022-08-07 16:13:56,089 - root: Daily sampler for cluster 33 fit in -0.810546875
+2022-08-07 16:13:56,089 - root: Fitting daily sampler for cluster 34 with 2 days.
+2022-08-07 16:13:56,901 - root: Daily sampler for cluster 34 fit in -0.8111324310302734
+2022-08-07 16:13:57,200 - root: scattering training data ( 570.50 MB) and sampler ( 16.02 MB)
+2022-08-07 16:14:19,624 - root: Setting-up all the tasks
+2022-08-07 16:14:20,064 - root: computing the tasks
+2022-08-07 16:18:51,293 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-08-07 16:18:51,294 - asyncssh: [conn=8] Closing connection
+2022-08-07 16:18:51,294 - asyncssh: [conn=8, chan=1] Closing channel
+2022-08-07 16:18:51,295 - asyncssh: [conn=8] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,296 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-08-07 16:18:51,297 - asyncssh: [conn=10] Closing connection
+2022-08-07 16:18:51,297 - asyncssh: [conn=10, chan=1] Closing channel
+2022-08-07 16:18:51,298 - asyncssh: [conn=10] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,298 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-08-07 16:18:51,299 - asyncssh: [conn=7] Closing connection
+2022-08-07 16:18:51,299 - asyncssh: [conn=7, chan=1] Closing channel
+2022-08-07 16:18:51,299 - asyncssh: [conn=7] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,300 - asyncssh: [conn=13, chan=1] Sending KILL signal
+2022-08-07 16:18:51,300 - asyncssh: [conn=13] Closing connection
+2022-08-07 16:18:51,300 - asyncssh: [conn=13, chan=1] Closing channel
+2022-08-07 16:18:51,300 - asyncssh: [conn=13] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,301 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-08-07 16:18:51,301 - asyncssh: [conn=6] Closing connection
+2022-08-07 16:18:51,301 - asyncssh: [conn=6, chan=1] Closing channel
+2022-08-07 16:18:51,302 - asyncssh: [conn=6] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,302 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-08-07 16:18:51,303 - asyncssh: [conn=9] Closing connection
+2022-08-07 16:18:51,303 - asyncssh: [conn=9, chan=1] Closing channel
+2022-08-07 16:18:51,303 - asyncssh: [conn=9] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,303 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-08-07 16:18:51,304 - asyncssh: [conn=5] Closing connection
+2022-08-07 16:18:51,304 - asyncssh: [conn=5, chan=1] Closing channel
+2022-08-07 16:18:51,304 - asyncssh: [conn=5] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,305 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-08-07 16:18:51,305 - asyncssh: [conn=4] Closing connection
+2022-08-07 16:18:51,305 - asyncssh: [conn=4, chan=1] Closing channel
+2022-08-07 16:18:51,306 - asyncssh: [conn=4] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,306 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-08-07 16:18:51,306 - asyncssh: [conn=1] Closing connection
+2022-08-07 16:18:51,307 - asyncssh: [conn=1, chan=1] Closing channel
+2022-08-07 16:18:51,307 - asyncssh: [conn=1] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,307 - asyncssh: [conn=11, chan=1] Sending KILL signal
+2022-08-07 16:18:51,308 - asyncssh: [conn=11] Closing connection
+2022-08-07 16:18:51,308 - asyncssh: [conn=11, chan=1] Closing channel
+2022-08-07 16:18:51,308 - asyncssh: [conn=11] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,308 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-08-07 16:18:51,309 - asyncssh: [conn=2] Closing connection
+2022-08-07 16:18:51,309 - asyncssh: [conn=2, chan=1] Closing channel
+2022-08-07 16:18:51,311 - asyncssh: [conn=2] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,312 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-08-07 16:18:51,313 - asyncssh: [conn=3] Closing connection
+2022-08-07 16:18:51,313 - asyncssh: [conn=3, chan=1] Closing channel
+2022-08-07 16:18:51,313 - asyncssh: [conn=3] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,314 - asyncssh: [conn=12, chan=1] Sending KILL signal
+2022-08-07 16:18:51,314 - asyncssh: [conn=12] Closing connection
+2022-08-07 16:18:51,314 - asyncssh: [conn=12, chan=1] Closing channel
+2022-08-07 16:18:51,314 - asyncssh: [conn=12] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:51,315 - asyncssh: [conn=8] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=8, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=8, chan=1] Channel closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=10] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=10, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=10, chan=1] Channel closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=7] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=7, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=7, chan=1] Channel closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=13] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=13, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=13, chan=1] Channel closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=6] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=6, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=6, chan=1] Channel closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=9] Connection closed
+2022-08-07 16:18:51,315 - asyncssh: [conn=9, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,315 - asyncssh: [conn=9, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=5] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=5, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=5, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=4] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=4, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=4, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=1] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=1, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=1, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=11] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=11, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=11, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=2] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=2, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=2, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=3] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=3, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=3, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=12] Connection closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=12, chan=1] Closing channel due to connection close
+2022-08-07 16:18:51,316 - asyncssh: [conn=12, chan=1] Channel closed
+2022-08-07 16:18:51,316 - asyncssh: [conn=8, chan=1] Sending KILL signal
+2022-08-07 16:18:51,316 - asyncssh: [conn=10, chan=1] Sending KILL signal
+2022-08-07 16:18:51,316 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-08-07 16:18:51,316 - asyncssh: [conn=13, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=9, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=11, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-08-07 16:18:51,317 - asyncssh: [conn=12, chan=1] Sending KILL signal
+2022-08-07 16:18:52,349 - asyncssh: [conn=0, chan=1] Sending KILL signal
+2022-08-07 16:18:52,350 - asyncssh: [conn=0] Closing connection
+2022-08-07 16:18:52,351 - asyncssh: [conn=0, chan=1] Closing channel
+2022-08-07 16:18:52,351 - asyncssh: [conn=0] Sending disconnect: Disconnected by application (11)
+2022-08-07 16:18:52,353 - asyncssh: [conn=0] Connection closed
+2022-08-07 16:18:52,353 - asyncssh: [conn=0, chan=1] Closing channel due to connection close
+2022-08-07 16:18:52,353 - asyncssh: [conn=0, chan=1] Channel closed
+2022-08-08 09:26:51,153 - asyncssh: [conn=0, chan=1] Sending KILL signal

@@ -1,0 +1,99 @@
+2022-11-03 17:07:29,008 - asyncio: Using selector: EpollSelector
+2022-11-03 17:07:32,102 - root: scattering training data ( 115.26 MB) 
+2022-11-03 17:07:32,786 - root: scattering sampler ( 115.26 MB)
+2022-11-03 17:07:37,012 - root: Setting-up all the tasks
+2022-11-03 17:07:38,652 - root: computing the tasks
+2022-11-03 17:08:59,083 - root: Fitting yearly sampler <energyclustering.sampling.samplers.MetadataSampler object at 0x7fc6d68a6dd0>
+2022-11-03 17:08:59,457 - root: Fitting yearly sampler took 0.37352681159973145
+2022-11-03 17:08:59,457 - root: Fitting the daily samplers
+2022-11-03 17:08:59,505 - root: Fitting daily sampler for cluster 0 with 51 days.
+2022-11-03 17:08:59,512 - root: Daily sampler for cluster 0 fit in -0.0068972110748291016
+2022-11-03 17:08:59,530 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-11-03 17:08:59,535 - root: Daily sampler for cluster 1 fit in -0.0049114227294921875
+2022-11-03 17:08:59,555 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-11-03 17:08:59,559 - root: Daily sampler for cluster 2 fit in -0.004107952117919922
+2022-11-03 17:08:59,584 - root: Fitting daily sampler for cluster 3 with 16 days.
+2022-11-03 17:08:59,589 - root: Daily sampler for cluster 3 fit in -0.004926919937133789
+2022-11-03 17:08:59,609 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-11-03 17:08:59,613 - root: Daily sampler for cluster 4 fit in -0.004182577133178711
+2022-11-03 17:08:59,631 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-11-03 17:08:59,635 - root: Daily sampler for cluster 5 fit in -0.004138469696044922
+2022-11-03 17:08:59,654 - root: Fitting daily sampler for cluster 6 with 4 days.
+2022-11-03 17:08:59,659 - root: Daily sampler for cluster 6 fit in -0.0044269561767578125
+2022-11-03 17:08:59,679 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-11-03 17:08:59,683 - root: Daily sampler for cluster 7 fit in -0.003922224044799805
+2022-11-03 17:08:59,705 - root: Fitting daily sampler for cluster 8 with 7 days.
+2022-11-03 17:08:59,710 - root: Daily sampler for cluster 8 fit in -0.004197359085083008
+2022-11-03 17:08:59,727 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-11-03 17:08:59,732 - root: Daily sampler for cluster 9 fit in -0.005173921585083008
+2022-11-03 17:08:59,760 - root: Fitting daily sampler for cluster 10 with 25 days.
+2022-11-03 17:08:59,766 - root: Daily sampler for cluster 10 fit in -0.005980014801025391
+2022-11-03 17:08:59,787 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-11-03 17:08:59,791 - root: Daily sampler for cluster 11 fit in -0.00391840934753418
+2022-11-03 17:08:59,811 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-11-03 17:08:59,817 - root: Daily sampler for cluster 12 fit in -0.005609035491943359
+2022-11-03 17:08:59,839 - root: Fitting daily sampler for cluster 13 with 7 days.
+2022-11-03 17:08:59,845 - root: Daily sampler for cluster 13 fit in -0.005136728286743164
+2022-11-03 17:08:59,862 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-11-03 17:08:59,867 - root: Daily sampler for cluster 14 fit in -0.003914594650268555
+2022-11-03 17:08:59,886 - root: Fitting daily sampler for cluster 15 with 6 days.
+2022-11-03 17:08:59,891 - root: Daily sampler for cluster 15 fit in -0.004710197448730469
+2022-11-03 17:08:59,911 - root: Fitting daily sampler for cluster 16 with 9 days.
+2022-11-03 17:08:59,916 - root: Daily sampler for cluster 16 fit in -0.004937648773193359
+2022-11-03 17:08:59,934 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-11-03 17:08:59,939 - root: Daily sampler for cluster 17 fit in -0.004113674163818359
+2022-11-03 17:08:59,959 - root: Fitting daily sampler for cluster 18 with 2 days.
+2022-11-03 17:08:59,967 - root: Daily sampler for cluster 18 fit in -0.007729053497314453
+2022-11-03 17:09:00,001 - root: Fitting daily sampler for cluster 19 with 23 days.
+2022-11-03 17:09:00,006 - root: Daily sampler for cluster 19 fit in -0.005394697189331055
+2022-11-03 17:09:00,095 - root: scattering training data ( 115.26 MB) 
+2022-11-03 17:09:00,984 - root: scattering sampler ( 23.71 MB)
+2022-11-03 17:09:01,698 - root: Setting-up all the tasks
+2022-11-03 17:09:02,566 - root: computing the tasks
+2022-11-03 17:11:02,815 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7fc6d682cc40>
+2022-11-03 17:11:10,787 - root: Fitting yearly sampler took 7.9716081619262695
+2022-11-03 17:11:10,787 - root: Fitting the daily samplers
+2022-11-03 17:11:10,812 - root: Fitting daily sampler for cluster 0 with 46 days.
+2022-11-03 17:11:17,493 - root: Daily sampler for cluster 0 fit in -6.680475234985352
+2022-11-03 17:11:17,504 - root: Fitting daily sampler for cluster 1 with 1 days.
+2022-11-03 17:11:18,437 - root: Daily sampler for cluster 1 fit in -0.9327700138092041
+2022-11-03 17:11:18,448 - root: Fitting daily sampler for cluster 2 with 1 days.
+2022-11-03 17:11:19,594 - root: Daily sampler for cluster 2 fit in -1.1464180946350098
+2022-11-03 17:11:19,614 - root: Fitting daily sampler for cluster 3 with 1 days.
+2022-11-03 17:11:20,685 - root: Daily sampler for cluster 3 fit in -1.0712659358978271
+2022-11-03 17:11:20,703 - root: Fitting daily sampler for cluster 4 with 1 days.
+2022-11-03 17:11:21,659 - root: Daily sampler for cluster 4 fit in -0.955193042755127
+2022-11-03 17:11:21,677 - root: Fitting daily sampler for cluster 5 with 1 days.
+2022-11-03 17:11:22,701 - root: Daily sampler for cluster 5 fit in -1.0235896110534668
+2022-11-03 17:11:22,722 - root: Fitting daily sampler for cluster 6 with 1 days.
+2022-11-03 17:11:23,819 - root: Daily sampler for cluster 6 fit in -1.0972216129302979
+2022-11-03 17:11:23,839 - root: Fitting daily sampler for cluster 7 with 1 days.
+2022-11-03 17:11:24,879 - root: Daily sampler for cluster 7 fit in -1.04001784324646
+2022-11-03 17:11:24,898 - root: Fitting daily sampler for cluster 8 with 1 days.
+2022-11-03 17:11:25,899 - root: Daily sampler for cluster 8 fit in -1.000387191772461
+2022-11-03 17:11:25,918 - root: Fitting daily sampler for cluster 9 with 1 days.
+2022-11-03 17:11:26,932 - root: Daily sampler for cluster 9 fit in -1.0133721828460693
+2022-11-03 17:11:26,947 - root: Fitting daily sampler for cluster 10 with 13 days.
+2022-11-03 17:11:30,915 - root: Daily sampler for cluster 10 fit in -3.9679243564605713
+2022-11-03 17:11:30,931 - root: Fitting daily sampler for cluster 11 with 1 days.
+2022-11-03 17:11:31,878 - root: Daily sampler for cluster 11 fit in -0.9465920925140381
+2022-11-03 17:11:31,898 - root: Fitting daily sampler for cluster 12 with 1 days.
+2022-11-03 17:11:32,890 - root: Daily sampler for cluster 12 fit in -0.9914207458496094
+2022-11-03 17:11:32,913 - root: Fitting daily sampler for cluster 13 with 2 days.
+2022-11-03 17:11:34,522 - root: Daily sampler for cluster 13 fit in -1.6084589958190918
+2022-11-03 17:11:34,544 - root: Fitting daily sampler for cluster 14 with 1 days.
+2022-11-03 17:11:35,631 - root: Daily sampler for cluster 14 fit in -1.086103916168213
+2022-11-03 17:11:35,688 - root: Fitting daily sampler for cluster 15 with 83 days.
+2022-11-03 17:11:46,184 - root: Daily sampler for cluster 15 fit in -10.495556116104126
+2022-11-03 17:11:46,197 - root: Fitting daily sampler for cluster 16 with 1 days.
+2022-11-03 17:11:46,950 - root: Daily sampler for cluster 16 fit in -0.7530875205993652
+2022-11-03 17:11:46,963 - root: Fitting daily sampler for cluster 17 with 1 days.
+2022-11-03 17:11:48,011 - root: Daily sampler for cluster 17 fit in -1.047778606414795
+2022-11-03 17:11:48,029 - root: Fitting daily sampler for cluster 18 with 1 days.
+2022-11-03 17:11:48,844 - root: Daily sampler for cluster 18 fit in -0.8145513534545898
+2022-11-03 17:11:48,855 - root: Fitting daily sampler for cluster 19 with 1 days.
+2022-11-03 17:11:49,810 - root: Daily sampler for cluster 19 fit in -0.9552505016326904
+2022-11-03 17:11:49,889 - root: scattering training data ( 115.26 MB) 
+2022-11-03 17:11:50,777 - root: scattering sampler ( 3.81 MB)
+2022-11-03 17:11:58,237 - root: Setting-up all the tasks
+2022-11-03 17:11:59,058 - root: computing the tasks

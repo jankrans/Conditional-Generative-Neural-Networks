@@ -1,0 +1,1 @@
+sshfs -o allow_other,IdentityFile=/home/jonas/.ssh/id_rsa jonass@himec07.cs.kuleuven.be:/cw/dtaiproj/ml/2020-FLAIR-VITO data

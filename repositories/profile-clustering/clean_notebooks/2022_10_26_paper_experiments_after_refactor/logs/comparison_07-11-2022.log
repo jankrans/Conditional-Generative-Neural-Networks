@@ -1,0 +1,67 @@
+2022-11-07 11:28:51,529 - root: Fitting yearly sampler <energyclustering.sampling.samplers.ConsumptionDataSampler object at 0x7efff50a8d00>
+2022-11-07 11:28:51,529 - root: Starting fit in elbow method
+2022-11-07 11:28:51,529 - root: Calculating distance matrix
+2022-11-07 11:29:01,925 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-11-07 11:29:01,927 - asyncssh: [conn=3] Closing connection
+2022-11-07 11:29:01,927 - asyncssh: [conn=3, chan=1] Closing channel
+2022-11-07 11:29:01,928 - asyncssh: [conn=3] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,929 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-11-07 11:29:01,930 - asyncssh: [conn=2] Closing connection
+2022-11-07 11:29:01,930 - asyncssh: [conn=2, chan=1] Closing channel
+2022-11-07 11:29:01,931 - asyncssh: [conn=2] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,932 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-11-07 11:29:01,933 - asyncssh: [conn=4] Closing connection
+2022-11-07 11:29:01,933 - asyncssh: [conn=4, chan=1] Closing channel
+2022-11-07 11:29:01,934 - asyncssh: [conn=4] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,935 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-11-07 11:29:01,936 - asyncssh: [conn=5] Closing connection
+2022-11-07 11:29:01,936 - asyncssh: [conn=5, chan=1] Closing channel
+2022-11-07 11:29:01,937 - asyncssh: [conn=5] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,938 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-11-07 11:29:01,939 - asyncssh: [conn=6] Closing connection
+2022-11-07 11:29:01,939 - asyncssh: [conn=6, chan=1] Closing channel
+2022-11-07 11:29:01,940 - asyncssh: [conn=6] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,941 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-11-07 11:29:01,942 - asyncssh: [conn=7] Closing connection
+2022-11-07 11:29:01,942 - asyncssh: [conn=7, chan=1] Closing channel
+2022-11-07 11:29:01,943 - asyncssh: [conn=7] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,944 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-11-07 11:29:01,945 - asyncssh: [conn=1] Closing connection
+2022-11-07 11:29:01,945 - asyncssh: [conn=1, chan=1] Closing channel
+2022-11-07 11:29:01,946 - asyncssh: [conn=1] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,947 - asyncssh: [conn=3] Connection closed
+2022-11-07 11:29:01,947 - asyncssh: [conn=3, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,948 - asyncssh: [conn=3, chan=1] Channel closed
+2022-11-07 11:29:01,948 - asyncssh: [conn=2] Connection closed
+2022-11-07 11:29:01,948 - asyncssh: [conn=2, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,948 - asyncssh: [conn=2, chan=1] Channel closed
+2022-11-07 11:29:01,948 - asyncssh: [conn=4] Connection closed
+2022-11-07 11:29:01,948 - asyncssh: [conn=4, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,948 - asyncssh: [conn=4, chan=1] Channel closed
+2022-11-07 11:29:01,949 - asyncssh: [conn=5] Connection closed
+2022-11-07 11:29:01,949 - asyncssh: [conn=5, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,949 - asyncssh: [conn=5, chan=1] Channel closed
+2022-11-07 11:29:01,949 - asyncssh: [conn=6] Connection closed
+2022-11-07 11:29:01,949 - asyncssh: [conn=6, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,949 - asyncssh: [conn=6, chan=1] Channel closed
+2022-11-07 11:29:01,949 - asyncssh: [conn=7] Connection closed
+2022-11-07 11:29:01,950 - asyncssh: [conn=7, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,950 - asyncssh: [conn=7, chan=1] Channel closed
+2022-11-07 11:29:01,950 - asyncssh: [conn=1] Connection closed
+2022-11-07 11:29:01,950 - asyncssh: [conn=1, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,950 - asyncssh: [conn=1, chan=1] Channel closed
+2022-11-07 11:29:01,957 - asyncssh: [conn=3, chan=1] Sending KILL signal
+2022-11-07 11:29:01,957 - asyncssh: [conn=2, chan=1] Sending KILL signal
+2022-11-07 11:29:01,957 - asyncssh: [conn=4, chan=1] Sending KILL signal
+2022-11-07 11:29:01,957 - asyncssh: [conn=5, chan=1] Sending KILL signal
+2022-11-07 11:29:01,957 - asyncssh: [conn=6, chan=1] Sending KILL signal
+2022-11-07 11:29:01,958 - asyncssh: [conn=7, chan=1] Sending KILL signal
+2022-11-07 11:29:01,958 - asyncssh: [conn=1, chan=1] Sending KILL signal
+2022-11-07 11:29:01,960 - asyncssh: [conn=0, chan=1] Sending KILL signal
+2022-11-07 11:29:01,961 - asyncssh: [conn=0] Closing connection
+2022-11-07 11:29:01,961 - asyncssh: [conn=0, chan=1] Closing channel
+2022-11-07 11:29:01,962 - asyncssh: [conn=0] Sending disconnect: Disconnected by application (11)
+2022-11-07 11:29:01,963 - asyncssh: [conn=0] Connection closed
+2022-11-07 11:29:01,963 - asyncssh: [conn=0, chan=1] Closing channel due to connection close
+2022-11-07 11:29:01,963 - asyncssh: [conn=0, chan=1] Channel closed
+2022-11-07 11:29:09,556 - asyncssh: [conn=0, chan=1] Sending KILL signal
